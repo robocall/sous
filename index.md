@@ -4,13 +4,15 @@ This is a guide to training yourself to visually recognize when you're on camera
 
 ## Tips for visually spotting surveillance cameras
 
-Before you start, read the [EFF guide to surveillance cameras](https://www.eff.org/pages/surveillance-cameras) and James Bridle's experience [photographing surveillance cameras in London](https://www.nytimes.com/2018/08/13/lens/surveillance-camera-photography.html). Be careful.
+Before you start, read the [EFF guide to surveillance cameras](https://www.eff.org/pages/surveillance-cameras), Ingrid Burrington's section on NYC cameras in this [infrastructure guide](http://seeingnetworks.in/nyc/), and James Bridle's experience [photographing surveillance cameras in London](https://www.nytimes.com/2018/08/13/lens/surveillance-camera-photography.html). Be careful, and be aware of the law enforcement norms where you live.
+
+In short, the main kinds of cameras are dome cameras, bullet cameras, traffic cameras, and pan-tilt-zoom cameras.
 
 Cameras are often spotted on poles, ledges, overhangs, rooftops. They are often spotted watching parking lots, doors, banks, intersections, and government buildings. Indoors, they are typically spotted on roofs and near cash registers. They are typically positioned right above human height or very far above it. The box that is often seen near a camera is an infrared light for night vision. 
 
 Often several cameras clump together, so if you see one, look for more.
 
-Be aware of local kinds of cameras, for example in New York, and of new kinds of cameras. One new kind of camera is the Amazon Ring.
+Be aware of local kinds of cameras, for example in New York, and of new kinds of cameras, such as the Amazon Ring and the LinkNYC booths.
 
 Several cities have maps of camera locations, but they may be outdated.
 
