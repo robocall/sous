@@ -33,7 +33,7 @@ In short, the main kinds of cameras are dome cameras, bullet cameras, traffic ca
 
 Cameras are often spotted on poles, ledges, overhangs, rooftops. They are often spotted watching parking lots, doors, banks, intersections, and government buildings. Indoors, they are typically spotted on roofs and near cash registers. They are typically positioned right above human height or very far above it. The box that is often seen near a camera is an infrared light for night vision. 
 
-![](media/camera-locs.png | width=400)
+![](media/camera-locs.png)
 
 _Red = more likely to see cameras_
 
