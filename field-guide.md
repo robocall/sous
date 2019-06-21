@@ -45,6 +45,8 @@ Be aware that sometimes a camera is positioned as a deterrent, and does not actu
 
 # What can a camera see?
 
+A camera's field of view depends on its angle and the focal length of the camera lens, unless it's a pan-tilt-zoom camera.
+
 Check out these primers on the field of view of a CCTV camera:
 
 ![](https://www.lorextechnology.com/images/articles/support/FoV_comparison_60-2.png)
@@ -81,6 +83,7 @@ There are two parts to be aware of: the dataset itself (i.e. the pile of images)
 
 First, we want the dataset to mirror how the model will be deployed in real life. So, we would recommend taking images that are as diverse as possible:
 
+* indoor and outdoor
 * from a variety of angles (left to right, top to bottom)
 * in many different lighting conditions (morning, afternoon, evening)
 * from different distances (close, middle distance, and far away are all helpful--note that if a camera is very close, people are likely to be able to recognize it without the help of an ML model)
