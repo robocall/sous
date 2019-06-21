@@ -1,7 +1,6 @@
 <!-- TODO:
 
 images
-- camera hotspots
 - practice images
 - bbox examples (good images)
 
@@ -23,8 +22,8 @@ Our goal is to train a machine learning model to recognize surveillance cameras 
 
 Before you start, we recommend reading the following resources:
 
-* The [EFF guide to surveillance cameras](https://www.eff.org/pages/surveillance-cameras)
-* This [ACLU WA primer](https://theyarewatching.org/technology/video-surveillance-systems) on surveillance cameras
+* The [EFF guide](https://www.eff.org/pages/surveillance-cameras) to surveillance cameras
+* The [ACLU WA primer](https://theyarewatching.org/technology/video-surveillance-systems) on surveillance cameras
 * Ingrid Burrington's section on NYC camera systems in this [infrastructure guide](http://seeingnetworks.in/nyc/)
 * James Bridle's experience [photographing surveillance cameras in London](https://www.nytimes.com/2018/08/13/lens/surveillance-camera-photography.html). 
 
@@ -34,7 +33,7 @@ In short, the main kinds of cameras are dome cameras, bullet cameras, traffic ca
 
 Cameras are often spotted on poles, ledges, overhangs, rooftops. They are often spotted watching parking lots, doors, banks, intersections, and government buildings. Indoors, they are typically spotted on roofs and near cash registers. They are typically positioned right above human height or very far above it. The box that is often seen near a camera is an infrared light for night vision. 
 
-<img src="media/camera-locs.png" width=400></img>
+![](media/camera-locs.png | width=400)
 
 _Red = more likely to see cameras_
 
