@@ -1,5 +1,4 @@
 <!-- TODO:
-camera FOV
 map links
 practice image rollover
  -->
@@ -93,7 +92,6 @@ First, we want the dataset to mirror how the model will be deployed in real life
 Second, please label your images consistently. For our model we only include the "head" of the camera, not the "body," and draw the box as tightly as possible. We also only have one class for all kinds of cameras, which is just called "surveillance-camera" (later we might make more classes). Also, be sure to label *all* cameras in an image if there are multiple!
 
 ![](media/bbox1.png)
-![](media/bbox2.png)
 ![](media/bbox3.png)
 ![](media/bbox4.png)
 
