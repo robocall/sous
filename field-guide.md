@@ -69,7 +69,7 @@ Practice spotting the cameras in the below images:
 
 ## Ways to detect cameras on the network
 
-NOTE: Do not employ any of these methods if they are illegal where you live. Also, needless to say, use these methods to protect yourself, not to surveil others.
+NOTE: Do not employ any of these methods if they are illegal where you live. Also, needless to say, use these methods to protect yourself and to keep institutional systems accountable, not to surveil other individuals.
 
 For indoor hidden cameras, try using a [radio frequency signal detector](https://www.techlicious.com/tip/the-secrets-to-finding-hidden-cameras/).
 
