@@ -38,13 +38,23 @@ Often several cameras clump together, so if you see one, look for more.
 
 Be aware of local kinds of cameras, for example in New York, and of new kinds of cameras, such as the Amazon Ring and the LinkNYC booths.
 
-Check if the city you live in has an existing map of surveillance cameras. Several cities (like New York) have maps of camera locations, but they may be outdated or partial.
+Check if the city you live in has an existing map of surveillance cameras. Several cities (like New York) have [maps of camera locations](https://www.nyclu.org/en/nyclu-surveillance-camera-project), but they may be outdated or partial.
 
 When spotting cameras, privilege institutional surveillance (e.g. police, government, and commercial systems) over citizen surveillance (e.g. don't photograph people's houses or living rooms!)--although the line between the two is becoming increasingly blurred.
 
 Be aware that sometimes a camera is positioned as a deterrent, and does not actually work! Also, even if a camera works, no one may be watching.
 
-TODO: discuss camera positioning and field of view
+# What can a camera see?
+
+Check out these primers on the field of view of a CCTV camera:
+
+![](https://www.lorextechnology.com/images/articles/support/FoV_comparison_60-2.png)
+
+* [Diagrams](https://www.lorextechnology.com/self-serve/guide-to-field-of-view-lens-types/R-sc2900041)
+* [Visual examples](https://www.securitycamera2000.com/tools/comparethefieldofviewfordifferentsecuritycameralenses)
+* [Lens field of view calculator](https://www.supercircuits.com/fov-calculator)
+
+Try it yourself: experiment with [controlling these pan-tilt-zoom cameras in Pittsburgh](https://www.tour.pitt.edu/webcams/cl_cam) from your browser.
 
 ## Where's Waldo?
 
