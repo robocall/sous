@@ -1,12 +1,7 @@
 <!-- TODO:
-
-images
-- practice images
-- bbox examples (good images)
-
-info
-- camera FOV
-- map links
+camera FOV
+map links
+practice image rollover
  -->
 
 # A field guide to spotting surveillance cameras
@@ -85,9 +80,12 @@ First, we want the dataset to mirror how the model will be deployed in real life
 * including occlusion (i.e. it's okay if part of the surveillance camera is blocked, since we want the model to be robust to that case when deployed)
 * if possible, capture as diverse a set of models of cameras as possible, and from different cities
 
-Second, please label your images consistently. For our model we only include the "head" of the camera, not the "body," and draw the box as tightly as possible. We also only have one class for all kinds of cameras, which is just called "surveillance-camera" (later we might make more classes).
+Second, please label your images consistently. For our model we only include the "head" of the camera, not the "body," and draw the box as tightly as possible. We also only have one class for all kinds of cameras, which is just called "surveillance-camera" (later we might make more classes). Also, be sure to label *all* cameras in an image if there are multiple!
 
-TODO: image of bbox here
+![](bbox1.png)
+![](bbox2.png)
+![](bbox3.png)
+![](bbox4.png)
 
 You can use software like [vott](https://github.com/microsoft/VoTT) to label your cameras with bounding boxes, and export the annotations as JSON or Pascal VOC (either format is fine).
 
