@@ -11,6 +11,8 @@ info
 
 # A field guide to spotting surveillance cameras
 
+Let's watch some watchers!
+
 This guide covers two skills:
 
 * how to develop an awareness of surveillance cameras in public space
@@ -49,9 +51,15 @@ Be aware that sometimes a camera is positioned as a deterrent, and does not actu
 
 TODO: discuss camera positioning and field of view
 
-## Practice
+## Where's Waldo?
 
-TODO: include practice images
+Practice spotting the cameras in the below images:
+
+![](example-1a.png)
+![](example-1b.png)
+
+![](example-2a.png)
+![](example-2b.png)
 
 ## Ways to detect cameras on the network
 
