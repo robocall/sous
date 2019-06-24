@@ -79,7 +79,7 @@ You can also run a portscan yourself using IP Scanner or Net Analyzer (from your
 
 ## Taking good images to use in a machine learning model
 
-There are two parts to be aware of: the dataset itself (i.e. the pile of images) and the labeling of the dataset.
+There are three parts to be aware of: the dataset itself (i.e. the pile of images), the labeling of the dataset, and any metadata that might be useful.
 
 First, we want the dataset to mirror how the model will be deployed in real life. So, we would recommend taking images that are as diverse as possible:
 
@@ -100,4 +100,6 @@ Second, please label your images consistently. For our model we only include the
 
 You can use software like [vott](https://github.com/microsoft/VoTT) to label your cameras with bounding boxes, and export the annotations as JSON or Pascal VOC (either format is fine).
 
-Please send us your images and labels at sousveillance@protonmail.com. Any questions and feedback are welcome as well. Feel free to forward this guide to anyone you think will find it useful. Thanks!
+Lastly, if you can, try to record metadata like camera locations (street intersections or latitude-longitude coordinates) so they can be used for other analysis (such as mapping) later.
+
+Please send us your images, along with any labels and metadata, at sousveillance@protonmail.com. Any questions and feedback are welcome as well. Feel free to forward this guide to anyone you think will find it useful. Thanks!
