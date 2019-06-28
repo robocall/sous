@@ -18,3 +18,4 @@ More advanced exercises:
 * [Analyze network traffic with Wireshark](http://www.soc.napier.ac.uk/~40001507/CSN11102/Lab5.pdf) or see what devices are connected with a network with the Network Analyzer app (note: do not do this if portscans are illegal where you live)
 * [Look at your browser cookies to see what information websites store about you](https://www.howtogeek.com/119458/htg-explains-whats-a-browser-cookie/): go to chrome://settings/siteData?search=cookies
 * Explore search engines for Internet-connected devices, such as [Shodan](https://www.shodan.io/) and [Insecam](https://www.insecam.org/)
+* Use [HTTPS Everywhere](https://www.eff.org/https-everywhere)
