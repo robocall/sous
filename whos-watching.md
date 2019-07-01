@@ -1,5 +1,9 @@
 # Who's watching you and how?
 
+_Applied Surveillance Capitalism 101_
+
+This page aims to provide a hands-on introduction to figuring out who's watching you, how they're doing it, and how they might be trying to influence or record your actions digitally.
+
 Here are things you can do to figure out who's watching:
 
 * Go through the [Ghostery introduction to online trackers](https://www.ghostery.com/) (and if you want, install Ghostery)
