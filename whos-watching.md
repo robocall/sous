@@ -6,7 +6,8 @@ This page aims to provide a hands-on introduction to figuring out who's watching
 
 Here are things you can do to figure out who's watching:
 
-* Go through the [Ghostery introduction to online trackers](https://www.ghostery.com/) (and if you want, install Ghostery)
+* Go through the [Ghostery introduction to online trackers](https://www.ghostery.com/) (and if you want, install Ghostery or the EFF's [Privacy Badger](https://www.eff.org/privacybadger))
+* To check how safe your browser is against online tracking, try the EFF's [Panopticlick](https://panopticlick.eff.org/)
 * [Go through the Google privacy checkup](https://myaccount.google.com/data-and-personalization)
 * [Go through the iPhone privacy checkup](https://www.fastcompany.com/90254589/use-these-9-critical-iphone-privacy-and-security-settings-right-now)
 * [Who does Google think you are? Check your Ads Preferences](https://mashable.com/2012/01/25/google-cookies/)
