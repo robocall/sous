@@ -15,9 +15,9 @@ Here are things you can do to spot surveillance in everyday life:
   * Look for [Skywave antennas](https://crosscut.com/2015/09/seattles-new-technology-tracks-how-we-drive)
 * Look for possible [gunshot detectors](https://theyarewatching.org/technology/gunshot-detector) in [Seattle](https://www.thestranger.com/slog/2016/06/02/24158530/mayor-council-and-police-try-again-with-shotspotter-gunshot-detection-system)
 * [Seattle Stingray tracking](https://www.wired.com/2017/06/researchers-use-rideshares-sniff-stingray-locations/)
-n* [Spot internet infrastructure](http://seeingnetworks.in/nyc/)
+* [Spot internet infrastructure](http://seeingnetworks.in/nyc/)
 * Look at live [CCTV IP camera feeds](https://www.insecam.org/en/bycity/Seattle/) in Seattle
-* Map of [wireless networks](https://wigle.net/) in Seattle (found via wardriving)
+* Look at map of [wireless networks](https://wigle.net/) in Seattle (found via wardriving)
 * Take a wifi data safari in Seattle: see Branger Briz's [introduction](https://brangerbriz.com/blog/exploring-our-surrounding-wifi-landscape), [technical writeup](https://brangerbriz.com/blog/notes-from-our-wifi-data-safari), and [code](https://github.com/brangerbriz/wifi-data-safari)
   * More on [wifi security vulnerabilities](https://reallifemag.com/silent-shout/), [disrupting them with noise](https://davidrueter.com/projects/2014-09-shenanigans.html)
   * [Analyze network traffic with Wireshark](http://www.soc.napier.ac.uk/~40001507/CSN11102/Lab5.pdf) or see what devices are connected with a network with the Network Analyzer app (note: do not do this if portscans are illegal where you live), [another tutorial](https://www.vice.com/en_us/article/jpgmxp/how-to-go-from-0-to-sniffing-packets-in-10-minutes), more on [probe+beacon requests](https://blog.samcater.com/capturing-beacons-and-probe-requests-of-public-wifi-access-points-the-why-how-and-stats/)
@@ -46,3 +46,5 @@ Here are some things you can do to prevent platforms and individuals from watchi
 * Explore search engines for Internet-connected devices, such as [Shodan](https://www.shodan.io/) and [Insecam](https://www.insecam.org/)
 * Use [HTTPS Everywhere](https://www.eff.org/https-everywhere) and/or a VPN
 * Be aware of [email spying ("read receipts" via tracking cookies)](https://www.theverge.com/2019/7/3/20681508/tracking-pixel-email-spying-superhuman-web-beacon-open-tracking-read-receipts-location) and block them
+
+<!-- TODO: ways to take social, legal, collective action? -->
