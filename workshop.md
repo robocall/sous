@@ -2,14 +2,14 @@
 
 ![](media/bbox3.png)
 
-This workshop is a hands-on introduction to identifying how you're being watched in daily life. The goal is to cut through paranoia and hype by demystifying how technologies like AI and networking work, then building practical skills in defending yourself against being watched. We will work together to understand what information our personal devices reveal about us, take a walk to identify surveillance infrastructure in the places around us, and build a community-driven AI to keep surveillance accountable.
+This workshop is a hands-on introduction to identifying how you're being watched in daily life. The goal is to cut through paranoia and hype by demystifying how technologies like AI and networking work, then building practical skills in defending yourself against being watched. We will work together to understand what information our personal devices reveal about us, take a walk to identify surveillance infrastructure in the places around us, and build a community-driven AI to identify surveillance cameras in images.
 
 The workshop would run 2-3 hours:
 
 * 15 mins: group discussion
 * 30 mins: background and introduction to large-scale AI-powered surveillance systems and how they encroach on civil liberties globally
 * 1 hour: community walk to spot and photograph surveillance cameras and other infrastructure in public space
-* 30 mins: collaborative dataset labeling
+* 30 mins: collaborative labeling of surveillance cameras in the dataset we created
 * 15 mins: group discussion + overview of ways to continue taking action
 
 Additional topics that we can go over, depending on participant interest:
