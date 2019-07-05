@@ -14,7 +14,7 @@ The workshop would run 2-3 hours:
 
 Additional topics that we can go over, depending on participant interest:
 
-* How do devices know how to recognize your face and voice? Introduction to machine learning and artificial intelligence
+* How does your smartphone know how to recognize your face and voice? Introduction to machine learning and artificial intelligence
 * If you're connected to wifi, sending messages, or just walking around with your phone, what information can snoopers learn about you? Demonstrating packet sniffing with Wireshark
 * When you're browsing the web, what information do websites store about you? Exploring tracking cookies
 
