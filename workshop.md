@@ -19,3 +19,7 @@ Additional topics that we can go over, depending on participant interest:
 * When you're browsing the web, what information do websites store about you? Exploring tracking cookies
 
 The community walk will draw on the [field guide to spotting surveillance cameras](field-guide.html) and the Seattle part of the [Who's watching you?](whos-watching.html) page.
+
+The ML/AI material might cover some of the topics outlined [here](ai-intro.html).
+
+The personal consumer tech material will draw on the second half of the [Who's watching you?](whos-watching.html) page.
