@@ -1,4 +1,4 @@
-# Watching our watchers
+# Watching the watchers: a workshop
 
 ![](media/bbox3.png)
 
