@@ -24,6 +24,7 @@ Here are things you can do to spot surveillance in everyday life:
 * Read about a [Skywatch unit deployed at Safeway in Rainier Valley](https://crosscut.com/2019/04/police-tower-casts-shadow-over-south-seattle-safeway)
 * Be aware of coveillance via Amazon's [Ring doorbells](https://www.cnet.com/news/how-rings-neighbors-app-is-making-home-security-a-social-thing/)
 * Visit the [Westin Carrier Hotel](https://www.westinbldg.com/AboutUs), an internet exchange in downtown Seattle
+  * Look at the [Seattle data center map](https://www.datacentermap.com/)
 * Walk around downtown Seattle or other commercial areas and government buildings
 
 ## Online
