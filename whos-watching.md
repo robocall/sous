@@ -6,21 +6,23 @@ This page aims to provide a hands-on introduction to figuring out who's watching
 
 Here's the itinerary.
 
-1. Visit Amazon Go, [a surveillance-powered convenience store](https://techcrunch.com/2018/01/21/inside-amazons-surveillance-powered-no-checkout-convenience-store/) at 2131 7th Ave.
+Visit Amazon Go, [a surveillance-powered convenience store](https://techcrunch.com/2018/01/21/inside-amazons-surveillance-powered-no-checkout-convenience-store/) at 2131 7th Ave, as well as the Seattle Spheres.
 
 Discussion
 * Try buying an item (need to install Amazon Go app first)
 * Talk about relationship between convenience and surveillance
+* Talk about Amazon's Rekognition system
 * Talk about this store: Facial recognition used at a [convenience store in Seattle](https://www.seattletimes.com/business/technology/when-convenience-meets-surveillance-ai-at-the-corner-store/) (another [story](https://www.kiro7.com/news/south-sound-news/tacoma-convenience-store-uses-facial-recognition-technology/950979811))
 
-2. Visit the [Westin Carrier Hotel](https://www.westinbldg.com/AboutUs), an internet exchange in downtown Seattle.
+Visit the [Westin Carrier Hotel](https://www.westinbldg.com/AboutUs), an internet exchange in downtown Seattle.
 
 Discussion
-* This guide to [spotting internet infrastructure](http://seeingnetworks.in/nyc/)
+* TODO: Can we get a tour inside the building?
+* Look at this guide to [spotting internet infrastructure](http://seeingnetworks.in/nyc/)
 * Look at the [Seattle data center map](https://www.datacentermap.com/)
 * Look at map of [wireless networks](https://wigle.net/) in Seattle (found via wardriving)
 
-3. Visit the Acylica installations + Skywave antennas at 7th Ave & Lenora St and at 2901 Western Ave.
+Visit the Acylica installations + Skywave antennas at 7th Ave & Lenora St and at 2901 Western Ave.
 
 Discussion
 * [Map of Acyclica locations](https://www.seattle.gov/Documents/Departments/Tech/Privacy/SDOT%20Acyclica%20SIR%20DRAFT%20-%20for%20Working%20Group.pdf) (page 8)
@@ -30,7 +32,7 @@ Discussion
   * More on [wifi security vulnerabilities](https://reallifemag.com/silent-shout/), [disrupting them with noise](https://davidrueter.com/projects/2014-09-shenanigans.html)
   * [Analyze network traffic with Wireshark](http://www.soc.napier.ac.uk/~40001507/CSN11102/Lab5.pdf) or see what devices are connected with a network with the Network Analyzer app (note: do not do this if portscans are illegal where you live), [another tutorial](https://www.vice.com/en_us/article/jpgmxp/how-to-go-from-0-to-sniffing-packets-in-10-minutes), more on [probe+beacon requests](https://blog.samcater.com/capturing-beacons-and-probe-requests-of-public-wifi-access-points-the-why-how-and-stats/)
 
-3. Visit the traffic camera at 2nd Ave and Blanchard St.
+Visit the traffic camera at 2nd Ave and Blanchard St.
   
 Discussion
 * [Look at the Seattle live traffic camera map](https://web6.seattle.gov/travelers/)
@@ -44,7 +46,7 @@ Discussion
 * Be aware of coveillance via Amazon's [Ring doorbells](https://www.cnet.com/news/how-rings-neighbors-app-is-making-home-security-a-social-thing/)
 * Read about a [Skywatch unit deployed at Safeway in Rainier Valley](https://crosscut.com/2019/04/police-tower-casts-shadow-over-south-seattle-safeway)
 
-5. Discuss other SSO technologies or common surveillance technologies from ACLU's  [They Are Watching](https://theyarewatching.org).
+Discuss other SSO technologies or common surveillance technologies from ACLU's  [They Are Watching](https://theyarewatching.org).
 * [Gunshot detectors](https://theyarewatching.org/technology/gunshot-detector) not in [Seattle](https://www.thestranger.com/slog/2016/06/02/24158530/mayor-council-and-police-try-again-with-shotspotter-gunshot-detection-system) but in Chicago, New York, and Oakland (CA)
 * [Seattle Stingray tracking](https://www.wired.com/2017/06/researchers-use-rideshares-sniff-stingray-locations/)
 
