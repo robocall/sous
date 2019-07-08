@@ -49,6 +49,7 @@ Discussion
 Discuss other SSO technologies or common surveillance technologies from ACLU's  [They Are Watching](https://theyarewatching.org).
 * [Gunshot detectors](https://theyarewatching.org/technology/gunshot-detector) not in [Seattle](https://www.thestranger.com/slog/2016/06/02/24158530/mayor-council-and-police-try-again-with-shotspotter-gunshot-detection-system) but in Chicago, New York, and Oakland (CA)
 * [Seattle Stingray tracking](https://www.wired.com/2017/06/researchers-use-rideshares-sniff-stingray-locations/)
+* TODO: what are those burgundy boxes/antennas installed on utility poles downtown? Are they wifi antennas?
 
 ## Online
 
