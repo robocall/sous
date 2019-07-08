@@ -38,7 +38,7 @@ Discussion
 * [Look at the Seattle live traffic camera map](https://web6.seattle.gov/travelers/)
 * See yourself on camera
 
-4. Pick one block in downtown and try to find, photograph, and map all surveillance cameras on that block.
+Pick one block in downtown and try to find, photograph, and map all surveillance cameras on that block.
 
 Discussion
 * Look at live [CCTV IP camera feeds](https://www.insecam.org/en/bycity/Seattle/) in Seattle
