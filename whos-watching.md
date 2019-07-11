@@ -46,10 +46,16 @@ Discussion
 * Be aware of coveillance via Amazon's [Ring doorbells](https://www.cnet.com/news/how-rings-neighbors-app-is-making-home-security-a-social-thing/)
 * Read about a [Skywatch unit deployed at Safeway in Rainier Valley](https://crosscut.com/2019/04/police-tower-casts-shadow-over-south-seattle-safeway)
 
+Along the way, we will have passed many burgundy antennas installed on utility poles. Those are small cell installations for 5G. Their color is mandated by Seattle City Light ("The antenna and conduits shall be painted Sherwin Williams Fairfax Brown SW2856"). 
+
+Discussion
+* Discuss relationship between networks and surveillance, as well as private companies and public data
+* see Seattle City Light construction standard for [pole top cellular antennas](http://www.seattle.gov/light/engstd/docs2/0095.20.pdf) and [identifying owners](http://www.seattle.gov/light/engstd/docs2/0093.12.pdf)
+* see history of [small cells in Seattle](http://wsama.org/vertical/sites/%7B8ED61B30-6B44-4E1C-8894-9FFBA9264BFB%7D/uploads/18_Small_Cell_Tech.pdf) and [Seattle City Light](https://www.aglmediagroup.com/how-seattle-city-light-places-small-cells-on-wooden-electric-distribution-poles/))
+
 Discuss other SSO technologies or common surveillance technologies from ACLU's  [They Are Watching](https://theyarewatching.org).
 * [Gunshot detectors](https://theyarewatching.org/technology/gunshot-detector) not in [Seattle](https://www.thestranger.com/slog/2016/06/02/24158530/mayor-council-and-police-try-again-with-shotspotter-gunshot-detection-system) but in Chicago, New York, and Oakland (CA)
 * [Seattle Stingray tracking](https://www.wired.com/2017/06/researchers-use-rideshares-sniff-stingray-locations/)
-* TODO: what are those burgundy boxes/antennas installed on utility poles downtown? Are they wifi antennas?
 
 ## Online
 
