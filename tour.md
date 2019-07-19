@@ -5,6 +5,7 @@ Opening discussion
 * What messages about surveillance are you hearing from the media and your friends?
 * How do you think you're being watched, if at all?
 * How would you want your data to be used, if at all?
+* How do you want things to change?
 
 Tour itinerary: (photos coming soon)
 
@@ -75,3 +76,4 @@ Closing discussion
 * [Gunshot detectors](https://theyarewatching.org/technology/gunshot-detector), not in [Seattle](https://www.thestranger.com/slog/2016/06/02/24158530/mayor-council-and-police-try-again-with-shotspotter-gunshot-detection-system) but in Chicago, New York, and Oakland (CA)
 * [Seattle Stingray tracking](https://www.wired.com/2017/06/researchers-use-rideshares-sniff-stingray-locations/)
 * How would you want your data to be used, if at all?
+* How do you want things to change?
