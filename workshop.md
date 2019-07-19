@@ -8,7 +8,7 @@ Mass surveillance is the reality of living in 2019. And you probably know that, 
 
 This workshop is a hands-on introduction to identifying how you're being watched in daily life. The goal is to cut through paranoia and hype: we will start with a presentation that aims to demystify how technologies like AI and networking work and how they are used in large-scale surveillance systems. We will then take a walk to identify surveillance infrastructure in downtown Seattle and finish by contributing to a community-driven AI to identify surveillance cameras in images. Afterward, the next time you go outside or online, you should have a much better idea of how you're being watched and how you can take action.
 
-The workshop will run about three hours:
+The workshop will run about two and a half hours:
 
 * 15 mins: opening group discussion
 * 30 mins: background and introduction to large-scale AI-powered surveillance systems and how they encroach on civil liberties globally, covering the topics outlined [here](ai-intro.html)
@@ -17,3 +17,5 @@ The workshop will run about three hours:
 * 15 mins: closing group discussion + overview of ways to continue taking action with ACLU WA and partners
 
 If you can, please bring a camera or camera-equipped phone and a laptop.
+
+Note: we are piloting this material, so things may change and we will ask participants for feedback!
