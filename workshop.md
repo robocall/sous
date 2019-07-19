@@ -17,13 +17,3 @@ The workshop will run about three hours:
 * 15 mins: closing group discussion + overview of ways to continue taking action with ACLU WA and partners
 
 If you can, please bring a camera or camera-equipped phone and a laptop.
-
----
-
-Here are some additional topics that we can go over, depending on participant interest:
-
-* How does your smartphone know how to recognize your face and voice? Introduction to deep learning
-* If you're connected to wifi, sending messages, or just walking around with your phone, what information can snoopers learn about you? Demonstrating packet sniffing with Wireshark
-* When you're browsing the web, what information do websites store about you? Exploring tracking cookies
-
-The personal consumer tech material will draw on the [Who's watching you?](whos-watching.html) material.
