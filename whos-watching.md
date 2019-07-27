@@ -25,5 +25,5 @@ Our personal devices, and the online services we use, are collecting and leaking
 * [Check if you're in a facial recognition dataset](https://www.nbcnews.com/tech/internet/facial-recognition-s-dirty-little-secret-millions-online-photos-scraped-n981921)
   * "If you’re an adult in America, there’s more than a 50 percent chance that you’re already in a law enforcement facial recognition database, according to researchers at Georgetown." (Source: NYT [Facial Recognition Machine](https://www.nytimes.com/interactive/2019/04/16/opinion/facial-recognition-new-york-city.html))
 * Be aware of high-res [satellite imagery](https://www.technologyreview.com/s/613748/satellites-threaten-privacy/)
-
+* EXIF metadata in photography, which contains your location, camera type, and exact timestamps
 <!-- TODO: ways to take social, legal, collective action? -->
