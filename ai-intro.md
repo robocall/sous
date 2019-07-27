@@ -1,6 +1,6 @@
 # Introduction to large-scale surveillance systems and how they work
 
-In Guiyang, the police found a reporter using the city's facial-recognition-powered surveillance system in seven minutes. What technical, social, and legal infrastructure made this achievement possible?
+In Guiyang, the police found a reporter using the city's facial-recognition-powered surveillance system in seven minutes. What technical, social, and legal infrastructure made this achievement possible? And what are the civil liberties issues with pervasive surveillance?
 
 First, physical infrastructure manifests itself as the familiar "eyes of big brother": surveillance cameras.
 
@@ -18,11 +18,15 @@ Lastly: follow the money! Surveillance is big business. China's biggest facial r
 
 Now that we've dissected how the police were able to find a reporter in Guiyang in just seven minutes, let's look at how people are looking back. What can we, as individuals, do against these large institutional forces?
 
-First, surveillance technologies are generally made by members of more privileged communities and targeted at members of more marginalized communities. Take ICE and immigrants, or NYPD and the city's Muslim community, as two examples.
+First, surveillance technologies are generally made by members of more privileged communities and targeted at members of more marginalized communities. Take ICE and immigrants, or NYPD and the city's Muslim community, as two examples. This page gives a good overview of [civil liberties issues](http://theyarewatching.org/) with pervasive surveillance. There is basically no good surveillance.
 
 Activists have proposed the idea of sousveillance to reverse the gaze, notably Simone Weil's "Dark Matters." Artists and academica have made attempts at mapping surveillance networks, controlling them with legislation or agreements, jamming them with individual actions. 
 
 We propose to stage an intervention, inspired by these, but employing the same tactics of capture + control at scale that large-scale surveillance does. The next exercise will help us understand very concretely how people make datasets for ML models. It will also help us practice a critical way of seeing public space, work together to encode community knowledge, and help us hold surveillance technologies accountable.
+
+---
+
+Discussion questions: coming soon.
 
 ---
 
