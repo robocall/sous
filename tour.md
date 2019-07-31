@@ -7,6 +7,10 @@ Opening discussion
 * How would you want your data to be used, if at all?
 * How do you want things to change?
 
+Themes
+* Layers of surveillance (private, local, state, public, federal)
+* Fusion, correlation, and collation of data
+
 Tour itinerary: (photos coming soon)
 
 Visit Amazon Go, [a surveillance-powered convenience store](https://techcrunch.com/2018/01/21/inside-amazons-surveillance-powered-no-checkout-convenience-store/) at 2131 7th Ave, as well as the Seattle Spheres.
@@ -17,13 +21,32 @@ Discussion
 * Talk about Amazon's Rekognition system
 * Talk about this store: Facial recognition used at a [convenience store in Seattle](https://www.seattletimes.com/business/technology/when-convenience-meets-surveillance-ai-at-the-corner-store/) (another [story](https://www.kiro7.com/news/south-sound-news/tacoma-convenience-store-uses-facial-recognition-technology/950979811))
 
-Tour the [Westin Carrier Hotel](https://www.westinbldg.com/AboutUs), an internet exchange in downtown Seattle.
+Visit the [Westin Building Exchange](https://www.westinbldg.com/AboutUs), a carrier hotel in downtown Seattle that also houses a meet-me room and the Seattle Internet Exchange.
 
 Discussion
-* Discuss Titanpointe (the AT&T Long Lines building in NYC), [the NSA's spy hub in New York, hidden in plain sight](https://theintercept.com/2016/11/16/the-nsas-spy-hub-in-new-york-hidden-in-plain-sight/)
+* What does it mean to see, hear, and feel the internet? There are massive amounts of information flowing near us.
+* Is there a distinction between surveillance infrastructure and internet infrastructure? 
 * Look at this guide to [spotting internet infrastructure](http://seeingnetworks.in/nyc/)
 * Look at the [Seattle data center map](https://www.datacentermap.com/)
 * Look at map of [wireless networks](https://wigle.net/) in Seattle (found via wardriving)
+
+Visit *1122 3rd Avenue*, a site for AT&T peering and one of the NSA's eight wiretap rooms in the FAIRVIEW surveillance program.
+
+Discussion
+
+This stop on the tour highlights surveillance at the federal level, how surveillance relies on cooperation between the private and public sectors, and the dragnet quality of digital surveillance.
+
+AT&T handles a lot of data. According to _The Intercept_, "As of March 2018, some 197 petabytes of data – the equivalent of more than 49 trillion pages of text, or 60 billion average-sized mp3 files – traveled across [AT&T]'s networks every business day." Because AT&T's so big, it's called a Tier 1 provider, so other networks exchange their network capacity with AT&T (called "peering") or pay AT&T to transmit traffic on its network (called "transit"). So, even if your Internet service provider isn't AT&T and you don't live in the US, if your provider peers with AT&T anywhere in the chain, your emails and Facebook messages might enter AT&T's network, onto US soil, into one of the AT&T peering hubs, where the NSA can siphon it off to Maryland to be stored, processed, collated against your profile and that of people you know. 
+
+The NSA is able to spy on massive amounts of Internet traffic passing through the US because of its partnership with AT&T, even lauding AT&T's "extreme willingness to help." The NSA can read non-US citizens' communications with impunity. For example, the NSA has used its wiretap hub in NYC (called Titanpointe) to eavesdrop on phone communications the United Nations, the World Bank, and at least 38 countries, including allies like Germany, Japan, and France. However, there are regulations against reading US citizens' communications.
+
+The eight NSA hubs, or AT&T peering rooms, for FAIRVIEW are in Seattle, San Francisco, New York, Chicago, Dallas, Los Angeles, Dallas, DC, and Atlanta. Is NSA equipment still in this building, intercepting communications that pass through Seattle and funneling it to Maryland for NSA analysts to look at? Yeah, probably. Incidentally, this location is very close by both the FBI Seattle office and the Pacific-1 intercontinental undersea cable.
+
+Sources 
+* ["THE WIRETAP ROOMS: The NSA’s Hidden Spy Hubs in Eight U.S. Cities"](https://theintercept.com/2018/06/25/att-internet-nsa-spy-hubs/) (_The Intercept_) (See map of FAIRVIEW locations)
+* ["TITANPOINTE: The NSA’s Spy Hub in New York, Hidden in Plain Sight](https://theintercept.com/2016/11/16/the-nsas-spy-hub-in-new-york-hidden-in-plain-sight/) (_The Intercept_)
+* ("XKEYSCORE: NSA’s Google for the World’s Private Communications")[https://theintercept.com/2015/07/01/nsas-google-worlds-private-communications/] (_The Intercept_)
+* [AT&T Helped U.S. Spy on Internet on a Vast Scale](https://www.nytimes.com/2015/08/16/us/politics/att-helped-nsa-spy-on-an-array-of-internet-traffic.html) (_NYT_)
 
 Visit the Acylica installations + Skywave antennas at 7th Ave & Lenora St and at 2901 Western Ave.
 
