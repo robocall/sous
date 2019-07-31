@@ -5,4 +5,4 @@
 * [Introduction to surveillance at scale](ai-intro.md)
 * [More info](misc.md)
 
-We are a group of researchers and engineers at CMU, UW, and Google who are working on demystifying surveillance technologies and creating technologies to keep these systems accountable. Contact us at sousveillance@protonmail.com.
+We are a group of researchers and engineers who are working on demystifying surveillance technologies and creating technologies to keep these systems accountable. Contact us at sousveillance@protonmail.com.
