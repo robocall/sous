@@ -44,6 +44,11 @@ The NSA is able to spy on massive amounts of Internet traffic passing through th
 
 The eight NSA hubs, or AT&T peering rooms, for FAIRVIEW are in Seattle, San Francisco, New York, Chicago, Dallas, Los Angeles, Dallas, DC, and Atlanta. Is NSA equipment still in this building, intercepting communications that pass through Seattle and funneling it to Maryland for NSA analysts to look at? Yeah, probably. Incidentally, this location is very close to both the FBI Seattle office and the Pacific-1 intercontinental undersea cable.
 
+Discussion questions
+* If you were in AT&T's role, or you worked at AT&T, what would you do if the NSA came knocking and asked you to install its wiretapping equipment? 
+* In the apparatus of surveillance, should it make a difference whether someone is a US citizen?
+* How does it feel to be physically close to a central portion of federal/international internet/surveillance infrastructure through which a massive amount of information is flowing?
+
 Sources 
 * ["THE WIRETAP ROOMS: The NSA’s Hidden Spy Hubs in Eight U.S. Cities"](https://theintercept.com/2018/06/25/att-internet-nsa-spy-hubs/) (_The Intercept_) (See map of FAIRVIEW locations)
 * ["TITANPOINTE: The NSA’s Spy Hub in New York, Hidden in Plain Sight](https://theintercept.com/2016/11/16/the-nsas-spy-hub-in-new-york-hidden-in-plain-sight/) (_The Intercept_)
