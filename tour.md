@@ -14,9 +14,7 @@
 * [Other infrastructure](#other-infrastructure)
 * [Closing conversation](#closing-conversation)
 
-As we walk around downtown Seattle, we'll refer to this [field guide](https://www.figma.com/file/C15vnW0gtZybtY24eXREfy/Field-Guide-Prototype?node-id=0%3A1).
-
----
+As we walk around downtown Seattle, we'll refer to this [field guide](https://www.figma.com/file/C15vnW0gtZybtY24eXREfy/Field-Guide-Prototype?node-id=0%3A1). Map and photos coming soon.
 
 ## Opening conversation
 
@@ -29,19 +27,18 @@ As we walk around downtown Seattle, we'll refer to this [field guide](https://ww
 ### Themes
 
 * Layers of surveillance (private, local, state, public, federal)
-* Fusion, correlation, and collation of data
-
-# Tour itinerary
-
-All locations are in downtown Seattle. Map and photos coming soon.
+* How civil liberties are affected
+* How data is fused, correlated, and collated
 
 ## Amazon Go
 
 Visit Amazon Go, [a surveillance-powered convenience store](https://techcrunch.com/2018/01/21/inside-amazons-surveillance-powered-no-checkout-convenience-store/) at 2131 7th Ave, as well as the Seattle Spheres.
 
 ### Discussion
+
 * Try buying an item (need to install Amazon Go app first)
 * Talk about relationship between convenience and surveillance
+* Quote from article: "It’s a bit overkill, I think, to replace a checker or self-checkout stand with a hundred cameras that unblinkingly record every tiny movement. What’s to gain? 20 or 30 seconds of your time back?"
 * Talk about Amazon's Rekognition system
 * Talk about this store: Facial recognition used at a [convenience store in Seattle](https://www.seattletimes.com/business/technology/when-convenience-meets-surveillance-ai-at-the-corner-store/) (another [story](https://www.kiro7.com/news/south-sound-news/tacoma-convenience-store-uses-facial-recognition-technology/950979811))
 
