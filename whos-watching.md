@@ -11,7 +11,7 @@ Our personal devices, and the online services we use, are collecting and leaking
 * [Who does Google think you are? Check your Ads Preferences](https://mashable.com/2012/01/25/google-cookies/)
 * Check your app permissions on your phone because [apps might be storing your location data](https://www.nytimes.com/interactive/2018/12/10/business/location-data-privacy-apps.html)
 * [Alexa is listening: disable voice recording on Alexa](https://www.bloomberg.com/news/articles/2019-04-10/is-anyone-listening-to-you-on-alexa-a-global-team-reviews-audio)
-  * [Delete recorded conversations](https://www.theverge.com/2018/5/28/17402154/amazon-echo-alexa-conversation-recording-history-listen-how-to]
+  * [Delete recorded conversations](https://www.theverge.com/2018/5/28/17402154/amazon-echo-alexa-conversation-recording-history-listen-how-to)
 * [Be aware of fingerprinting](https://www.nytimes.com/2019/07/03/technology/personaltech/fingerprinting-track-devices-what-to-do.html?action=click&module=Well&pgtype=Homepage&section=Technology) (used to uniquely identify users) and install blocking software, as well as delete unused apps
 * [Request your telemetry data from Spotify](https://twitter.com/mikarv/status/1012386696934182912?lang=en) or other companies
 * [Look at your browser cookies to see what information websites store about you](https://www.howtogeek.com/119458/htg-explains-whats-a-browser-cookie/): go to chrome://settings/siteData?search=cookies
