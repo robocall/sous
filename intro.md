@@ -1,10 +1,10 @@
-# How does surveillance work?
+# Notes to the instructor
 
-## Notes to the instructor
+This material aims to provide an accessible toolkit for surveillance awareness and action. We hope to take participants from "I'm scared" or "who cares?" to "I feel safer, I understand more, and I know what to do." 
 
-This material aims to provide an accessible toolkit for surveillance awareness and action. It's written to be short and memorable, so it centers on a question-and-answer approach that incorporates case studies, narratives, visual illustrations, bullet points, openings for conversation and collaboration, and practical exercises.
+The material aims to be short and memorable, so it centers on a question-and-answer approach that incorporates case studies, narratives, illustrations, bullet points, openings for conversation and collaboration, and practical exercises.
 
-The material aim to address participants' pressing personal questions as well as contextual questions. Here are the personal questions we aim to address:
+The material aims to address participants' pressing personal questions about surveillance as well as contextual questions. Here are the personal questions it addresses:
 
 * Why should I care about surveillance?
 * How am I being surveilled?
@@ -38,7 +38,7 @@ Finally, here are the key learning objectives:
 * Understand how to take collective action socially and legally
 * Build concrete skills in spotting surveillance infrastructure in everyday life
 
-# Introduction
+# Introduction: How do we understand surveillance and privacy?
 
 Imagine you're at a dinner party with friends. Over drinks, you start talking about the news.
 
