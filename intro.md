@@ -1,5 +1,7 @@
 # Notes to the instructor
 
+**Note: this material is a work in progress.**
+
 This material aims to provide an accessible toolkit for surveillance awareness and action. We hope to take participants from "I'm scared" or "who cares?" to "I feel safer, I understand more, and I know what to do." 
 
 The material aims to be short and memorable, so it centers on a question-and-answer approach that incorporates case studies, narratives, illustrations, bullet points, openings for conversation and collaboration, and practical exercises.

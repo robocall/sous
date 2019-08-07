@@ -1,5 +1,7 @@
 # Surveillance infrastructure walking tour
 
+**Note: this material is a work in progress.**
+
 ## Itinerary
 
 * [Opening conversation](#opening-conversation)
