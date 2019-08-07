@@ -1,6 +1,12 @@
-# Notes to the instructor
+# Surveillance toolkit
 
 **Note: this material is a work in progress.**
+
+## Contents
+
+* [Notes to the instructor](#notes-to-the-instructor)
+
+## Notes to the instructor
 
 This material aims to provide an accessible toolkit for surveillance awareness and action. We hope to take participants from "I'm scared" or "who cares?" to "I feel safer, I understand more, and I know what to do." 
 
@@ -40,7 +46,7 @@ Finally, here are the key learning objectives:
 * Understand how to take collective action socially and legally
 * Build concrete skills in spotting surveillance infrastructure in everyday life
 
-# Introduction: How do we understand surveillance and privacy?
+## Introduction: How do we understand surveillance and privacy?
 
 Imagine you're at a dinner party with friends. Over drinks, you start talking about the news.
 
@@ -283,15 +289,15 @@ _Closing conversation_
 * Discuss opportunities to provide public comment on the [Seattle Surveillance Ordinance](http://www.seattle.gov/tech/initiatives/privacy/surveillance-technologies/about-surveillance-ordinance) and take action with the ACLU WA
 * How do you want things to change?
 
-# Exercises
+## Exercises
 
 _Note: These are proposed exercises: let us know which ones you find most compelling._
 
-## Cookie monster
+### Cookie monster
 
 Look at tracking cookies in Chrome. People open their desktop browsers and visit the URL _chrome://settings/siteData?search=cookies_. They can see the unique identifying strings that websites and ad networks use to track their identity across several site visits. Accompany the exercise with illustrations from [How does online tracking actually work?](https://robertheaton.com/2017/11/20/how-does-online-tracking-actually-work/).
 
-## You're the AI
+### You're the AI
 
 Label the dataset of surveillance camera images that you gathered on the walking tour.
 
@@ -299,7 +305,7 @@ _Discuss_
 * How AI depends on the human element
 * What if you labeled things incorrectly?
 
-## Privacy checkup
+### Privacy checkup
 
 (TODO: write out exercises)
 
@@ -318,7 +324,7 @@ _Discuss_
 * Make sure your browsing is locked down: look for HTTPS (the lock icon in the browser).
 * Serious privacy aficionados might use a secure OS like Tails or a secure browser like Tor, but be aware that this practice (unfortunately) might get you targeted.
 
-## In someone else's shoes
+### In someone else's shoes
 
 See a dashboard of all the things you are sharing publicly. 
 A ML algorithm (created by us) will display:
@@ -329,11 +335,11 @@ _Discuss_
 * Did you realize this information was public?
 * What are your expectations around public information? (For example, someone could use your picture and pretend to be you. Would you expect that?)
 
-## What do tech companies know about you?
+### What do tech companies know about you?
 
 Same as "In someone else's shoes" but we will display and use their location data, search terms, FB posts shared only to friends, contacts, etc.
 
-## You are now a tech company
+### You are now a tech company
 
 You're given an example corpus of data with example search terms. You have a list of things/advertisements to sell. Work together to determine who to target those ads to.
 
@@ -341,7 +347,7 @@ _Discuss_
 * How did you make the decisions?
 * What was your goal? What was your attitude towards the individual whose data you were looking at?
 
-## Terms of Service
+### Terms of Service
 
 Two-part activity
 
@@ -350,7 +356,7 @@ Two-part activity
   * Takeaway: People don’t really read ToS
 * Dissect Google’s ToS and see what you are really consenting to
 
-## WiFi Guess Who
+### WiFi Guess Who
 
 The MAC addresses and corresponding WiFi network names are gathered via custom software (to be built by the sousveillance collective). Participants will work together as a group to match MAC addresses to the real-life person, in a game of Guess Who.
 
@@ -362,7 +368,7 @@ Possible rules of the game:
 
 Important: WiFi network names can contain sensitive data! (Imagine a participant who has connected to “dr_brown_psychiatry” or “seattle_strip_club”). The participant may not even realize that this may be revealed. To prevent this, before the start of the game, ask participants to view the list of networks that their device tries to connect to. They can remove any networks that are sensitive, but encourage them not to remove identifying but unembarrassing networks (e.g., “SFO airport”).
 
-### Example walkthrough
+#### Example walkthrough
 
 The example data has been gathered:
 
@@ -396,7 +402,7 @@ It can also be a good segue into a discussion about location tracking and Acycli
 
 If the group is interested or more advanced technologically, the facilitator can examine packets that are captured [TODO].
 
-## WiFi safari
+### WiFi safari
 
 Participants join a local network that the facilitator sets up. The group observes the network traffic, e.g. the MAC addresses and packet snippets.
 
