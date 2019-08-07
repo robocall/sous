@@ -4,7 +4,6 @@
 
 ## Itinerary
 
-* [Opening conversation](#opening-conversation)
 * [Amazon Go](#amazon-go)
 * [The Westin Building Exchange](#the-westin-building-exchange)
 * [AT&T peering site (NSA wiretap site)](#att-peering-site-nsa-wiretap-site)
@@ -14,7 +13,6 @@
 * [Automated license plate reader](#automated-license-plate-reader)
 * [Surveillance camera safari](#surveillance-camera-safari)
 * [Other infrastructure](#other-infrastructure)
-* [Closing conversation](#closing-conversation)
 
 As we walk around downtown Seattle, we'll refer to this [field guide](https://www.figma.com/file/C15vnW0gtZybtY24eXREfy/Field-Guide-Prototype?node-id=0%3A1). Map and photos coming soon.
 
