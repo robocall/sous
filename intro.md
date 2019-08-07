@@ -5,6 +5,12 @@
 ## Contents
 
 * [Notes to the instructor](#notes-to-the-instructor)
+* [Introduction: How do we understand surveillance and privacy?](#introduction-how-do-we-understand-surveillance-and-privacy)
+* [How am I being surveilled in my daily life? Using stories to map surveillance](how-am-i-being-surveilled-in-my-daily-life-using-stories-to-map-surveillance)
+* [Understanding surveillance](#understanding-surveillance)
+* [Surveillance infrastructure walking tour](https://sousveillance-collective.github.io/tour.html)
+* [Taking action](#taking action)
+* [Exercises](#exercises)
 
 ## Notes to the instructor
 
