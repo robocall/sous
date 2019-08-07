@@ -88,9 +88,9 @@ Our goal today is to talk about water. Let's work together to build a fresh unde
 * When do you expect someone to be watching you?
 * When do you expect someone to not be watching you?
 
-Glenn Greenwald gave a powerful defense of privacy in his talk ["Why privacy matters")[https://www.youtube.com/watch?v=pcSlowAhvUk]: 
+Glenn Greenwald gave a powerful defense of privacy in his talk ["Why privacy matters"](https://www.youtube.com/watch?v=pcSlowAhvUk): 
 
-> "There is an entire genre of YouTube videos devoted to an experience which I'm certain everyone in this room has had. It entails an individual who, thinking they're alone, engages in some expressive behavior--wild singing, gyrating dancing, some mild sexual activity--only to discover, in fact, that they're not alone, that there is a person watching and lurking, the discovery of which causes them to immediately cease what they were doing in horror. The sense of shame and humiliation in their face is palpable. It's the sense of, 'This is something I'm willing to do only if no one else is watching."
+> There is an entire genre of YouTube videos devoted to an experience which I'm certain everyone in this room has had. It entails an individual who, thinking they're alone, engages in some expressive behavior--wild singing, gyrating dancing, some mild sexual activity--only to discover, in fact, that they're not alone, that there is a person watching and lurking, the discovery of which causes them to immediately cease what they were doing in horror. The sense of shame and humiliation in their face is palpable. It's the sense of, 'This is something I'm willing to do only if no one else is watching.
 > 
 > Privacy is the "ability to go somewhere where we can think and reason and interact and speak without the judgmental eyes of others being cast upon us, in which creativity and exploration and dissent exclusively reside. And that is why, when we allow a society to exist where we are subject to constant monitoring, we allow the essence of human freedom to be severely crippled."
 
@@ -108,19 +108,19 @@ Now that we've talked about surveillance and privacy in the abstract, let's get 
 > * drive a car
 > If the answer to any of these questions is yes, then you are under surveillance.
 
+When you think surveillance, think smartphone.
+
 > To begin rethinking your cell phone from a surveillance perspective, just imagine this (totally fake) news report: 
 > 
 > Washington. In legislation signed by the president, the United States government mandated that all citizens carry an electronic device providing live-streamed data on their location, communication activity, and personal interactions. Data banks will constantly record the time, duration, sender, and receiver of all telephone calls and electronic transmissions, while targeted investigations will be able to monitor actual conversations and message content. Cross-analysis of multiparty location records will show patterns of personal interaction and association. The new program also creates what one official called “300 million eyes” by requiring that each of the mandated devices be equipped with an advanced digital camera able to record and document evidence and transmit it to authorities. 
 > 
 > Officials from police, national security, and public health and safety agencies heralded the move. In the words of one, “This brings an end to the darkness. We can now better serve our citizens with a universal capacity to know where everyone is, all the time. We’ll know who they’re with, who they talk to, when they move, and where they go. This is a massive improvement in our ability to control disease, crime, and terrorism.” To offset the cost of the program, each citizen will be required to pay a monthly fee. 
 
-Let's take this trend to the extreme. If institutions like the state and companies knew everything about us, what would they do with that information? The film "Minority Report" proposed one possible future.
+Let's take this trend to the extreme. If institutions like the state and companies knew everything about us, what would they do with that information? The film "Minority Report" proposed one possible future. Here are three clips from the film:
 
-(Show three clips from "Minority Report")
-
-* ["PreCrime: a world with no murder"](https://www.youtube.com/watch?v=oQdDLfD3kls)
-* ["Minority Report Trailer 2" (When PreCrime goes wrong)](https://www.youtube.com/watch?v=__oEU4P_rL8)
-* ["Minority Report: the future of personalized advertising"](https://www.youtube.com/watch?v=7bXJ_obaiYQ)
+* [PreCrime: a world with no murder](https://www.youtube.com/watch?v=oQdDLfD3kls)
+* [Trailer 2 (When PreCrime goes wrong)](https://www.youtube.com/watch?v=__oEU4P_rL8)
+* [The future of personalized advertising](https://www.youtube.com/watch?v=7bXJ_obaiYQ)
 
 *Discuss*
 * When do you think this film was made?
@@ -136,6 +136,8 @@ _Note_: The idea is to encourage participants to develop a shared representation
 
 First, let's start with some common stories about you---how you volunteer your information and thus make yourself visible to various watchers.
 
+_Discuss_: Solicit suggestions from participants first.
+
 * You get an Android phone because everyone has one, or it makes life easier, or you need to get one for work.
 * You join Facebook because all of your friends are there and you want to know what's happening. When you visit a new city, you post your location on Facebook so you can find friends.
 * You get a Google Home because it makes life easier.
@@ -148,6 +150,8 @@ First, let's start with some common stories about you---how you volunteer your i
 _Note_: These stories are picked to be more approachable because they illustrate voluntary surveillance (or self-surveillance) via the consumer-tech entities that most participants should be familiar with. Use the opportunity to introduce a visual grouping for "You" and another one for platform companies (the surveillance capitalists). Also, discuss how "You" become visible to the watchers through your data.
 
 These are all examples of _voluntary_ surveillance: you know what information you're giving out. Now let's discuss some other stories about surveillance---some you might not have experienced, some about surveillance under duress, using information you didn't consent to giving up, using processes opaque to the people caught up in them. They are all real stories or composites of real stories.
+
+_Discuss_: Solicit suggestions from participants first.
 
 * You log on to Facebook and take a personality quiz. It tells you you’re an INTJ. Later, you see some pretty good ads for a local congressional candidate, and decide to learn more about them.
 
@@ -198,7 +202,7 @@ _Note_: This story is by necessity a collage of several stories, since we know s
 
 ## Understanding surveillance
 
-We've discussed many stories about our information. We've seen how it can be used to make life more convenient. We've also seen how it can be used in ways we didn't expect--against us, against others, or for other' profit. *Now, let's talk about how it all fits together in the map we've made.*
+We've discussed many stories about our information. We've seen how it can be used to make life more convenient. We've also seen how it can be used in ways we didn't expect--against us, against others, or for other' profit. Now, let's talk about how it all fits together in the map we've made.
 
 *Discuss*: Talk about the map the partipants made together, as well as visual metaphors for surveillance.
 
@@ -224,13 +228,13 @@ Now you understand the impulse to surveil. We live in an information-seeking soc
 
 As "SuperVision" puts it:
 
-> Today’s organizations both require and create orderly, systematic knowledge about the people and things they govern or manage. Surveillance is in the DNA of the modern organization. Businesses, governments, universities, even individuals, seek to gather and organize information as an ongoing part of their work. It’s simply part of what we’re expected to do as responsible actors. Think about how many of our contemporary ideologies or value systems celebrate unfettered access to information. Science must have its data. Law must have its witnesses and confessions. Religion has its all-knowing deities. Democracy has its transparency. Rationality must have its perfect information. They all want to know more! This is a unique cultural alignment in which our key value systems unite to push us toward the celebration and advancement of surveillance as a means of social organization and control. In the face of this level of government, corporate, and ideological convergence in favor of advancing surveillance, we are skeptical that the flood can be pushed back. But we might be able to make it a bit more fair, transparent, and accountable."
+> Today’s organizations both require and create orderly, systematic knowledge about the people and things they govern or manage. Surveillance is in the DNA of the modern organization. Businesses, governments, universities, even individuals, seek to gather and organize information as an ongoing part of their work. It’s simply part of what we’re expected to do as responsible actors. Think about how many of our contemporary ideologies or value systems celebrate unfettered access to information. Science must have its data. Law must have its witnesses and confessions. Religion has its all-knowing deities. Democracy has its transparency. Rationality must have its perfect information. They all want to know more! This is a unique cultural alignment in which our key value systems unite to push us toward the celebration and advancement of surveillance as a means of social organization and control. In the face of this level of government, corporate, and ideological convergence in favor of advancing surveillance, we are skeptical that the flood can be pushed back. But we might be able to make it a bit more fair, transparent, and accountable.
 
 ## Taking action
 
-So, *what can we do about surveillance?*
+So, what can we do about surveillance?
 
-First, I would suggest arming yourself against the soundbites of surveillance. The next time someone pulls out that old saw, "If you have nothing to hide, nothing to fear" at a party or in a debate, or someone (perhaps a lawmaker, perhaps the CEO of Google, perhaps your best friend) frames surveillance as inevitable, remember some of the many problems with surveillance:
+First, I would suggest arming yourself against the soundbites we identified in the beginning. The next time someone pulls out that old saw "If you have nothing to hide, nothing to fear" at a party or in a debate, or someone (perhaps a lawmaker, perhaps the CEO of Google, perhaps your best friend) frames surveillance as inevitable, remember some of the many social and civil liberties issues with surveillance:
 
 * General creepiness
 * Imbalance of power between watcher and watched
@@ -251,7 +255,7 @@ First, I would suggest arming yourself against the soundbites of surveillance. T
 * Insecure system
 * Lack of transparency
 * Hierarchical and undemocratic
-* Expensive (vs. analog/alternative solutions)
+* Expensive compared to alternative analog solutions
 
 You can find a great dossier of surveillance technologies and their civil rights issues at the ACLU's [They Are Watching](http://theyarewatching.org/) page. 
 
