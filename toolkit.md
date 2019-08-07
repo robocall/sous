@@ -182,13 +182,13 @@ _Note_: This is another pathway to public-private collusion, as well as discussi
 
 * You’re out with your family and you take a bunch of nice photos, which you upload to Flickr. An IBM researcher scrapes your photo from Flickr and uses it to train a facial recognition model, technology that it sells to the NYPD so it can “search CCTV feeds for people with particular skin tones or hair color.”
 
-_Note_: This is an entry point to the role of facial recognition and AI in surveillance in the US, as well as how personal data is collected coercively to fuel private gain.
+_Note_: This is an entry point to the role of facial recognition and AI in surveillance in the US, how surveillance is targeted at marginalized groups of people, and how personal data is collected coercively to fuel private gain.
 [NBC article](https://www.nbcnews.com/tech/internet/facial-recognition-s-dirty-little-secret-millions-online-photos-scraped-n981921)
 
 * You live in San Francisco, and you spend a nice day out at the Brainwash cafe. Unbeknownst to you, the camera in the cafe recorded your face. Stanford researchers tap into the camera installed in the cafe and grab all the face images to create a dataset, which is then used in China by to develop surveillance technology for monitoring and persecuting ethnic minorities.
 
 _Note_: [This story](https://www.nytimes.com/2019/07/13/technology/databases-faces-facial-recognition-technology.html
-) reinforces the above story about facial recognition, adds the nuance that data can move outside state boundaries, and is an entry point to the advanced Chinese surveillance state.
+) reinforces the above story about facial recognition and targeting minorities, adds the nuance that data can move outside state boundaries, and is an entry point to the advanced Chinese surveillance state.
 
 * You share a candlelit dinner with your partner at home. Your Alexa device records the audio of your conversation and sends it offshore for workers to transcribe. The transcription is used to improve Alexa's voice recognition technology.
 
