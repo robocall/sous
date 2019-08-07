@@ -163,7 +163,7 @@ https://www.nytimes.com/interactive/2019/04/13/us/google-location-tracking-polic
 
 You live in San Francisco, and you spend a nice day out at the Brainwash cafe. Unbeknownst to you, the camera in the cafe recorded your face. Stanford researchers tap into the camera installed in the cafe and grab all the face images to create a dataset, which is then used in China by to develop surveillance technology for monitoring and persecuting ethnic minorities.
 
-_Note_: 
+_Note_: This is an entry point to the role of facial recognition and AI in surveillance, as well as how data is 
 https://www.nytimes.com/2019/07/13/technology/databases-faces-facial-recognition-technology.html
 
 You’re out with your family and you take a bunch of nice photos, which you upload to Flickr.
@@ -198,60 +198,15 @@ No-fly list
 https://www.theguardian.com/us-news/2015/aug/10/us-no-fly-list-predictive-assessments
 https://thehill.com/opinion/national-security/429770-8-surprising-times-our-intel-community-spied-on-us-citizens
 
+## How modern surveillance works
+
+*Discuss*: the final map. How to think about it.
+
 Here is one possible map of the anatomy of surveillance: https://www.figma.com/file/C15vnW0gtZybtY24eXREfy/Field-Guide-Prototype?node-id=75%3A0
 
 One possible metaphor to understand surveillance is as a huge octopus with many arms, with the public being many tiny fish, and your personal data being like air bubbles.
 
-EXERCISE: Look at tracking cookies in Chrome. Clear your cookies.
-
-## How does modern surveillance work?
-
-The combination of private, public, public/private
-Your information is gathered and pooled
-Surveillance capitalism
-
-Institutions
-
-Think: If you could know X about Y. So easily--with a search. Could you know? Would you want to know? 
-What if someone wanted to know X about you?
-Now you understand the impulse to surveil.
-
-Hotspots in person: Airports, cities, schools, and workplaces
-Hotspots online: ad networks and platforms
-
-The combination of private, public, public/private
-Your information is gathered and pooled
-Surveillance capitalism
-
-## Why should I care about surveillance? 
-
-Discuss personal and broader issues with surveillance
-
-## How does modern surveillance affect me negatively?
-
-TODO
-
-## What kind of privacy can I expect? I heard something about "the right to be forgotten."
-
-TODO
-
-## Surveillance works, right?
-
-For who?
-For you: 
-For the watchers: 
-
-"If it doesn't really keep us safe, why do we tolerate it?"
-
-### Who benefits from surveillance?
-
-TODO
-
-## Surveillance seems so big. How should I think about surveillance?
-
-Scale
-Octopus
-Surveillant assemblage
+Alternatively: Surveillant assemblage
 There's no big brother, no single watcher. Not the panopticon. 
 The "surveillant assemblage": takes an individual out of context into portable data. 
 "shifting, moving observation presentation, and regulation of the self by countless measures in countless locations"
@@ -259,7 +214,16 @@ The "surveillant assemblage": takes an individual out of context into portable d
 roots, coral, rhizome. Picture here
 We're all watching each other.
 
-## Why are things the way they are?
+Who benefits from surveillance
+The combination of private, public, public/private
+Your information is gathered and pooled
+Surveillance capitalism
+
+Why things are the way they are:
+
+Think: If you could know X about Y. So easily--with a search. Could you know? Would you want to know? 
+What if someone wanted to know X about you?
+Now you understand the impulse to surveil.
 
 Surveillance comes about because of a perfect storm, tne result of an information-seeking society.
 The drive to quantify, measure, record, compare, assess
@@ -271,7 +235,19 @@ Surveillance is big business: "recession-proof"
 
 Driven by fear and desire
 
-## How should I respond to mainstream surveillance narratives?
+## Does surveillance keep me safe?
+
+For who?
+For you: 
+For the watchers: 
+
+"If it doesn't really keep us safe, why do we tolerate it?"
+
+## What can I do about surveillance?
+
+(They Are Watching)
+
+Responses to mainstream surveillance narratives
 
 Situation: a technology is often posited as inevitable (CCTV cameras) and then the scope creeps
 Practical response: can we think of a cheaper, more private, analog, scope-limited way to accomplish the real effect?
@@ -280,12 +256,6 @@ Case study: CCTV vs. street lighting
 Situation: If you have nothing to hide, you have nothing to fear.
 Practical response: ?
 Case study: ?
-
-## What are the key issues with surveillance?
-
-(They Are Watching)
-
-Tell a story for each of these:
 
 General creepiness
 Imbalance of power
@@ -307,18 +277,16 @@ It doesn't work!
 Surveilance is about an **Imbalance of power**: you don't have databse access, algo transparency, EULA, policy. 
 "Surveillance characterizes almost all aspects of social life but most surveillance is undemocratic"
 
-Q&A: voluntary surveillance. Nobody "forced" you to get a phone or a Facebook account. Convenience? "To what extent are we truly willing participants when a nearly universal architecture of communication ... dominates our social world & becomes necessary for keeping a job, attending school, or having a life? Can you really opt out? Can you really even imagine opting out?"
-
-## What can I do about surveillance?
-
-(They Are Watching)
-
 Work to raise expectations for the protection of personal data, opt-out instead of opt-in, keep info in its original context
 
 Fight for transparency
 And interrogate your own urge to know
 
 ## What steps can I take to protect myself against surveillance?
+
+ What kind of privacy can I expect? I heard something about "the right to be forgotten."
+
+EXERCISE: Look at tracking cookies in Chrome. Clear your cookies.
 
 Use Jumbo for a privacy checkup.
 Block tracking online: use Adblock, Ghostery
