@@ -81,8 +81,8 @@ Our goal today is to talk about water. Let's work together to build a fresh unde
 *Facilitator prompts*
 
 * Goal: suss out definitions of surveillance and privacy.
-* Why do you use the bathroom with the door shut and locked?
 * Would you give me your email password and let all of us look at your email and post excerpts online?
+* Why do you use the bathroom with the door shut and locked?
 * Can you recall a time when you watched someone by accident?
 * Can you recall a time when you felt like someone you didn't expect was watching you?
 * When do you expect to be able to watch someone?
@@ -90,7 +90,7 @@ Our goal today is to talk about water. Let's work together to build a fresh unde
 * When do you expect someone to be watching you?
 * When do you expect someone to not be watching you?
 
-Glenn Greenwald gave a powerful defense of privacy in his talk ["Why privacy matters"](https://www.youtube.com/watch?v=pcSlowAhvUk): 
+Glenn Greenwald gave a powerful defense of privacy in his talk ["Why privacy matters."](https://www.youtube.com/watch?v=pcSlowAhvUk)
 
 > There is an entire genre of YouTube videos devoted to an experience which I'm certain everyone in this room has had. It entails an individual who, thinking they're alone, engages in some expressive behavior--wild singing, gyrating dancing, some mild sexual activity--only to discover, in fact, that they're not alone, that there is a person watching and lurking, the discovery of which causes them to immediately cease what they were doing in horror. The sense of shame and humiliation in their face is palpable. It's the sense of, 'This is something I'm willing to do only if no one else is watching.
 > 
@@ -134,7 +134,7 @@ Let's take this trend to the extreme. If institutions like the state and compani
 
 Let's tell some stories about your information and what happens to it. We'll use these stories as a way to make a map of how surveillance works---how all the parts fit together and the ways we can grasp how it works.
 
-_Note_: The idea is to encourage participants to develop a shared representation of the metaphors we use to understand on surveillance. After each story, discuss what the story is meant to illustrate, what entities to add to the map, and how these entities relate to what's already on the map. Ideally everyone would have a pen and paper, and the facilitator would work on a whiteboard that everyone could see.
+_Note_: The idea is to encourage participants to develop a shared representation of the metaphors we use to understand on surveillance. After each story, discuss what the story is meant to illustrate, what entities to add to the map, and how these entities relate to what's already on the map. Ideally everyone would have a pen and paper, and the facilitator would work on a whiteboard that everyone could see. The goal is to work together to make a map like [this one](https://www.figma.com/file/C15vnW0gtZybtY24eXREfy/Field-Guide-Prototype?node-id=75%3A0).
 
 First, let's start with some common stories about you---how you volunteer your information and thus make yourself visible to various watchers.
 
@@ -191,7 +191,7 @@ _Note_: This story is an entry point to ongoing corporate surveillance in physic
 * You’re out on the roof with your partner at night, enjoying a warm and intimate evening. Nobody can see you here, right? Unbeknownst to you, a man in an NYPD helicopter is using thermal imaging to spy on you.
 
 _Note_: This story is taken straight from the [New York Times](https://www.nytimes.com/2005/12/22/nyregion/police-video-caught-a-couples-intimate-moment-on-a-manhattan.html
-). It introduces the human element of surveillance: misuse of the state surveillance apparatus--ostensibly for your protection--for a human observer's voyeuristic glee, even in a place that should be secret.
+). It introduces the human element of surveillance: misuse of the state surveillance apparatus---ostensibly for your protection---for a human observer's voyeuristic glee, even in a place that should be secret.
 
 * You drive around the city to several destinations: to work, to dinner, to your partner’s place. Your license plate is recorded by every license plate reader you pass on the way and your laptop's unique identifier (called a MAC address) is recorded by every Acyclica device you pass along the way. This data is stored by private and public entities (both the city and the companies that manufacture these devices) and sent to quasi-private entities for analysis, like Palantir. One possible fate is that, if you are in the US as a migrant, the city might share your location data with ICE, which uses your location info to find and deport you. 
 
@@ -204,7 +204,7 @@ _Note_: This story is by necessity a collage of several stories, since we know s
 
 ## Understanding surveillance
 
-We've discussed many stories about our information. We've seen how it can be used to make life more convenient. We've also seen how it can be used in ways we didn't expect--against us, against others, or for other' profit. Now, let's talk about how it all fits together in the map we've made.
+We've discussed many stories about our information. We've seen how it can be used to make life more convenient. We've also seen how it can be used in ways we didn't expect---against us, against others, or for other' profit. Now, let's talk about how it all fits together in the map we've made.
 
 *Discuss*: Talk about the map the partipants made together, as well as visual metaphors for surveillance.
 
@@ -216,15 +216,15 @@ You can find the high-resolution image [here](https://www.figma.com/file/C15vnW0
 
 One metaphor for understanding surveillance is that it's a huge octopus with many arms, with the public being many tiny fish, and your personal data being like air bubbles. The octopus siphons up the data with surveillance infrastructure, both digital and physical, and transmits it over the network to a cast of watchers, including those who watch for profit (the surveillance capitalists), those who watch for law enforcement (the state), and various organizations, quasi-private institutions, and individuals. All the information gathered is pooled, collated, stored, mined for insight, and used to influence and regulate the behavior of the public.
 
-Another metaphor for understanding surveillance is that of the *surveillant assemblage*. There's no big brother, no single watcher, no the panopticon. Instead, the assemblage flattens an individual into portable data and takes bits of pieces of them into different contexts they never expected. It consists of the "shifting, moving observation presentation, and regulation of the self by countless measures in countless locations" (quote from "SuperVision"). The smartphone is the prime icon of the surveillant assemblage.
+Another metaphor for understanding surveillance is that of the *surveillant assemblage*. There's no big brother, no single watcher, no the panopticon. Instead, the assemblage flattens an individual into portable data and takes bits of pieces of them into different contexts they never expected. It consists of the "shifting, moving observation presentation, and regulation of the self by countless measures in countless locations." The smartphone is the prime icon of the surveillant assemblage.
 
 Let's get some fresh air and make this real: let's go see some surveillance infrastructure in real life.
 
 *Exercise*: Conduct the [surveillance infrastructure walking tour.](https://sousveillance-collective.github.io/tour.html)
 
-(After returning from tour)
+After returning from tour:
 
-Why are things the way they are? Consider a thought experiment. What's something you've always wondered about someone, or a group of people? What if you could read your partner's emails? What if you could read the diary of your worst enemy? What if you could know anything you wanted about a person or a group of people--for example, how many people in the United States are awake at this very moment? How many people in the United States just got off work and are hungry for dinner? If you could know literally anything you wanted, would you want to know, and what would you want to know? Conversely, if you know that others could know literally anything they wanted, how would you want them to be able to know you?
+Why are things the way they are? Consider a thought experiment. What's something you've always wondered about someone, or a group of people? What if you could read your partner's emails? What if you could read the diary of your worst enemy? What if you could know anything you wanted about a person or a group of people---for example, how many people in the United States are awake at this very moment? How many people in the United States just got off work and are hungry for dinner? If you could know literally anything you wanted, would you want to know, and what would you want to know? Conversely, if you know that others could know literally anything they wanted, how would you want them to be able to know you?
 
 Now you understand the impulse to surveil. We live in an information-seeking society, where government, industry, religion, and social life are all driven by the desire to measure and compare every aspect of life. Everyone wants to know more, and the more you can know, the more you expect to be known and to know.
 
@@ -249,7 +249,7 @@ First, I would suggest arming yourself against the soundbites we identified in t
 * Chilling effect on freedom of speech and association
 * Unclear policies
 * Lack of accountability
-* Selling your identity (past, fears, and hopes) for money
+* Others making money off your identity and experience
 * Influencing your behavior
 * Amplifying social bias
 * Targeted at marginalized groups
@@ -285,7 +285,19 @@ _Closing conversation_
 
 # Exercises
 
-(These are proposed exercises: let us know which ones you find most compelling)
+_Note: These are proposed exercises: let us know which ones you find most compelling._
+
+## Cookie monster
+
+Look at tracking cookies in Chrome. People open their desktop browsers and visit the URL _chrome://settings/siteData?search=cookies_. They can see the unique identifying strings that websites and ad networks use to track their identity across several site visits. Accompany the exercise with illustrations from [How does online tracking actually work?](https://robertheaton.com/2017/11/20/how-does-online-tracking-actually-work/).
+
+## You're the AI
+
+Label the dataset of surveillance camera images that you gathered on the walking tour.
+
+_Discuss_
+* How AI depends on the human element
+* What if you labeled things incorrectly?
 
 ## Privacy checkup
 
@@ -306,10 +318,6 @@ _Closing conversation_
 * Make sure your browsing is locked down: look for HTTPS (the lock icon in the browser).
 * Serious privacy aficionados might use a secure OS like Tails or a secure browser like Tor, but be aware that this practice (unfortunately) might get you targeted.
 
-## Cookie monster
-
-Look at tracking cookies in Chrome. People open their desktop browsers and visit the URL _chrome://settings/siteData?search=cookies_. They can see the unique identifying strings that websites and ad networks use to track their identity across several site visits. Accompany the exercise with illustrations from [How does online tracking actually work?](https://robertheaton.com/2017/11/20/how-does-online-tracking-actually-work/).
-
 ## In someone else's shoes
 
 See a dashboard of all the things you are sharing publicly. 
@@ -327,11 +335,7 @@ Same as "In someone else's shoes" but we will display and use their location dat
 
 ## You are now a tech company
 
-You're given an example corpus of data with example search terms.
-
-You have a list of things/advertisements to sell.
-
-Work together to determine who to target those ads to.
+You're given an example corpus of data with example search terms. You have a list of things/advertisements to sell. Work together to determine who to target those ads to.
 
 _Discuss_
 * How did you make the decisions?
@@ -339,7 +343,7 @@ _Discuss_
 
 ## Terms of Service
 
-Two-part activity:
+Two-part activity
 
 * Display a fake ToS as part of our app that asks them to consent
   * Our fake ToS contains humorous/egregious comments, e.g., consenting to sell your soul
@@ -361,12 +365,15 @@ Important: WiFi network names can contain sensitive data! (Imagine a participant
 ### Example walkthrough
 
 The example data has been gathered:
-`00:0a:95:9d:68:16    xfinity
+
+```
+00:0a:95:9d:68:16    xfinity
 00:0a:95:9d:68:16    park94
 09:11:55:3d:22:11    AshZResidence
 09:11:55:3d:22:11    13th St Starbucks Free WiFi
 11:a0:c9:14:c8:29    Amazon-Work
-11:a0:c9:14:c8:29    LAX Boingo`
+11:a0:c9:14:c8:29    LAX Boingo
+```
 
 The facilitator can give a short introduction to what a MAC address is (link to field guide WiFi surveillance chapter).
 
@@ -385,9 +392,9 @@ If the group is stuck, the facilitator can:
 
 If the group unable to identify everyone, that’s okay! The facilitator can talk about other ways to identify someone, such a driving past someone’s house and seeing the same MAC address at that location. 
 They can also discuss how this information can be used to violate people’s privacy, such as location tracking
-It can also be a good segue into a discussion about location tracking and Acyclica [link to another writeup here].
+It can also be a good segue into a discussion about location tracking and Acyclica [TODO].
 
-If the group is interested or more advanced technologically, the facilitator can examine packets that are captured [need more details here].
+If the group is interested or more advanced technologically, the facilitator can examine packets that are captured [TODO].
 
 ## WiFi safari
 
