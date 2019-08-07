@@ -282,7 +282,7 @@ Knowledge is power. Stay informed about the uses and abuses of surveillance with
 * [SuperVision: an introduction to the surveillance society](https://socialandmobilemedia.files.wordpress.com/2017/02/supervision.pdf)
 * [Big other: surveillance capitalism and the
 prospects of an information civilization](https://cryptome.org/2015/07/big-other.pdf)
-* [Dark Matters: On the Surveillance of Blackness](https://www.dukeupress.edu/dark-matters)
+* [Dark matters: on the surveillance of blackness](https://www.dukeupress.edu/dark-matters)
 * [The NYTimes Privacy Project](https://www.nytimes.com/series/new-york-times-privacy-project)
 * [The Intercept](https://theintercept.com/)'s privacy and surveillance coverage
 * [Citizenfour](https://citizenfourfilm.com/)
