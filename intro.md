@@ -161,40 +161,42 @@ You have an Android phone and you go about your daily life. The Feds issue a geo
 _Note_: This is another pathway to public-private collusion, as well as discussing data storage/longevity issues and issues of scope creep.
 https://www.nytimes.com/interactive/2019/04/13/us/google-location-tracking-police.html?action=click&module=privacy%20belt%20recirc%20module&pgtype=Article
 
-You live in San Francisco, and you spend a nice day out at the Brainwash cafe. Unbeknownst to you, the camera in the cafe recorded your face. Stanford researchers tap into the camera installed in the cafe and grab all the face images to create a dataset, which is then used in China by to develop surveillance technology for monitoring and persecuting ethnic minorities.
-
-_Note_: This is an entry point to the role of facial recognition and AI in surveillance, as well as how data is 
-https://www.nytimes.com/2019/07/13/technology/databases-faces-facial-recognition-technology.html
-
-You’re out with your family and you take a bunch of nice photos, which you upload to Flickr.
-An IBM researcher scrapes your photo from Flickr and uses it to train a facial recognition model, technology that it sells to the NYPD so it can “search CCTV feeds for people with particular skin tones or hair color.”
+You’re out with your family and you take a bunch of nice photos, which you upload to Flickr. An IBM researcher scrapes your photo from Flickr and uses it to train a facial recognition model, technology that it sells to the NYPD so it can “search CCTV feeds for people with particular skin tones or hair color.”
 https://www.nbcnews.com/tech/internet/facial-recognition-s-dirty-little-secret-millions-online-photos-scraped-n981921
 
-You try to fill out a Google form, but first it asks you to click on some photos to identify the pedestrians.
-Your efforts are used to train self-driving cars in Google’s Waymo division.
+_Note_: This is an entry point to the role of facial recognition and AI in surveillance in the US, as well as how personal data is collected coercively to fuel private gain.
+https://www.nytimes.com/2019/07/13/technology/databases-faces-facial-recognition-technology.html
 
-You talk with your spouse about hardwood floors. Or you sing badly in the shower. You have an Alexa in the home. 
-Your conversation is recorded and transmitted by accident: https://www.npr.org/sections/thetwo-way/2018/05/25/614470096/amazon-echo-recorded-and-sent-couples-conversation-all-without-their-knowledge
-Or perhaps it is transmitted to workers who listen and transcribe it: https://www.bloomberg.com/news/articles/2019-04-10/is-anyone-listening-to-you-on-alexa-a-global-team-reviews-audio
+You live in San Francisco, and you spend a nice day out at the Brainwash cafe. Unbeknownst to you, the camera in the cafe recorded your face. Stanford researchers tap into the camera installed in the cafe and grab all the face images to create a dataset, which is then used in China by to develop surveillance technology for monitoring and persecuting ethnic minorities.
 
-You’re out in the city, walking to different places in a mall. You pause by a froyo store, but walk on. You later get an emailed coupon for a discount on yogurt.
-Bluetooth beacons and MAC address trackers in the mall ping your phone, identifying you uniquely from the list of wifi networks you have, and they know what stores you want to (e.g. Victoria’s Secret), for how long, and with who.
+_Note_: This story reinforces the above story about facial recognition, adds the nuance that data can move outside state boundaries, and is an entry point to the advanced Chinese surveillance state.
+
+You share a candlelit dinner with your partner at home. Your Alexa device records the audio of your conversation and sends it offshore for workers to transcribe. The transcription is used to improve Alexa's voice recognition technology.
+
+_Note_: This story introduces another corporate actor, Amazon, as well as personal hardware, and the coercive nature of modern AI.
+ https://www.npr.org/sections/thetwo-way/2018/05/25/614470096/amazon-echo-recorded-and-sent-couples-conversation-all-without-their-knowledge
+https://www.bloomberg.com/news/articles/2019-04-10/is-anyone-listening-to-you-on-alexa-a-global-team-reviews-audio
+
+You’re out with your friends downtown. A beacon tracks your location and knows that you went to Dick's Sporting Goods at 2 pm, to the mall at 3 pm, to the bathroom at 4 pm, and that you hesitated in front of a Doc Martens store but didn't go in. The next day, while reading the news, you see a bunch of ads for Doc Martens and decide to go back to the store.
+
+_Note_: This story is an entry point to ongoing corporate surveillance in physical space and how it ties into advertising and behavioral  microtargeting. It also reinforces how much information a smartphone can leak: Bluetooth beacons and MAC address trackers can ping your phone, identifying your location and identity. This story can lead into an exercise about wifi network inspection.
 https://www.nytimes.com/interactive/2019/06/14/opinion/bluetooth-wireless-tracking-privacy.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project
 https://arstechnica.com/information-technology/2013/08/no-this-isnt-a-scene-from-minority-report-this-trash-can-is-stalking-you/
-
-You drive around the city to several destinations: to work, to dinner, to your partner’s place.
-Your license plate is recorded by every ALPR you pass on the way; your MAC address is recorded by every Acyclica device you pass along the way; this data is stored by private and public entities (both the city and the companies that manufacture these devices) and sent to quasi-private entities for analysis, like Palantir. Let’s say you’re an immigrant--the city of Union City shares your location data with ICE, which uses your location info to deport you. https://www.aclunc.org/blog/documents-reveal-ice-using-driver-location-data-local-police-deportations
-
-You install a free “ruler” app on your iPhone.
-It records your real-time location and sells it to a data broker, which targets you with ads.
+https://ssd.eff.org/en/module/why-metadata-matters
 
 You’re out on the roof with your partner at night, enjoying a warm and intimate evening. Nobody can see you here, right?
-Unbeknownst to you, an NYPD helicopter is spying on you with thermal imaging. 
+Unbeknownst to you, a man in an NYPD helicopter is using thermal imaging to spy on you.
+
+_Note_: This story introduces the human element of surveillance: misuse of the state surveillance apparatus--ostensibly for your protection--for a human observer's voyeuristic glee, even in a place that should be secret.
 https://www.nytimes.com/2005/12/22/nyregion/police-video-caught-a-couples-intimate-moment-on-a-manhattan.html
 
-You are a US citizen on US soil. You visit the website of someone who is alleged to be a foreign suspect. Your request passes through your ISP (?), then AT&T, where it is intercepted by an NSA wiretap, sent to Maryland, and caught in XKEYSCORE by an NSA analyst. A predictive system uses this risk factor to put you on a no-fly list.
-TODO: NSA/AT&T wiretap (want to incorporate cell network)
-No-fly list
+You drive around the city to several destinations: to work, to dinner, to your partner’s place. Your license plate is recorded by every license plate reader you pass on the way and your laptop's unique identifier (called a MAC address) is recorded by every Acyclica device you pass along the way. This data is stored by private and public entities (both the city and the companies that manufacture these devices) and sent to quasi-private entities for analysis, like Palantir. One possible fate is that, if you are in the US as a migrant, the city might share your location data with ICE, which uses your location info to find and deport you. https://www.aclunc.org/blog/documents-reveal-ice-using-driver-location-data-local-police-deportations
+
+_Note_: This story is an entry point to state surveillance and starts to introduce some of the technology that we'll visit in the walking tour. It also reinforces the relationship between public and private actors, and introduces two main problems with pervasive surveillance, namely scope creep and data retention.
+
+You are a US citizen on US soil. While writing a paper, you visit the website of an academic collaborator in Britain, who (unbeknownst to you) is alleged to be a terrorist suspect. Your request for the webpage passes through your internet service provider, then through an AT&T peering center, where it is intercepted by an NSA wiretap, copied to Maryland, and caught in the XKEYSCORE software by an NSA analyst. This piece of information just about tips the scales of a predictive algorithm to land you on a no-fly list. You only find out when you try to fly to a conference to give an invited talk and you're stopped at the airport. There is no appeal or recourse for your status on the no-fly list.
+
+_Note_: This story is by necessity a collage of several stories, since we know so little about the inner workings of the NSA and the no-fly list---it's a "matter of national security." Nevertheless, based on the sources below, it seems plausible. This story is an entry point to several broader themes: the policy of the Foreign Intelligence Surveillance Act that the NSA should limit wiretapping to non-US citizens, and its ability to circumvent this policy to spy on US citizens if a foreign national is involved; the deep opacity and arbitrary nature of state surveillance and automated decision systems; public-private information sharing; the dragnet nature of surveillance; and the very frustrating and hurtful effects the combination of these factors can have on an individual. It's also a counterpoint to the "nothing to hide, nothing to fear" argument---you have nothing to hide, you would have no problem revealing your list of academic collaborators, and you've done nothing wrong; it's only the "guilt by association" argument that brings the hammer crashing down. 
 https://www.theguardian.com/us-news/2015/aug/10/us-no-fly-list-predictive-assessments
 https://thehill.com/opinion/national-security/429770-8-surprising-times-our-intel-community-spied-on-us-citizens
 
@@ -234,6 +236,8 @@ Surveillance is big business: "recession-proof"
 "Today’s organizations both require and create orderly, systematic knowledge about the people and things they govern or manage. Surveillance is in the DNA of the modern organization. Businesses, governments, universities, even individuals, seek to gather and organize information as an ongoing part of their work. It’s simply part of what we’re expected to do as responsible actors. Think about how many of our contemporary ideologies or value systems celebrate unfettered access to information. Science must have its data. Law must have its witnesses and confessions. Religion has its all-knowing deities. Democracy has its transparency. Rationality must have its perfect information. They all want to know more! This is a unique cultural alignment in which our key value systems unite to push us toward the celebration and advancement of surveillance as a means of social organization and control. In the face of this level of government, corporate, and ideological convergence in favor of advancing surveillance, we are skeptical that the flood can be pushed back. But we might be able to make it a bit more fair, transparent, and accountable."
 
 Driven by fear and desire
+
+TODO: surveillance walking tour
 
 ## Does surveillance keep me safe?
 
