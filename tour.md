@@ -34,13 +34,31 @@ As we walk around downtown Seattle, we'll refer to this [field guide](https://ww
 
 Visit Amazon Go, [a surveillance-powered convenience store](https://techcrunch.com/2018/01/21/inside-amazons-surveillance-powered-no-checkout-convenience-store/) at 2131 7th Ave, as well as the Seattle Spheres.
 
+### Overview
+
+Amazon Go is a convenience store without cashiers. Instead, cameras track your every move inside the store to determine what objects you’ve taken from the shelf, as well as your browsing habits, such as how long you hesitated before taking an item or whether you put an item back.
+
+Is it a big deal if Amazon knows that you like bagels over waffles? Well, maybe not in and of itself. But be aware of a few things. First, Amazon is probably combining your data from the physical Amazon Go store with data about your online purchases. Say you’ve bought an item that reveals your political or religious beliefs---Hillary Clinton’s book, a Hanukkah decoration---and you also get a coffee every day at 8am. Now Amazon knows about your beliefs and where to reliably find you. What happens if those beliefs become persecuted? [e.g., raids on Muslim-Americans].
+
+Second, once Amazon has your data, you’ve implicitly consented to whatever they want to do with that data. One way data is often used is to draw conclusions for advertisements. Ads have the power to shape individual beliefs and behavior---think about how teenage girls are affected by ads depicting impossible beauty standards. Targeted ads, which show ads based on your purchases and behavior, has an echo chamber effect, where the things you see reinforce your beliefs, which reinforces what Amazon shows you.
+
+We don’t necessarily know how else data is being used, because there is little legal oversight. Can Amazon sell this data to the government? Can Amazon track your location, based on what stores you go to? What if Amazon is accidentally storing your data insecurely, and an employee can access it? Can Amazon use the photo of your face to generate other face photos? All of these situations have happened in the past.
+
+Amazon Go is a tradeoff between convenience and surveillance. Day-to-day, surveillance is a mostly invisible price to pay, but it has the power to shape individual behavior as well as society. 
+
 ### Discussion
 
-* Try buying an item (need to install Amazon Go app first)
-* Talk about relationship between convenience and surveillance
+* Facilitator demonstrates buying an item
+* How have advertisements affected you or shaped your beliefs?
+* What are the societal effects of targeting ads based on [race, gender]?
+* When you go into Amazon Go, what do you imagine you are consenting to? How does this differ from the reality? How could this be changed?
+* If you were Amazon, what would you do with the data you collect? 
 * Quote from article: "It’s a bit overkill, I think, to replace a checker or self-checkout stand with a hundred cameras that unblinkingly record every tiny movement. What’s to gain? 20 or 30 seconds of your time back?"
 * Talk about Amazon's Rekognition system
-* Talk about this store: Facial recognition used at a [convenience store in Seattle](https://www.seattletimes.com/business/technology/when-convenience-meets-surveillance-ai-at-the-corner-store/) (another [story](https://www.kiro7.com/news/south-sound-news/tacoma-convenience-store-uses-facial-recognition-technology/950979811))
+
+### Further reading
+
+* Facial recognition used at a [convenience store in Seattle](https://www.seattletimes.com/business/technology/when-convenience-meets-surveillance-ai-at-the-corner-store/) (another [story](https://www.kiro7.com/news/south-sound-news/tacoma-convenience-store-uses-facial-recognition-technology/950979811))
 
 ## The Westin Building Exchange
 
@@ -120,14 +138,30 @@ Visit the traffic camera at 2nd Ave and Blanchard St.
 
 ## Automated license plate reader
 
-Visit an automated license plate reader (ALPR). Location TBD.
+Visit an automated license plate reader (ALPR). Location TBD. There are 99 static LPRs installed throughout the city. They are [PIPS P372 cameras](http://www.pipstechnology.com/fixedalpr/).
+
+### Overview
+
+Automatic License Plate Readers (ALPR), unsurprisingly, capture the license plates of cars that drive by. License plates are important because they uniquely identify a person---the government can look up who a license plate belongs to at a DMV. They are posted in street corners around Seattle. There is no public map, since the city doesn’t want to lose money from people evading speeding tickets.
+
+Well, if you’re not speeding, so what? First, ALPRs take pictures of your license plate even when there are no traffic violations. According to the city of Seattle, this is to keep track of traffic congestion. Second, with ALPRs located in many places around the city, the government could conceivably track your location, or the location history of any given person. Where you go can reveal a lot about you and can be used against you---for example, the NYPD collected license plates of people parked at mosques, in an "unapologetic approach to protecting the city from terrorism." Third, who gets access to this data, and how is it stored? Although Dept. of Transportation employees receive "training" to use the system, what prevents a malicious user from tracking their ex-partner, and is there any oversight? Currently, there is no legal requirement to audit or delete this data. 
 
 ### Discussion
 
-* There are 99 static LPRs installed throughout the city. They are [PIPS P372 cameras](http://www.pipstechnology.com/fixedalpr/).
+* What legal requirements, if any, should there be around use and retention of this data?
+  * View Insecam where license plates can be seen. https://www.insecam.org/en/view/793365/ 
+* What analog solutions exist to measure congestion on roads and give out speeding tickets, that don’t involve privacy violations?
+  * For example, weight plates or magnetic coils on roads.
+* Say we banned ALPRs and have worse traffic/congestion. What do you think of the tradeoff?
+* How do license plate readers compare to cameras that take pictures of faces in terms of privacy?
+* What motivates governments to surveill; in this case, to install ALPRs?
+  * Possible talking point: economic incentives at odds with citizens’ best interests
 * Note: they can be both mounted on police cars (mobile) and on public infrastructure (static)
 * Discuss the relationship between convenience and surveillance again, and less-invasive alternative technologies for achieving the same goals
 * Discuss the dragnet nature of surveillance (e.g. license plate numbers used to track members of Muslim and immigrant communities) and insecurity (e.g. cameras accessible online)
+
+### Further reading
+
 * Resources: [Seattle oversight](https://www.seattletimes.com/business/technology/seattles-oversight-of-surveillance-technology-is-moving-forward-slowly/), [SSO doc](http://www.seattle.gov/Documents/Departments/Tech/Privacy/License%20Plate%20Readers_Final%20SIR.pdf), [EFF doc](https://www.eff.org/pages/automated-license-plate-readers-alpr), [use by ICE](https://www.aclunc.org/blog/documents-reveal-ice-using-driver-location-data-local-police-deportations), [vulnerable ALPR systems](https://techcrunch.com/2019/01/22/police-alpr-license-plate-readers-accessible-internet/)
 * Activity: do a [Shodan search](https://techcrunch.com/2019/01/21/shodan-safari/)
 

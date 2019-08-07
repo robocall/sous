@@ -277,6 +277,8 @@ Finally: take the time to interrogate your own urge to know, and how it's enable
 
 # Exercises
 
+(These are proposed exercises: let us know which ones you find most compelling)
+
 ## Privacy checkup
 
 (TODO: write out exercises)
@@ -298,4 +300,91 @@ Finally: take the time to interrogate your own urge to know, and how it's enable
 
 ## Cookie monster
 
-Look at tracking cookies in Chrome. 
+Look at tracking cookies in Chrome. People open their desktop browsers and visit the URL _chrome://settings/siteData?search=cookies_. They can see the unique identifying strings that websites and ad networks use to track their identity across several site visits. Accompany the exercise with illustrations from [How does online tracking actually work?](https://robertheaton.com/2017/11/20/how-does-online-tracking-actually-work/).
+
+## In someone else's shoes
+
+See a dashboard of all the things you are sharing publicly. 
+A ML algorithm (created by us) will display:
+* Most common results
+* Inferred demographics (if possible)
+
+_Discuss_
+* Did you realize this information was public?
+* What are your expectations around public information? (For example, someone could use your picture and pretend to be you. Would you expect that?)
+
+## What do tech companies know about you?
+
+Same as "In someone else's shoes" but we will display and use their location data, search terms, FB posts shared only to friends, contacts, etc.
+
+## You are now a tech company
+
+You're given an example corpus of data with example search terms.
+
+You have a list of things/advertisements to sell.
+
+Work together to determine who to target those ads to.
+
+_Discuss_
+* How did you make the decisions?
+* What was your goal? What was your attitude towards the individual whose data you were looking at?
+
+## Terms of Service
+
+Two-part activity:
+
+* Display a fake ToS as part of our app that asks them to consent
+  * Our fake ToS contains humorous/egregious comments, e.g., consenting to sell your soul
+  * Takeaway: People don’t really read ToS
+* Dissect Google’s ToS and see what you are really consenting to
+
+## WiFi Guess Who
+
+The MAC addresses and corresponding WiFi network names are gathered via custom software (to be built by the sousveillance collective). Participants will work together as a group to match MAC addresses to the real-life person, in a game of Guess Who.
+
+Possible rules of the game:
+* Participants cannot identify themselves. Otherwise, it might be too easy as they know their home network names.
+* Participants can ask each other questions, e.g., “Who here works for Amazon?”
+* To encourage equal participation, possibly have participants sit in a circle and pass around an object (the person holding the object gets to speak / ask questions). 
+* Participants may opt out if they wish by turning their phones on airplane mode.
+
+Important: WiFi network names can contain sensitive data! (Imagine a participant who has connected to “dr_brown_psychiatry” or “seattle_strip_club”). The participant may not even realize that this may be revealed. To prevent this, before the start of the game, ask participants to view the list of networks that their device tries to connect to. They can remove any networks that are sensitive, but encourage them not to remove identifying but unembarrassing networks (e.g., “SFO airport”).
+
+### Example walkthrough
+
+The example data has been gathered:
+`00:0a:95:9d:68:16    xfinity
+00:0a:95:9d:68:16    park94
+09:11:55:3d:22:11    AshZResidence
+09:11:55:3d:22:11    13th St Starbucks Free WiFi
+11:a0:c9:14:c8:29    Amazon-Work
+11:a0:c9:14:c8:29    LAX Boingo`
+
+The facilitator can give a short introduction to what a MAC address is (link to field guide WiFi surveillance chapter).
+
+The facilitator may start off with some questions:
+
+* What types of identifying information can be spotted?
+* Is there anyone who can be identified right away? (For example, “Jay Park” must be the person who connects to “park94”).
+
+If the group is stuck, the facilitator can:
+
+* Help them think outside the box:
+  * What regions of Seattle are supported by Xfinity (an internet provider)? Can this help narrow down people based on where they live?
+* Pivot the discussion by examining what information is missing or how information was obscured, to prevent identification
+  * What kind of WiFi network names obfuscated identities in this exercise?
+  * Even if you couldn’t identify someone, what information were you able to gather about that person? How could this information be used by [an advertiser, the government, a company, a malicious person]?
+
+If the group unable to identify everyone, that’s okay! The facilitator can talk about other ways to identify someone, such a driving past someone’s house and seeing the same MAC address at that location. 
+They can also discuss how this information can be used to violate people’s privacy, such as location tracking
+It can also be a good segue into a discussion about location tracking and Acyclica [link to another writeup here].
+
+If the group is interested or more advanced technologically, the facilitator can examine packets that are captured [need more details here].
+
+## WiFi safari
+
+Participants join a local network that the facilitator sets up. The group observes the network traffic, e.g. the MAC addresses and packet snippets.
+
+Possibly, with a bigger group, replicate Acyclica
+  * Split up into smaller groups.
+  * See if there are any MAC address repeats. What does that tell you about that person? 
