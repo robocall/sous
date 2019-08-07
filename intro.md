@@ -70,7 +70,7 @@ Where did these soundbites come from? In most cases, nowhere in particular. But 
 
 Our goal today is to talk about water. Let's work together to build a fresh understanding of surveillance. First, let's talk about the ways that we experience watching.
 
-*Discuss*
+*Opening conversation*
 
 * What brought you here today?
 * Why do you care about privacy?
@@ -274,6 +274,12 @@ prospects of an information civilization](https://cryptome.org/2015/07/big-other
 * [Citizenfour](https://citizenfourfilm.com/)
 
 Finally: take the time to interrogate your own urge to know, and how it's enabled by the society we live in.
+
+_Closing conversation_
+
+* How has your understanding of surveillance changed during the last few hours, if at all?
+* Discuss opportunities to provide public comment on the [Seattle Surveillance Ordinance](http://www.seattle.gov/tech/initiatives/privacy/surveillance-technologies/about-surveillance-ordinance) and take action with the ACLU WA
+* How do you want things to change?
 
 # Exercises
 

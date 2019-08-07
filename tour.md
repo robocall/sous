@@ -16,14 +16,6 @@
 
 As we walk around downtown Seattle, we'll refer to this [field guide](https://www.figma.com/file/C15vnW0gtZybtY24eXREfy/Field-Guide-Prototype?node-id=0%3A1). Map and photos coming soon.
 
-## Opening conversation
-
-* How has surveillance affected you?
-* What messages about surveillance are you hearing from the media and your friends?
-* How do you think you're being watched, if at all?
-* How would you want your data to be used, if at all?
-* How do you want things to change?
-
 ### Themes
 
 * Layers of surveillance (private, local, state, public, federal)
@@ -59,6 +51,7 @@ Amazon Go is a tradeoff between convenience and surveillance. Day-to-day, survei
 ### Further reading
 
 * Facial recognition used at a [convenience store in Seattle](https://www.seattletimes.com/business/technology/when-convenience-meets-surveillance-ai-at-the-corner-store/) (another [story](https://www.kiro7.com/news/south-sound-news/tacoma-convenience-store-uses-facial-recognition-technology/950979811))
+* How much is your data worth? ["No cash needed at this cafe. Students pay the tab with their personal data."](https://www.npr.org/sections/thesalt/2018/09/29/643386327/no-cash-needed-at-this-cafe-students-pay-the-tab-with-their-personal-data) 
 
 ## The Westin Building Exchange
 
@@ -149,7 +142,7 @@ Well, if you’re not speeding, so what? First, ALPRs take pictures of your lice
 ### Discussion
 
 * What legal requirements, if any, should there be around use and retention of this data?
-  * View Insecam where license plates can be seen. https://www.insecam.org/en/view/793365/ 
+  * View Insecam where [license plates can be seen](https://www.insecam.org/en/view/793365/). 
 * What analog solutions exist to measure congestion on roads and give out speeding tickets, that don’t involve privacy violations?
   * For example, weight plates or magnetic coils on roads.
 * Say we banned ALPRs and have worse traffic/congestion. What do you think of the tradeoff?
@@ -183,11 +176,3 @@ Activity: we'll pick one block in downtown and try to find, photograph, and map 
 
 * [Gunshot detectors](https://theyarewatching.org/technology/gunshot-detector), not in [Seattle](https://www.thestranger.com/slog/2016/06/02/24158530/mayor-council-and-police-try-again-with-shotspotter-gunshot-detection-system) but in Chicago, New York, and Oakland (CA)
 * [Seattle Stingray tracking](https://www.wired.com/2017/06/researchers-use-rideshares-sniff-stingray-locations/)
-
-## Closing conversation
-
-* Discuss surveillance capitalism (the relationship between knowing and predicting and how corporations profit from influencing people's behavior)
-* Discuss opportunities to provide public comment on the [Seattle Surveillance Ordinance](http://www.seattle.gov/tech/initiatives/privacy/surveillance-technologies/about-surveillance-ordinance) and take action with the ACLU WA
-* Discuss other SSO technologies or common surveillance technologies from ACLU's  [They Are Watching](https://theyarewatching.org).
-* How would you want your data to be used, if at all?
-* How do you want things to change?
