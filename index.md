@@ -1,5 +1,5 @@
 * [Watching the watchers: a workshop](workshop.md)
-* [Surveillance toolkit](toolkit-toc.html)
+* [Surveillance toolkit](toolkit.html)
 * [A walking tour of surveillance infrastructure in downtown Seattle](tour.md)
 * [A field guide to spotting surveillance cameras](field-guide.md)
 * [Who's watching you and how?](whos-watching.md)
