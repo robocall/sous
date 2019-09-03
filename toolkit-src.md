@@ -240,7 +240,7 @@ We've discussed many stories about our information. We've seen how it can be use
 
 Here is one possible way to map the anatomy of surveillance.
 
-![](media/anatomy-of-surveillance.png)
+<img src="media/anatomy-of-surveillance.png" width="550">
 
 You can find the high-resolution image [here](https://www.figma.com/file/C15vnW0gtZybtY24eXREfy/Field-Guide-Prototype?node-id=75%3A0).
 

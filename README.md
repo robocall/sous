@@ -1,3 +1,3 @@
 # README
 
-To build the toolkit, run `pandoc toolkit.md > toolkit-toc.html`.
+To build the toolkit, run `pandoc toolkit-src.md > toolkit.html`.
