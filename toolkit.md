@@ -1,20 +1,10 @@
-<script>
-console.log("hi");
-</script>
+<div class="js-toc">
+</div>
 
+<div class="js-toc-content">
 # Surveillance toolkit
 
 **Note: this material is a work in progress.**
-
-## Contents
-
-* [Notes to the instructor](#notes-to-the-instructor)
-* [Introduction: How do we understand surveillance and privacy?](#introduction-how-do-we-understand-surveillance-and-privacy)
-* [How am I being surveilled in my daily life? Using stories to map surveillance](#how-am-i-being-surveilled-in-my-daily-life-using-stories-to-map-surveillance)
-* [Understanding surveillance](#understanding-surveillance)
-* [Surveillance infrastructure walking tour](https://sousveillance-collective.github.io/tour.html)
-* [Taking action](#taking-action)
-* [Exercises](#exercises)
 
 ## Notes to the instructor
 
@@ -419,3 +409,25 @@ Participants join a local network that the facilitator sets up. The group observ
 Possibly, with a bigger group, replicate Acyclica
   * Split up into smaller groups.
   * See if there are any MAC address repeats. What does that tell you about that person? 
+</div>
+
+<script
+  src="https://code.jquery.com/jquery-3.4.1.min.js"
+    integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+	  crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.4.2/tocbot.min.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.4.2/tocbot.css">
+
+<script>
+ console.log("hi");
+ tocbot.init({
+     // Where to render the table of contents.
+     tocSelector: '.js-toc',
+     // Where to grab the headings to build the table of contents.
+     contentSelector: '.js-toc-content',
+     // Which headings to grab inside of the contentSelector element.
+     headingSelector: 'h1, h2, h3',
+     // For headings inside relative or absolute positioned containers within content.
+     hasInnerContainers: true,
+ });
+</script>
