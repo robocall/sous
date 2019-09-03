@@ -1,3 +1,5 @@
+<!-- <link rel="stylesheet" href="https://acdlite.github.io/jquery.sidenotes/css/main.css"> -->
+
 <!-- https://tscanlin.github.io/tocbot/ -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.4.2/tocbot.css">
 
@@ -5,7 +7,7 @@
 
 <link rel="stylesheet" href="styles/toolkit-styles.css" class="next-head">
 
-<div class="mw7 center dark-gray lh-copy">
+<div class="mw7 center dark-gray lh-copy all-content">
 
 <nav class="toc toc-right js-toc relative z-1 transition--300 absolute pa4 is-position-fixed">
 </nav>
@@ -16,7 +18,15 @@
 <div class="content js-toc-content pa4">
 # Surveillance toolkit
 
-**Note: this material is a work in progress.**
+**Note: this material[^1] is a work in progress.[^bignote]**
+
+[^1]: Test footnote
+
+[^bignote]: Really
+
+    Really
+
+    Big note
 
 ## Notes to the instructor
 
@@ -316,6 +326,7 @@ Look at tracking cookies in Chrome. People open their desktop browsers and visit
 Label the dataset of surveillance camera images that you gathered on the walking tour.
 
 _Discuss_
+
 * How AI depends on the human element
 * What if you labeled things incorrectly?
 
@@ -342,10 +353,12 @@ _Discuss_
 
 See a dashboard of all the things you are sharing publicly. 
 A ML algorithm (created by us) will display:
+
 * Most common results
 * Inferred demographics (if possible)
 
 _Discuss_
+
 * Did you realize this information was public?
 * What are your expectations around public information? (For example, someone could use your picture and pretend to be you. Would you expect that?)
 
@@ -358,6 +371,7 @@ Same as "In someone else's shoes" but we will display and use their location dat
 You're given an example corpus of data with example search terms. You have a list of things/advertisements to sell. Work together to determine who to target those ads to.
 
 _Discuss_
+
 * How did you make the decisions?
 * What was your goal? What was your attitude towards the individual whose data you were looking at?
 
@@ -375,6 +389,7 @@ Two-part activity
 The MAC addresses and corresponding WiFi network names are gathered via custom software (to be built by the sousveillance collective). Participants will work together as a group to match MAC addresses to the real-life person, in a game of Guess Who.
 
 Possible rules of the game:
+
 * Participants cannot identify themselves. Otherwise, it might be too easy as they know their home network names.
 * Participants can ask each other questions, e.g., “Who here works for Amazon?”
 * To encourage equal participation, possibly have participants sit in a circle and pass around an object (the person holding the object gets to speak / ask questions). 
@@ -420,9 +435,13 @@ If the group is interested or more advanced technologically, the facilitator can
 
 Participants join a local network that the facilitator sets up. The group observes the network traffic, e.g. the MAC addresses and packet snippets.
 
-Possibly, with a bigger group, replicate Acyclica
+Possibly[^note], with a bigger group, replicate Acyclica
+
+[^note]: another note
+
   * Split up into smaller groups.
   * See if there are any MAC address repeats. What does that tell you about that person? 
+
 </div>
 
 </div>
@@ -432,17 +451,25 @@ Possibly, with a bigger group, replicate Acyclica
     integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
 	  crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.4.2/tocbot.min.js"></script>
+<script src="lib/jquery.sidenotes.js"></script>
 
 <script>
- console.log("hi");
- tocbot.init({
-     // Where to render the table of contents.
-     tocSelector: '.js-toc',
-     // Where to grab the headings to build the table of contents.
-     contentSelector: '.js-toc-content',
-     // Which headings to grab inside of the contentSelector element.
-     headingSelector: 'h1, h2, h3',
-     // For headings inside relative or absolute positioned containers within content.
-     hasInnerContainers: true,
+ $(() => {
+     console.log("ready");
+
+     tocbot.init({
+	 // Where to render the table of contents.
+	 tocSelector: '.js-toc',
+	 // Where to grab the headings to build the table of contents.
+	 contentSelector: '.js-toc-content',
+	 // Which headings to grab inside of the contentSelector element.
+	 headingSelector: 'h1, h2, h3',
+	 // For headings inside relative or absolute positioned containers within content.
+	 hasInnerContainers: true,
+     });
+
+     $(".footnotes").appendTo(".all-content");
+
+     /*      $('.all-content').sidenotes();*/
  });
 </script>
