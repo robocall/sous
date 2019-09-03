@@ -1,7 +1,19 @@
-<div class="js-toc">
-</div>
+<!-- https://tscanlin.github.io/tocbot/ -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.4.2/tocbot.css">
 
-<div class="js-toc-content">
+<!-- <link rel="stylesheet" href="https://tscanlin.github.io/tocbot/static/css/styles.css" class="next-head"> -->
+
+<link rel="stylesheet" href="styles/toolkit-styles.css" class="next-head">
+
+<div class="mw7 center dark-gray lh-copy">
+
+<nav class="toc toc-right js-toc relative z-1 transition--300 absolute pa4 is-position-fixed">
+</nav>
+
+<!-- <div class="js-toc">
+     </div> -->
+
+<div class="content js-toc-content pa4">
 # Surveillance toolkit
 
 **Note: this material is a work in progress.**
@@ -106,6 +118,7 @@ Now that we've talked about surveillance and privacy in the abstract, let's get 
 
 > Are You Under Surveillance?
 > Let’s do a quick check. Do you have any of these?
+> 
 > * a cell phone
 > * a credit or debit card
 > * an identification card
@@ -131,6 +144,7 @@ Let's take this trend to the extreme. If institutions like the state and compani
 * [The future of personalized advertising](https://www.youtube.com/watch?v=7bXJ_obaiYQ)
 
 *Discuss*
+
 * When do you think this film was made?
   * It was actually made 17 years ago, in 2002, when Google barely existed (it was founded in 1998) and before Twitter even existed (it was founded in 2006). The film predicted the future so well because Spielberg directed his advisors to think about the trends in *how tech was being used*.
 * Would you support PreCrime?
@@ -411,12 +425,13 @@ Possibly, with a bigger group, replicate Acyclica
   * See if there are any MAC address repeats. What does that tell you about that person? 
 </div>
 
+</div>
+
 <script
   src="https://code.jquery.com/jquery-3.4.1.min.js"
     integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
 	  crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.4.2/tocbot.min.js"></script>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.4.2/tocbot.css">
 
 <script>
  console.log("hi");
