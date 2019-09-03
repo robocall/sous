@@ -1,3 +1,7 @@
+<script>
+console.log("hi");
+</script>
+
 # Surveillance toolkit
 
 **Note: this material is a work in progress.**
