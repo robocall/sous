@@ -11,8 +11,8 @@ This workshop is a hands-on introduction to identifying how you're being watched
 The workshop will run about two and a half hours:
 
 * 15 mins: opening group discussion
-* 30 mins: background and introduction to surveillance systems and how they encroach on civil liberties, covering the topics outlined [here](toolkit.md)
-* 1 hour: community walk to spot and photograph surveillance cameras and other infrastructure in public space, visiting the stops [here](tour.md)
+* 30 mins: background and introduction to surveillance systems and how they encroach on civil liberties, covering the topics outlined [here](toolkit.html)
+* 1 hour: community walk to spot and photograph surveillance cameras and other infrastructure in public space, visiting the stops [here](tour.html)
 * 30 mins: collaborative labeling of surveillance cameras in the dataset we created
 * 15 mins: closing group discussion + overview of ways to continue taking action with ACLU WA and partners
 

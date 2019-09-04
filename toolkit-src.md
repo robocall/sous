@@ -247,7 +247,7 @@ Another metaphor for understanding surveillance is that of the *surveillant asse
 
 Let's get some fresh air and make this real: let's go see some surveillance infrastructure in real life.
 
-*Exercise*: Conduct the [surveillance infrastructure walking tour.](https://sousveillance-collective.github.io/tour.html)
+*Exercise*: Conduct the [surveillance infrastructure walking tour.](http://www.coveillance.org/tour.html)
 
 After returning from tour:
 
