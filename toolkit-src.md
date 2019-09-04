@@ -15,15 +15,7 @@
 <div class="content js-toc-content pa4">
 # Surveillance toolkit
 
-**Note: this material[^1] is a work in progress.[^bignote]**
-
-[^1]: Test footnote
-
-[^bignote]: Really
-
-    Really
-
-    Big note
+**Note: this material is a work in progress.**
 
 ## Notes to the instructor
 
@@ -432,9 +424,7 @@ If the group is interested or more advanced technologically, the facilitator can
 
 Participants join a local network that the facilitator sets up. The group observes the network traffic, e.g. the MAC addresses and packet snippets.
 
-Possibly[^note], with a bigger group, replicate Acyclica
-
-[^note]: another note
+Possibly, with a bigger group, replicate Acyclica
 
   * Split up into smaller groups.
   * See if there are any MAC address repeats. What does that tell you about that person? 

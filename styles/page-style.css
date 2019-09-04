@@ -3,3 +3,39 @@ body {
     margin-right: 20%;
     margin-top: 5%;
 }
+
+/* unvisited link */
+a:link {
+    color: midnightblue;
+}
+
+/* visited link */
+a:visited {
+    color: midnightblue;
+}
+
+/* mouse over link */
+a:hover {
+    color: royalblue;
+}
+
+/* selected link */
+a:active {
+    color: royalblue;
+}
+
+a:link {
+    /* text-decoration: none; */
+}
+
+a:visited {
+    /* text-decoration: none; */
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    text-decoration: underline;
+}
