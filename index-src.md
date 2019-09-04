@@ -1,3 +1,5 @@
+<title>coveillance</title>
+
 <link rel="stylesheet" href="styles/toolkit-styles.css" class="next-head">
 <link rel="stylesheet" href="styles/page-style.css">
 
