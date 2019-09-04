@@ -13,9 +13,19 @@
 </nav>
 
 <div class="content js-toc-content pa4">
-# Surveillance toolkit
+# A people's guide to surveillance
 
 **Note: this material is a work in progress.**
+
+## Why are we making this toolkit?
+
+It’s hard to get a grasp on surveillance and privacy. It’s a huge topic with deep social, historical, and technical dimensions that also impacts our lives from second to second. Governments and companies have incentives to hide how it works. And it changes fast—it seems like some catastrophic new development happens every day. It’s hard to find clear information.
+
+We found that there doesn’t yet exist any accessible, comprehensive, experiential teaching and learning material for building a high-level understanding of surveillance. There are many excellent books, whitepapers, pieces of software, news articles, visualizations, technical guides etc. out there about surveillance and privacy, produced by many excellent independent groups. Building on their work, we aim to knit existing resources together into a living toolkit that community members can adapt for their own use.
+
+Our goal is that you can use our material to get a group of people from “I’m scared” or “why should I care?” to “I understand why this stuff matters, I understand the context of any new news I see, I know what to do to make things safer for myself, and I know where to look to find further reading on the topics I’m interested in.”
+
+(The name of our work is inspired by [_A People's Guide to AI_](https://www.alliedmedia.org/peoples-ai).)
 
 ## Notes to the instructor
 
