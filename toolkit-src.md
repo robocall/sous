@@ -1,9 +1,9 @@
 <!-- <link rel="stylesheet" href="https://acdlite.github.io/jquery.sidenotes/css/main.css"> -->
 
 <!-- https://tscanlin.github.io/tocbot/ -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.4.2/tocbot.css">
-
 <!-- <link rel="stylesheet" href="https://tscanlin.github.io/tocbot/static/css/styles.css" class="next-head"> -->
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.4.2/tocbot.css">
 
 <link rel="stylesheet" href="styles/toolkit-styles.css" class="next-head">
 
@@ -11,9 +11,6 @@
 
 <nav class="toc toc-right js-toc relative z-1 transition--300 absolute pa4 is-position-fixed">
 </nav>
-
-<!-- <div class="js-toc">
-     </div> -->
 
 <div class="content js-toc-content pa4">
 # Surveillance toolkit
