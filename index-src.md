@@ -3,11 +3,14 @@
 
 # coveillance.org
 
-* [Watching the watchers: a workshop](workshop.md)
-* [Surveillance toolkit](toolkit.html)
-* [A walking tour of surveillance infrastructure in downtown Seattle](tour.html)
-* [A field guide to spotting surveillance cameras](field-guide.md)
-* [Who's watching you and how?](whos-watching.md)
-* [More info](misc.md)
+<!-- * [Watching the watchers: a workshop](http://www.coveillance.org/workshop) -->
+<!-- * [A field guide to spotting surveillance cameras](http://www.coveillance.org/field-guide) -->
+<!-- * [Who's watching you and how?](http://www.coveillance.org/whos-watching) -->
+<!-- * [More info](http://www.coveillance.org/misc) -->
 
-We are a group of researchers and engineers who are working on demystifying surveillance technologies. <a href="mailto:sousveillance@protonmail.com">(@)</a>
+We are a group of researchers and engineers working on demystifying surveillance. 
+
+We've put together a [surveillance toolkit](http://www.coveillance.org/toolkit)
+and [a walking tour of surveillance infrastructure in downtown Seattle](http://www.coveillance.org/tour).
+
+<a href="mailto:sousveillance@protonmail.com">contact</a>
