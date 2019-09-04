@@ -10,7 +10,7 @@
 
 We are a group of researchers and engineers working on demystifying surveillance. 
 
-We've put together a [surveillance toolkit](http://www.coveillance.org/toolkit)
+We are putting together a [people's surveillance toolkit](http://www.coveillance.org/toolkit)
 and [a walking tour of surveillance infrastructure in downtown Seattle](http://www.coveillance.org/tour).
 
 <a href="mailto:sousveillance@protonmail.com">contact</a>
