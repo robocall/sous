@@ -18,25 +18,9 @@
 
 **Note: this material is a work in progress.**
 
-## Itinerary
-
-* [Amazon Go](#amazon-go)
-* [The Westin Building Exchange](#the-westin-building-exchange)
-* [AT&T peering site (NSA wiretap site)](#att-peering-site-nsa-wiretap-site)
-* [Small cell antenna](#small-cell-antenna)
-* [Acyclica installation](#acyclica-installation)
-* [Traffic camera](#traffic-camera)
-* [Automated license plate reader](#automated-license-plate-reader)
-* [Surveillance camera safari](#surveillance-camera-safari)
-* [Other infrastructure](#other-infrastructure)
+## Introduction
 
 As we walk around downtown Seattle, we'll refer to this [field guide](https://www.figma.com/file/C15vnW0gtZybtY24eXREfy/Field-Guide-Prototype?node-id=0%3A1). Map and photos coming soon.
-
-### Themes
-
-* Layers of surveillance (private, local, state, public, federal)
-* How civil liberties are affected
-* How data is fused, correlated, and collated
 
 ## Amazon Go
 
@@ -192,6 +176,14 @@ Activity: we'll pick one block in downtown and try to find, photograph, and map 
 
 * [Gunshot detectors](https://theyarewatching.org/technology/gunshot-detector), not in [Seattle](https://www.thestranger.com/slog/2016/06/02/24158530/mayor-council-and-police-try-again-with-shotspotter-gunshot-detection-system) but in Chicago, New York, and Oakland (CA)
 * [Seattle Stingray tracking](https://www.wired.com/2017/06/researchers-use-rideshares-sniff-stingray-locations/)
+
+## Discussion
+
+Themes
+
+* Layers of surveillance (private, local, state, public, federal)
+* How civil liberties are affected
+* How data is fused, correlated, and collated
 
 </div>
 
