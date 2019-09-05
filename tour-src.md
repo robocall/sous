@@ -1,3 +1,7 @@
+<title>surveillance walking tour</title>
+
+<link rel="icon" type="image/png" href="http://www.coveillance.org/eyes.png">
+
 <!-- <link rel="stylesheet" href="https://acdlite.github.io/jquery.sidenotes/css/main.css"> -->
 
 <!-- https://tscanlin.github.io/tocbot/ -->

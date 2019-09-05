@@ -1,3 +1,6 @@
+<title>surveillance toolkit</title>
+<link rel="icon" type="image/png" href="http://www.coveillance.org/eyes.png">
+
 <!-- <link rel="stylesheet" href="https://acdlite.github.io/jquery.sidenotes/css/main.css"> -->
 
 <!-- https://tscanlin.github.io/tocbot/ -->
@@ -21,7 +24,7 @@
 
 It’s hard to get a grasp on surveillance and privacy. It’s a huge topic with deep social, historical, and technical dimensions that also impacts our lives from second to second. Governments and companies have incentives to hide how it works. And it changes fast—it seems like some catastrophic new development happens every day. It’s hard to find clear information.
 
-We found that there doesn’t yet exist any accessible, comprehensive, experiential teaching and learning material for building a high-level understanding of surveillance. There are many excellent books, whitepapers, pieces of software, news articles, visualizations, technical guides etc. out there about surveillance and privacy, produced by many excellent independent groups. Building on their work, we aim to knit existing resources together into a living toolkit that community members can adapt for their own use.
+There are many excellent single resources out there for learning about surveillance and privacy--various books, whitepapers, pieces of software, news articles, visualizations, and technical guides. We aim to knit existing resources together into a living toolkit that community members can adapt for their own use. Specifically, we aim to fill the timely need for accessible, comprehensive, experience-focused teaching and learning material for building a high-level and technically-sound understanding of surveillance.
 
 Our goal is that you can use our material to get a group of people from “I’m scared” or “why should I care?” to “I understand why this stuff matters, I understand the context of any new news I see, I know what to do to make things safer for myself, and I know where to look to find further reading on the topics I’m interested in.”
 
@@ -322,7 +325,7 @@ Look at tracking cookies in Chrome. People open their desktop browsers and visit
 
 ### You're the AI
 
-Label the dataset of surveillance camera images that you gathered on the walking tour.
+Label the dataset of surveillance camera images that you gathered on the walking tour. See [A field guide to spotting surveillance cameras](http://www.coveillance.org/field-guide) for more information.
 
 _Discuss_
 

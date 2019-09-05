@@ -1,3 +1,22 @@
+<title>camera spotting</title>
+
+<link rel="icon" type="image/png" href="http://www.coveillance.org/eyes.png">
+<!-- <link rel="stylesheet" href="https://acdlite.github.io/jquery.sidenotes/css/main.css"> -->
+
+<!-- https://tscanlin.github.io/tocbot/ -->
+<!-- <link rel="stylesheet" href="https://tscanlin.github.io/tocbot/static/css/styles.css" class="next-head"> -->
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.4.2/tocbot.css">
+
+<link rel="stylesheet" href="styles/toolkit-styles.css" class="next-head">
+
+<div class="mw7 center dark-gray lh-copy all-content">
+
+<nav class="toc toc-right js-toc relative z-1 transition--300 absolute pa4 is-position-fixed">
+</nav>
+
+<div class="content js-toc-content pa4">
+
 <!-- TODO:
 map links
 practice image rollover
@@ -29,7 +48,7 @@ In short, the main kinds of cameras are dome cameras, bullet cameras, traffic ca
 
 Cameras are often spotted on poles, ledges, overhangs, rooftops. They are often spotted watching parking lots, doors, banks, intersections, and government buildings. Indoors, they are typically spotted on roofs and near cash registers. They are typically positioned right above human height or very far above it. The box that is often seen near a camera is an infrared light for night vision. 
 
-![](media/camera-locs.png)
+<img src="media/camera-locs.png" width="550">
 
 _Red = more likely to see cameras_
 
@@ -43,13 +62,13 @@ When spotting cameras, privilege institutional surveillance (e.g. police, govern
 
 Be aware that sometimes a camera is positioned as a deterrent, and does not actually work! Also, even if a camera works, no one may be watching.
 
-# What can a camera see?
+## What can a camera see?
 
 A camera's field of view depends on its angle and the focal length of the camera lens, unless it's a pan-tilt-zoom camera.
 
 Check out these primers on the field of view of a CCTV camera:
 
-![](https://www.lorextechnology.com/images/articles/support/FoV_comparison_60-2.png)
+<img src="https://www.lorextechnology.com/images/articles/support/FoV_comparison_60-2.png" width="300">
 
 * [Diagrams](https://www.lorextechnology.com/self-serve/guide-to-field-of-view-lens-types/R-sc2900041)
 * [Visual examples](https://www.securitycamera2000.com/tools/comparethefieldofviewfordifferentsecuritycameralenses)
@@ -61,11 +80,11 @@ Try it yourself: experiment with [controlling these pan-tilt-zoom cameras in Pit
 
 Practice spotting the cameras in the below images:
 
-![](media/example-1a.png)
-![](media/example-1b.png)
+<img src="media/example-1a.png" width="550">
+<img src="media/example-1b.png" width="550">
 
-![](media/example-2a.png)
-![](media/example-2b.png)
+<img src="media/example-2a.png" width="550">
+<img src="media/example-2b.png" width="550">
 
 ## Ways to detect cameras on the network
 
@@ -94,12 +113,44 @@ First, we want the dataset to mirror how the model will be deployed in real life
 
 Second, please label your images consistently. For our model we only include the "head" of the camera, not the "body," and draw the box as tightly as possible. We also only have one class for all kinds of cameras, which is just called "surveillance-camera" (later we might make more classes). Also, be sure to label *all* cameras in an image if there are multiple!
 
-![](media/bbox1.png)
-![](media/bbox3.png)
-![](media/bbox4.png)
+<img src="media/bbox1.png" width="550">
+<img src="media/bbox3.png" width="550">
+<img src="media/bbox4.png" width="550">
 
 You can use software like [vott](https://github.com/microsoft/VoTT) to label your cameras with bounding boxes, and export the annotations as JSON or Pascal VOC (either format is fine).
 
 Lastly, if you can, try to record metadata like camera locations (street intersections or latitude-longitude coordinates) so they can be used for other analysis (such as mapping) later.
 
-Please send us your images, along with any labels and metadata, at sousveillance@protonmail.com. Any questions and feedback are welcome as well. Feel free to forward this guide to anyone you think will find it useful. Thanks!
+Please send us your images, along with any labels and metadata, at <a href="mailto:sousveillance@protonmail.com">sousveillance@protonmail.com</a>. Any questions and feedback are welcome as well. Feel free to forward this guide to anyone you think will find it useful. Thanks!
+
+</div>
+
+</div>
+
+<script
+  src="https://code.jquery.com/jquery-3.4.1.min.js"
+    integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+	  crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.4.2/tocbot.min.js"></script>
+<script src="lib/jquery.sidenotes.js"></script>
+
+<script>
+ $(() => {
+     console.log("ready");
+
+     tocbot.init({
+	 // Where to render the table of contents.
+	 tocSelector: '.js-toc',
+	 // Where to grab the headings to build the table of contents.
+	 contentSelector: '.js-toc-content',
+	 // Which headings to grab inside of the contentSelector element.
+	 headingSelector: 'h1, h2, h3',
+	 // For headings inside relative or absolute positioned containers within content.
+	 hasInnerContainers: true,
+     });
+
+     $(".footnotes").appendTo(".all-content");
+
+     /*      $('.all-content').sidenotes();*/
+ });
+</script>
