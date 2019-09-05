@@ -35,6 +35,7 @@ fs.readdir(path, function(err, items) {
 		exec(cmd, (error, stdout, stderr) => {
 		    console.log("results", error, stdout, stderr);
 		})
+		exec('open ' + output_name);
 	    }
 	}
     }

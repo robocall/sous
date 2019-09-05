@@ -1,5 +1,5 @@
-<title>surveillance toolkit</title>
 <link rel="icon" type="image/png" href="http://www.coveillance.org/eyes.png">
+<title>surveillance toolkit</title>
 
 <!-- <link rel="stylesheet" href="https://acdlite.github.io/jquery.sidenotes/css/main.css"> -->
 

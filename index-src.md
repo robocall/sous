@@ -1,6 +1,5 @@
-<title>coveillance</title>
-
 <link rel="icon" type="image/png" href="http://www.coveillance.org/eyes.png">
+<title>coveillance</title>
 <link rel="stylesheet" href="styles/toolkit-styles.css" class="next-head">
 <link rel="stylesheet" href="styles/page-style.css">
 
