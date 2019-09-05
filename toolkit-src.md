@@ -162,6 +162,129 @@ Let's take this trend to the extreme. If institutions like the state and compani
 * Would you support PreCrime?
 * In what ways does the film reflect reality today, or not?
 
+## The surveillance gap
+
+> _We never had privacy._
+> 
+> _—Hamid Khan (Stop LAPD Spying Coalition)_
+
+Even if you haven't felt it, the gaze of the state has always been a weapon aimed at reinforcing its own power.
+
+How do you feel when you see a surveillance camera? Do you feel safe? Uneasy? A combination?
+Our perception of state surveillance often surrounds heightened forms of control. This is not too far from origins of state surveillance as a counter military tactic. These systems, when turned domestically, continue to live on in the name of “national security.” In 2009, the birth of predictive policing took form from counterinsurgency tactics in Afghanistan that drew parallels between armed Afghan men and Latino youth.[^9] 
+
+[^9]: [“We’ve Never Had Privacy, Hamid Khan”](https://truthout.org/video/we-ve-never-had-privacy-hamid-khan-on-how-the-surveillance-state-impacts-marginalized-communities/))
+
+So while heightened forms of state surveillance has implications for radical work and movement building, “internalized” surveillance turns this heightened, militarized scrutiny towards “othered” populations.
+
+In March 1713, the City of New York passed “A Law for Regulating Negro & Indian Slaves in the Night Time.” This “lantern law” required black, mixed and indigenous people – ages fourteen and older – to illuminate themselves by carrying a lit candle at night. New York City subjects were deputized to bring in any violators to the “gaols,” where they would be paid eight shillings by the offender’s master. The master was authorized to perform a public whipping of forty lashes.[^10]
+
+[^10]: [New York City has been shining surveillance lights on its black population for the last 300 years](https://splinternews.com/new-york-city-has-been-shining-surveillance-lights-on-i-1793856900)
+
+The Lantern Law incentivized white citizens to enforce slave systems and incarceration, codifying the forms of violent, oppressive seeing that have and continue to enforce longstanding power dynamics.[^11] This early use of technology to illuminate the black and brown body applied racialized control over day-to-day mobility. The requirement to “self-illuminate” has strong parallels to the experience of “Driving While Black” - moving slowly and deliberately so a license is not mistaken for a gun, or recording all interactions with police.
+
+[^11]: [Dark Matters: On the Surveillance of Blackness, Simone Browne](https://www.dukeupress.edu/dark-matters)
+
+This brings up the legacy of resistance, counter-veillance, and of survival “in the dark.” Yet, what drives those living in the “surveillance gap” to that place of safety also renders them outside of services tied to systems of surveillance and control. For millions of undocumented individuals in America, the threat of deportation can prevent access to social services, education, health care, employment and housing.[^12]
+
+[^12]:[The Surveillance Gap](https://socialchangenyu.com/review/the-surveillance-gap-the-harms-of-extreme-privacy-and-data-marginalization/#b-day-laborers))
+
+These “terms of use” for space and services enforces a different type of control that centers access for a specific spectrum of the privileged. Those outside of that spectrum in turn are those in the most need of resources guarded by systems of power. The spectrum of “othering” creates a cycle of dehumanization, surveillance, and policing – creating the myth of the “welfare queen” and perpetuating “lazy worker” Taylorization that now govern Amazon warehouse time clocking.[^13]
+
+[^13]: [On the Clock: What Low-Wage Work Did to Me and How it Drives America Insane, Emily Guendelsberger](https://www.goodreads.com/en/book/show/42779084-on-the-clock))
+
+## Surveillance is different today
+
+_Note_: The idea is to tell a parable that introduces how our notions of classical privacy must evolve to accommodate the rise of "big data," pattern recognition, and predictive technology.
+
+Let's say that you had a magic room that nobody could enter. If you want to live a private life, all you have to do is go in and lock the door, and nobody can make you come out.
+
+Let's say you're chilling in your private room, and some inspectors from the city come by and are upset that don't know what you're doing and can't get you to come out. "What could be going on behind locked doors?" they wonder, and they have to know.
+
+If these inspectors came from before the 1900s, how might they figure out what you were doing?
+
+_Exercise_: Ask participants how someone might surveil someone in the old days.
+
+The inspectors would have to settle for crude, invasive ways of getting a partial picture of what you're doing in your room. 
+
+They might spy on you with binoculars, press an ear against your door to hear what you were saying, wiretap your phone, keep records of who's coming and going from your room, intercept your letters, or shout threats at you. Basically, though, locking your door is enough to make sure that only you know what you're doing.
+
+But what if your inspectors came from the present-day, or the future, and have all the tools of today and tomorrow at their disposal?
+
+_Exercise_: Ask participants how someone might surveil someone today, or in the near or far future.
+
+The first thing the neo-inspectors do is to set up sensors all over the outside of your room, to capture, in a continuous stream, any kind of audio, video, thermal, or seismic information that's leaking. So if they see slight vibrations on the seismograph, they can guess that you're probably going downstairs, or doing jumping jacks. 
+
+Not only that... but they've actually already been capturing information about you all your life from _before_ you locked yourseif in a room, so they already know that, say, you always wake up around 9 am and have a coffee, and if your voice sounds a certain way, then you're more likely to be saying a certain thing.
+
+Not only that... but they know lots of things about, historically, the patterns of how people have behaved when they locked themselves in rooms, people similar to you in many ways. They have records of hermits dating back from centuries, and they know what kinds of movement patterns mean that people in locked rooms are doing certain things--what patterns ultimately translated to "this person was trying to communicate in secret" and what patterns ultimately translated to "this person was just taking a nap."
+
+Not only that... but they've already run many experiments on people who locked themselves in rooms, recorded their psychological profiles, and figured out what kinds of carrots to dangle to entice people to come _out_ of rooms without them knowing it.
+
+Using all this context, your neo-inspectors do two things:
+
+First, using all the information about you that's leaking out of your room about what you're currently doing, they cross-reference it with their past knowledge about you (pre-room) as well as their knowledge of hermits throughout the ages, and they can guess *what you're doing now* and predict *what you might do next*. For example, right now the seismograph is recording a strong vibration while your voice intensity spikes, so you're likely to be yelling at the TV, and the most likely thing you'll do next is throw your dinner at the TV.
+
+Next, they cross-reference your profile with the behavioral experiments, which tells them just what to do to get you out of the room. This is about the time that you'll get hungry, and unfortunately you've already thrown your dinner at the TV. So if they waft in some subtly delicious brunch aromas through the air circulation system of your room, then you'll likely get really hungry and irrationally poke your head out the door, at which point the inspectors will grab you.
+
+_Exercise_: Discuss how this story corresponds to real life.
+
+### From locking to leaking
+
+Things used to be so easy. Locking your "digital" door _used_ to be enough. You could create strong "locks" for every site, as well as use strongly "locked" channels for your communications, and know that only you knew what you were doing. And for the same reasons above, classical security is no longer a defense against being surveiled!
+
+Why? Because _data is power._ The sum of all the information about a person forms a "data double" of the person, and the digital nature of life means that more and more data about a person's life can be recorded. As the _New York Times_ puts it, "data is always flaking off us like dead skin cells." Even if you were completely off the grid, someone could learn a lot about you by surveiling all of your friends and family. Using all that data, many weak observations about a person can be combined to make very strong judgments and predictions about them that can be used to change the way they behave without them knowing about it.
+
+TODO: Discuss how this trend is not new; it is an acceleration of how technologies of recording/biometrics/legibility have been historically deployed on disadvantaged groups, like early forms of biometrics used on enslaved Africans
+
+TODO: Discuss how methods of defense are evolving beyond "classical" privacy: defensive (e.g. data collection, retention, cookie policies); offensive (e.g. polluting data with noise; developing disobedient technologies); neutral (requiring reporting; security through obscurity)
+
+TODO: make all the examples a lot more concrete
+
+TODO: run this explanation by an ML person to make sure it's reasonably accurate
+
+TODO: add more discussion time and exercises above
+
+### Tomorrow's surveillance, today
+
+> _The future is already here; it's just not evenly distributed._
+> 
+> _—William Gibson_
+
+Now that we've discussed the parable of data, how do these practices--that of data-powered state and corporate surveillance--manifest in the world today?
+
+(TODO: this is old writing; need to merge with the above section and simplify the language)
+
+In Guiyang, the police found a BBC reporter using the city's facial-recognition-powered surveillance system in seven minutes. (See BBC video: [In your face: China's all-seeing state](https://www.bbc.com/news/av/world-asia-china-42248056/in-your-face-china-s-all-seeing-state)) What technical, social, and legal infrastructure made this achievement possible? And what are the civil liberties issues with pervasive surveillance?
+
+Second, everything that can be turned into data will be turned into data: for example, Google Street View, the government's "multiple encounter deceased" dataset for facial recognition, and scraping millions of Flickr photos online. "If you’re an adult in America, there’s more than a 50 percent chance that you’re already in a law enforcement facial recognition database, according to researchers at Georgetown." (Source: NYT [Facial Recognition Machine](https://www.nytimes.com/interactive/2019/04/16/opinion/facial-recognition-new-york-city.html))
+
+Third, large-scale AI works by humans encoding community knowledge and norms. When you do a captcha or submit a Google form, you are helping train, say, a self-driving car to recognize what's a car and what's a road sign. Dataset labeling factories are becoming increasingly common (again, Guiyang, China is the frontier). (See _Sixth Tone_ article and video: [Tilling the data farms of Guizhou](http://www.sixthtone.com/news/1002222/tilling-the-data-farms-of-guizhou)) These dataset labeling factories use people for their "minimum viable humanity" to extract and capture their value for the profit of the very few.
+
+What happens after dataset labeling? Since humans label data, it encodes community knowledge and biases. For example, in facial recognition, datasets are labeled with one of few emotions. Modern models learn to map an input (a picture of a face) to an output (an emotion label) by a process of learning from their mistakes over and over on a dataset spanning millions or billions of examples. Then a trained emotion detection model might be deployed in, say, a surveillance camera to recognize anomalies in public space, for example if a person looks fearful or angry, it might make a decision to call police. Again, note that your ML algorithm is limited by your dataset! The result is that old instruments for looking and capture become lenses augmented by massive data and compute to encode certain ways of looking, and to enforce these norms on public space, like Esther Hovers' series "False Positives."
+
+Who's being looked at? People and their faces and bodies are constantly being analyzed and dissected by algorithms. Your faceprint is everywhere. Facebook image labeling, unlocking your phone.
+
+Who's looking? Other people. Often not the people you expect. Voyeurs in the NYPD; your neighbors; hackers in another country; and you. The gaze becomes a part of you, something you carry around inside you.
+
+Lastly: follow the money! Surveillance is big business. China's biggest facial recognition startups, Dahua and Hikvision, are worth billions[^money]. (TODO: discuss why)
+
+[^money]: ["US Universities And Retirees Are Funding The Technology Behind China’s Surveillance State"](https://www.buzzfeednews.com/article/ryanmac/us-money-funding-facial-recognition-sensetime-megvii)
+
+### Experience-based exercises
+
+* [_A People's Guide to AI_](https://www.alliedmedia.org/peoples-ai): simple exercise in predicting people's behavior (page 53)
+* How does machine learning work? Train a classifier live, in the browser, using [Teachable machine](https://teachablemachine.withgoogle.com/).
+* Explore facial recognition and its biases: try DSSG software?
+* [You're the AI](https://www.coveillance.org/toolkit#youre-the-ai): label photos of surveillance cameras
+* Look at examples of ML in people's personal devices? (These are mostly frivolous consumer applications though, like Snapchat gender swap)
+
+<!-- ### References -->
+
+<!-- * https://www.eff.org/issues/ai -->
+<!-- * https://www.eff.org/ai/metrics -->
+<!-- * https://ssd.eff.org/en/module/why-metadata-matters -->
+
 ## How am I being surveilled in my daily life? Using stories to map surveillance
 
 Let's tell some stories about your information and what happens to it. We'll use these stories as a way to make a map of how surveillance works---how all the parts fit together and the ways we can grasp how it works.
@@ -320,93 +443,6 @@ _Closing conversation_
 * How has your understanding of surveillance changed during the last few hours, if at all?
 * Discuss opportunities to provide public comment on the [Seattle Surveillance Ordinance](http://www.seattle.gov/tech/initiatives/privacy/surveillance-technologies/about-surveillance-ordinance) and take action with the ACLU WA
 * How do you want things to change?
-
-## Surveillance is different today
-
-In the old days, if you wanted to live a private life, you had only to retire into your room in a hermitage and lock the door.
-
-Things used to be so easy. Locking your door _used_ to be enough.
-
-_What changed?_
-
-Let's return to you in your locked room.[^1]
-
-[^1]: _Note_: The idea is to tell a story that introduces how notions of classical privacy must evolve to accommodate the rise of "big data," pattern recognition, and predictive technology.
-
-While you bask in the solitude of your rich inner life, some inspectors from the city come by and are upset that don't know what you're doing and can't get you to come out. What could be going on behind locked doors? You could be plotting sedition, or--worse--cheating on your taxes.
-
-If these inspectors came from before the 1900s, how might they figure out what you were doing?
-
-_Exercise_: Ask participants how someone might surveil someone in the old days.
-
-The inspectors would have to settle for crude, invasive ways of getting a partial picture of what you're doing in your room. 
-They might spy on you with binoculars, press an ear against your door to hear what you were saying, wiretap your phone, try to beat down your door, keep records of who's coming and going from your house, intercept your letters, or shout threats to get you to come out and confess your sins. Basically, though, locking your door is enough to make sure that only you know what you're doing.
-
-But what if your inspectors came from... the future? The year 3000? And they have the technology?
-
-_Exercise_: Ask participants how someone might surveil someone today, or in the near or far future.
-
-The first thing the neo-inspectors do is to set up sensors all over the outside of your house, to capture, in a continuous stream, any kind of audio, video, thermal, or seismic information that's leaking. So if they see slight vibrations on the seismograph, they can guess that you're probably going downstairs, or doing jumping jacks. 
-
-Not only that... but they've actually already been capturing information about you all your life from _before_ you locked yourseif in a room, so they already know that, say, you always wake up around 9 am and have a coffee, and if your voice sounds a certain way, then you're more likely to be saying a certain thing.
-
-Not only that... but they know lots of things about, historically, the patterns of how people have behaved when they locked themselves in rooms, people similar to you in many ways. They have records of hermits dating back from centuries, and they know what kinds of movement patterns mean that people in locked rooms are doing certain things--what patterns ultimately translated to "this person was plotting sedition" and what patterns ultimately translated to "this person was just taking a nap."
-
-Not only that... but they've already run many experiments on people who locked themselves in rooms, recorded their psychological profiles, and figured out what kinds of carrots to dangle to entice people to come _out_ of rooms without them knowing it.
-
-Using all this context, your neo-inspectors do two things:
-
-First, using all the information about you that's leaking out of your house about what you're currently doing, they cross-reference it with their past knowledge about you (pre-room) as well as their knowledge of hermits throughout the ages, and they can guess *what you're doing now* and predict *what you might do next*. For example, right now the seismograph is recording a strong vibration while your voice intensity spikes, so you're likely to be yelling at the TV, and the most likely thing you'll do next is throw your dinner at the TV.
-
-Next, they cross-reference your profile with the behavioral experiments, which tells them just what to do to get you out of the room. This is about the time that you'll get hungry, and unfortunately you've already thrown your dinner at the TV. So if they waft in some subtly delicious brunch aromas through the air circulation system of your house, then you'll likely get really hungry and irrationally poke your head out the door, at which point the inspectors will grab you.
-
-_Exercise_: Discuss how this story corresponds to real life.
-
-### Lessons of the parable
-
-In the same way, locking your "digital" door used to be enough. You could create strong "locks" for every site, as well as use strongly "locked" channels for your communications, and know that only you knew what you were doing. And for the same reasons above, classical security is no longer a defense against being surveiled!
-
-Why? Because _data is power._ The sum of all the information about a person forms a "data double" of the person, and the digital nature of life means that more and more data about a person's life can be recorded. As the _New York Times_ puts it, "data is always flaking off us like dead skin cells." Even if you were completely off the grid, someone could learn a lot about you by surveiling all of your friends and family. Using all that data, many weak observations about a person can be combined to make very strong judgments and predictions about them that can be used to change the way they behave without them knowing about it.
-
-TODO: Discuss how this trend is not new; it is an acceleration of how technologies of recording/biometrics/legibility have been historically deployed on disadvantaged groups, like early forms of biometrics used on enslaved Africans
-
-TODO: Discuss how methods of defense are evolving beyond "classical" privacy: defensive (e.g. data collection, retention, cookie policies); offensive (e.g. polluting data with noise; developing disobedient technologies); neutral (requiring reporting; security through obscurity)
-
-TODO: make all the examples a lot more concrete
-
-TODO: run this explanation by an ML person to make sure it's reasonably accurate
-
-TODO: add more discussion time and exercises above
-
-### Experience-based exercises
-
-* [_A People's Guide to AI_](https://www.alliedmedia.org/peoples-ai): simple exercise in predicting people's behavior (page 53)
-* How does machine learning work? Train a classifier live, in the browser, using [Teachable machine](https://teachablemachine.withgoogle.com/).
-* Explore facial recognition and its biases: try DSSG software?
-* [You're the AI](https://www.coveillance.org/toolkit#youre-the-ai): label photos of surveillance cameras
-* Look at examples of ML in people's personal devices? (These are mostly frivolous consumer applications though, like Snapchat gender swap)
-
-### Old writing (to be merged)
-
-In Guiyang, the police found a BBC reporter using the city's facial-recognition-powered surveillance system in seven minutes. (See BBC video: [In your face: China's all-seeing state](https://www.bbc.com/news/av/world-asia-china-42248056/in-your-face-china-s-all-seeing-state)) What technical, social, and legal infrastructure made this achievement possible? And what are the civil liberties issues with pervasive surveillance?
-
-Second, everything that can be turned into data will be turned into data: for example, Google Street View, the government's "multiple encounter deceased" dataset for facial recognition, and scraping millions of Flickr photos online. "If you’re an adult in America, there’s more than a 50 percent chance that you’re already in a law enforcement facial recognition database, according to researchers at Georgetown." (Source: NYT [Facial Recognition Machine](https://www.nytimes.com/interactive/2019/04/16/opinion/facial-recognition-new-york-city.html))
-
-Third, large-scale AI works by humans encoding community knowledge and norms. When you do a captcha or submit a Google form, you are helping train, say, a self-driving car to recognize what's a car and what's a road sign. Dataset labeling factories are becoming increasingly common (again, Guiyang, China is the frontier). (See _Sixth Tone_ article and video: [Tilling the data farms of Guizhou](http://www.sixthtone.com/news/1002222/tilling-the-data-farms-of-guizhou)) These dataset labeling factories use people for their "minimum viable humanity" to extract and capture their value for the profit of the very few.
-
-What happens after dataset labeling? Since humans label data, it encodes community knowledge and biases. For example, in facial recognition, datasets are labeled with one of few emotions. Modern models learn to map an input (a picture of a face) to an output (an emotion label) by a process of learning from their mistakes over and over on a dataset spanning millions or billions of examples. Then a trained emotion detection model might be deployed in, say, a surveillance camera to recognize anomalies in public space, for example if a person looks fearful or angry, it might make a decision to call police. Again, note that your ML algorithm is limited by your dataset! The result is that old instruments for looking and capture become lenses augmented by massive data and compute to encode certain ways of looking, and to enforce these norms on public space, like Esther Hovers' series "False Positives."
-
-Who's being looked at? People and their faces and bodies are constantly being analyzed and dissected by algorithms. Your faceprint is everywhere. Facebook image labeling, unlocking your phone.
-
-Who's looking? Other people. Often not the people you expect. Voyeurs in the NYPD; your neighbors; hackers in another country; and you. The gaze becomes a part of you, something you carry around inside you.
-
-Lastly: follow the money! Surveillance is big business. China's biggest facial recognition startups, Dahua and Hikvision, are worth billions. (TODO: discuss why)
-
-### References
-
-* https://www.eff.org/issues/ai
-* https://www.eff.org/ai/metrics
-* https://ssd.eff.org/en/module/why-metadata-matters
 
 ## Exercises
 
