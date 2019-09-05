@@ -325,7 +325,7 @@ Look at tracking cookies in Chrome. People open their desktop browsers and visit
 
 ### You're the AI
 
-Label the dataset of surveillance camera images that you gathered on the walking tour. See [A field guide to spotting surveillance cameras](http://www.coveillance.org/field-guide) for more information.
+Label the dataset of surveillance camera images that you gathered on the walking tour. See [A field guide to spotting surveillance cameras](http://www.coveillance.org/camera-spotting) for more information.
 
 _Discuss_
 
