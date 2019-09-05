@@ -321,45 +321,70 @@ _Closing conversation_
 * Discuss opportunities to provide public comment on the [Seattle Surveillance Ordinance](http://www.seattle.gov/tech/initiatives/privacy/surveillance-technologies/about-surveillance-ordinance) and take action with the ACLU WA
 * How do you want things to change?
 
-## What's new in surveillance? The rise of deep learning
+## Surveillance is different today
 
-(introduce with how notions of classical privacy have shifted)
+In the old days, if you wanted to live a private life, you had only to retire into your room in a hermitage and lock the door.
 
-Locking your door used to be enough. 
+Things used to be so easy. Locking your door _used_ to be enough.
 
 _What changed?_
 
-Imagine you were in your house, but people measured your footsteps, audio, sunlight occlusion, requests for food, to infer a picture of what you were doing inside your room and to predict what you might do next. They see who's coming and leaving from the house. How much electricity you're using.
+Let's return to you in your locked room.[^1]
 
-Not only that... but they already know your habits from your pre-room life! 
+[^1]: _Note_: The idea is to tell a story that introduces how notions of classical privacy must evolve to accommodate the rise of "big data," pattern recognition, and predictive technology.
 
-And they know lots of things about, historically, the patterns of how people have behaved when they locked themselves in rooms, people just like you.
+While you bask in the solitude of your rich inner life, some inspectors from the city come by and are upset that don't know what you're doing and can't get you to come out. What could be going on behind locked doors? You could be plotting sedition, or--worse--cheating on your taxes.
 
-Capturing everything: "data flakes off us like dead skin cells." Many many weak observations, collateral capture and metadata, can combine to make a very strong judgment. Not individual but collective--a commons of knowledge.
+If these inspectors came from before the 1900s, how might they figure out what you were doing?
 
-Even if you're safe in your house with the blinds down, an observer could predict you very accurately.
+_Exercise_: Ask participants how someone might surveil someone in the old days.
 
-So, too, locking your "digital" door used to be enough (strong, unique passwords; using proxies). For the same reasons above, it's no longer enough!
+The inspectors would have to settle for crude, invasive ways of getting a partial picture of what you're doing in your room. 
+They might spy on you with binoculars, press an ear against your door to hear what you were saying, wiretap your phone, try to beat down your door, keep records of who's coming and going from your house, intercept your letters, or shout threats to get you to come out and confess your sins. Basically, though, locking your door is enough to make sure that only you know what you're doing.
 
-Second, understanding: TODO
+But what if your inspectors came from... the future? The year 3000? And they have the technology?
 
-_How do we defend ourselves against these ?? systems?_
+_Exercise_: Ask participants how someone might surveil someone today, or in the near or far future.
 
-Regulation
+The first thing the neo-inspectors do is to set up sensors all over the outside of your house, to capture, in a continuous stream, any kind of audio, video, thermal, or seismic information that's leaking. So if they see slight vibrations on the seismograph, they can guess that you're probably going downstairs, or doing jumping jacks. 
 
-Noise
+Not only that... but they've actually already been capturing information about you all your life from _before_ you locked yourseif in a room, so they already know that, say, you always wake up around 9 am and have a coffee, and if your voice sounds a certain way, then you're more likely to be saying a certain thing.
 
-Accountability
+Not only that... but they know lots of things about, historically, the patterns of how people have behaved when they locked themselves in rooms, people similar to you in many ways. They have records of hermits dating back from centuries, and they know what kinds of movement patterns mean that people in locked rooms are doing certain things--what patterns ultimately translated to "this person was plotting sedition" and what patterns ultimately translated to "this person was just taking a nap."
 
-TODO: add discussion time and exercises above
+Not only that... but they've already run many experiments on people who locked themselves in rooms, recorded their psychological profiles, and figured out what kinds of carrots to dangle to entice people to come _out_ of rooms without them knowing it.
 
-### Experiential exercises
+Using all this context, your neo-inspectors do two things:
 
-* How does machine learning work? Train a classifier in the browser using [Teachable machine](https://teachablemachine.withgoogle.com/).
-* Explore facial recognition and its biases: DSSG software
-* A People's Guide to AI: prediction exercise
-* You're the AI: label photos of surveillance cameras
-* Look at examples of ML in personal devices? (These are mostly frivolous consumer applications though)
+First, using all the information about you that's leaking out of your house about what you're currently doing, they cross-reference it with their past knowledge about you (pre-room) as well as their knowledge of hermits throughout the ages, and they can guess *what you're doing now* and predict *what you might do next*. For example, right now the seismograph is recording a strong vibration while your voice intensity spikes, so you're likely to be yelling at the TV, and the most likely thing you'll do next is throw your dinner at the TV.
+
+Next, they cross-reference your profile with the behavioral experiments, which tells them just what to do to get you out of the room. This is about the time that you'll get hungry, and unfortunately you've already thrown your dinner at the TV. So if they waft in some subtly delicious brunch aromas through the air circulation system of your house, then you'll likely get really hungry and irrationally poke your head out the door, at which point the inspectors will grab you.
+
+_Exercise_: Discuss how this story corresponds to real life.
+
+### Lessons of the parable
+
+In the same way, locking your "digital" door used to be enough. You could create strong "locks" for every site, as well as use strongly "locked" channels for your communications, and know that only you knew what you were doing. And for the same reasons above, classical security is no longer a defense against being surveiled!
+
+Why? Because _data is power._ The sum of all the information about a person forms a "data double" of the person, and the digital nature of life means that more and more data about a person's life can be recorded. As the _New York Times_ puts it, "data is always flaking off us like dead skin cells." Even if you were completely off the grid, someone could learn a lot about you by surveiling all of your friends and family. Using all that data, many weak observations about a person can be combined to make very strong judgments and predictions about them that can be used to change the way they behave without them knowing about it.
+
+TODO: Discuss how this trend is not new; it is an acceleration of how technologies of recording/biometrics/legibility have been historically deployed on disadvantaged groups, like early forms of biometrics used on enslaved Africans
+
+TODO: Discuss how methods of defense are evolving beyond "classical" privacy: defensive (e.g. data collection, retention, cookie policies); offensive (e.g. polluting data with noise; developing disobedient technologies); neutral (requiring reporting; security through obscurity)
+
+TODO: make all the examples a lot more concrete
+
+TODO: run this explanation by an ML person to make sure it's reasonably accurate
+
+TODO: add more discussion time and exercises above
+
+### Experience-based exercises
+
+* [_A People's Guide to AI_](https://www.alliedmedia.org/peoples-ai): simple exercise in predicting people's behavior (page 53)
+* How does machine learning work? Train a classifier live, in the browser, using [Teachable machine](https://teachablemachine.withgoogle.com/).
+* Explore facial recognition and its biases: try DSSG software?
+* [You're the AI](https://www.coveillance.org/toolkit#youre-the-ai): label photos of surveillance cameras
+* Look at examples of ML in people's personal devices? (These are mostly frivolous consumer applications though, like Snapchat gender swap)
 
 ### Old writing (to be merged)
 
@@ -376,6 +401,12 @@ Who's being looked at? People and their faces and bodies are constantly being an
 Who's looking? Other people. Often not the people you expect. Voyeurs in the NYPD; your neighbors; hackers in another country; and you. The gaze becomes a part of you, something you carry around inside you.
 
 Lastly: follow the money! Surveillance is big business. China's biggest facial recognition startups, Dahua and Hikvision, are worth billions. (TODO: discuss why)
+
+### References
+
+* https://www.eff.org/issues/ai
+* https://www.eff.org/ai/metrics
+* https://ssd.eff.org/en/module/why-metadata-matters
 
 ## Exercises
 
