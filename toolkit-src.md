@@ -70,7 +70,7 @@ Finally, here are the key learning objectives:
 * Understand how to take collective action socially and legally
 * Build concrete skills in spotting surveillance infrastructure in everyday life
 
-## Introduction: How do we understand surveillance and privacy?
+## How do we talk about surveillance and privacy?
 
 Imagine you're at a dinner party with friends. Over drinks, you start talking about the news.
 
@@ -234,7 +234,7 @@ _Note_: [This story](https://www.aclunc.org/blog/documents-reveal-ice-using-driv
 _Note_: This story is by necessity a collage of several stories, since we know so little about the inner workings of the NSA and the no-fly list---it's a "matter of national security." Nevertheless, based on the sources below, it seems plausible. This story is an entry point to several broader themes: the policy of the Foreign Intelligence Surveillance Act that the NSA should limit wiretapping to non-US citizens, and its ability to circumvent this policy to spy on US citizens if a foreign national is involved; data fusion; the deep opacity and arbitrary nature of state surveillance and automated decision systems; public-private information sharing; the dragnet nature of surveillance; and the very frustrating and hurtful effects the combination of these factors can have on an individual. It's also a counterpoint to the "nothing to hide, nothing to fear" argument---you have nothing to hide, you would have no problem revealing your list of academic collaborators, and you've done nothing wrong; it's only the "guilt by association" argument that brings the hammer crashing down. We will also see an AT&T peering site on the walking tour. 
 [No-fly list predictive assessments](https://www.theguardian.com/us-news/2015/aug/10/us-no-fly-list-predictive-assessments), [NSA spying on US citizens](https://thehill.com/opinion/national-security/429770-8-surprising-times-our-intel-community-spied-on-us-citizens)
 
-## Understanding surveillance
+## Metaphors for surveillance
 
 We've discussed many stories about our information. We've seen how it can be used to make life more convenient. We've also seen how it can be used in ways we didn't expect---against us, against others, or for other' profit. Now, let's talk about how it all fits together in the map we've made.
 
@@ -309,11 +309,73 @@ prospects of an information civilization](https://cryptome.org/2015/07/big-other
 
 Finally: take the time to interrogate your own urge to know, and how it's enabled by the society we live in.
 
+### The role of sousveillance
+
+TBD. Discuss the critical gaze.
+
+Activists have proposed the idea of sousveillance to reverse the gaze, notably Simone Browne's "Dark Matters." Artists and academica have made attempts at mapping surveillance networks, controlling them with legislation or agreements, jamming them with individual actions. 
+
 _Closing conversation_
 
 * How has your understanding of surveillance changed during the last few hours, if at all?
 * Discuss opportunities to provide public comment on the [Seattle Surveillance Ordinance](http://www.seattle.gov/tech/initiatives/privacy/surveillance-technologies/about-surveillance-ordinance) and take action with the ACLU WA
 * How do you want things to change?
+
+## What's new in surveillance? The rise of deep learning
+
+(introduce with how notions of classical privacy have shifted)
+
+Locking your door used to be enough. 
+
+_What changed?_
+
+Imagine you were in your house, but people measured your footsteps, audio, sunlight occlusion, requests for food, to infer a picture of what you were doing inside your room and to predict what you might do next. They see who's coming and leaving from the house. How much electricity you're using.
+
+Not only that... but they already know your habits from your pre-room life! 
+
+And they know lots of things about, historically, the patterns of how people have behaved when they locked themselves in rooms, people just like you.
+
+Capturing everything: "data flakes off us like dead skin cells." Many many weak observations, collateral capture and metadata, can combine to make a very strong judgment. Not individual but collective--a commons of knowledge.
+
+Even if you're safe in your house with the blinds down, an observer could predict you very accurately.
+
+So, too, locking your "digital" door used to be enough (strong, unique passwords; using proxies). For the same reasons above, it's no longer enough!
+
+Second, understanding: TODO
+
+_How do we defend ourselves against these ?? systems?_
+
+Regulation
+
+Noise
+
+Accountability
+
+TODO: add discussion time and exercises above
+
+### Experiential exercises
+
+* How does machine learning work? Train a classifier in the browser using [Teachable machine](https://teachablemachine.withgoogle.com/).
+* Explore facial recognition and its biases: DSSG software
+* A People's Guide to AI: prediction exercise
+* You're the AI: label photos of surveillance cameras
+* Look at examples of ML in personal devices? (These are mostly frivolous consumer applications though)
+
+### Old writing (to be merged)
+
+In Guiyang, the police found a BBC reporter using the city's facial-recognition-powered surveillance system in seven minutes. (See BBC video: [In your face: China's all-seeing state](https://www.bbc.com/news/av/world-asia-china-42248056/in-your-face-china-s-all-seeing-state)) What technical, social, and legal infrastructure made this achievement possible? And what are the civil liberties issues with pervasive surveillance?
+
+Second, everything that can be turned into data will be turned into data: for example, Google Street View, the government's "multiple encounter deceased" dataset for facial recognition, and scraping millions of Flickr photos online. "If you’re an adult in America, there’s more than a 50 percent chance that you’re already in a law enforcement facial recognition database, according to researchers at Georgetown." (Source: NYT [Facial Recognition Machine](https://www.nytimes.com/interactive/2019/04/16/opinion/facial-recognition-new-york-city.html))
+
+Third, large-scale AI works by humans encoding community knowledge and norms. When you do a captcha or submit a Google form, you are helping train, say, a self-driving car to recognize what's a car and what's a road sign. Dataset labeling factories are becoming increasingly common (again, Guiyang, China is the frontier). (See _Sixth Tone_ article and video: [Tilling the data farms of Guizhou](http://www.sixthtone.com/news/1002222/tilling-the-data-farms-of-guizhou)) These dataset labeling factories use people for their "minimum viable humanity" to extract and capture their value for the profit of the very few.
+
+What happens after dataset labeling? Since humans label data, it encodes community knowledge and biases. For example, in facial recognition, datasets are labeled with one of few emotions. Modern models learn to map an input (a picture of a face) to an output (an emotion label) by a process of learning from their mistakes over and over on a dataset spanning millions or billions of examples. Then a trained emotion detection model might be deployed in, say, a surveillance camera to recognize anomalies in public space, for example if a person looks fearful or angry, it might make a decision to call police. Again, note that your ML algorithm is limited by your dataset! The result is that old instruments for looking and capture become lenses augmented by massive data and compute to encode certain ways of looking, and to enforce these norms on public space, like Esther Hovers' series "False Positives."
+
+Who's being looked at? People and their faces and bodies are constantly being analyzed and dissected by algorithms. Your faceprint is everywhere. Facebook image labeling, unlocking your phone.
+
+Who's looking? Other people. Often not the people you expect. Voyeurs in the NYPD; your neighbors; hackers in another country; and you. The gaze becomes a part of you, something you carry around inside you.
+
+Lastly: follow the money! Surveillance is big business. China's biggest facial recognition startups, Dahua and Hikvision, are worth billions. (TODO: discuss why)
 
 ## Exercises
 
