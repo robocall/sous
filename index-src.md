@@ -11,7 +11,7 @@
 <!-- * [Who's watching you and how?](http://www.coveillance.org/whos-watching) -->
 <!-- * [More info](http://www.coveillance.org/misc) -->
 
-We are a group of researchers and engineers working on demystifying surveillance!
+We are a group of researchers and engineers working on demystifying surveillance.
 
 We are putting together a [people's surveillance toolkit](http://www.coveillance.org/toolkit) and [a walking tour of surveillance infrastructure in downtown Seattle](http://www.coveillance.org/tour) and facilitating workshops using this material.
 
