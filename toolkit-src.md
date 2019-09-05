@@ -16,6 +16,7 @@
 </nav>
 
 <div class="content js-toc-content pa4">
+
 # A people's guide to surveillance
 
 **Note: this material is a work in progress.**
@@ -24,7 +25,7 @@
 
 It’s hard to get a grasp on surveillance and privacy. It’s a huge topic with deep social, historical, and technical dimensions that also impacts our lives from second to second. Governments and companies have incentives to hide how it works. And it changes fast—it seems like some catastrophic new development happens every day. It’s hard to find clear information.
 
-There are many excellent single resources out there for learning about surveillance and privacy--various books, whitepapers, pieces of software, news articles, visualizations, and technical guides. We aim to knit existing resources together into a living toolkit that community members can adapt for their own use. Specifically, we aim to fill the timely need for accessible, comprehensive, experience-focused teaching and learning material for building a high-level and technically-sound understanding of surveillance.
+There are many excellent single resources out there for learning about surveillance and privacy—various books, whitepapers, pieces of software, news articles, visualizations, and technical guides. We aim to knit existing resources together into a living toolkit that community members can adapt for their own use. Specifically, we aim to fill the timely need for accessible, comprehensive, experience-focused teaching and learning material for building a high-level and technically-sound understanding of surveillance.
 
 Our goal is that you can use our material to get a group of people from “I’m scared” or “why should I care?” to “I understand why this stuff matters, I understand the context of any new news I see, I know what to do to make things safer for myself, and I know where to look to find further reading on the topics I’m interested in.”
 
@@ -122,7 +123,7 @@ Our goal today is to talk about water. Let's work together to build a fresh unde
 
 Glenn Greenwald gave a powerful defense of privacy in his talk ["Why privacy matters."](https://www.youtube.com/watch?v=pcSlowAhvUk)
 
-> There is an entire genre of YouTube videos devoted to an experience which I'm certain everyone in this room has had. It entails an individual who, thinking they're alone, engages in some expressive behavior--wild singing, gyrating dancing, some mild sexual activity--only to discover, in fact, that they're not alone, that there is a person watching and lurking, the discovery of which causes them to immediately cease what they were doing in horror. The sense of shame and humiliation in their face is palpable. It's the sense of, 'This is something I'm willing to do only if no one else is watching.
+> There is an entire genre of YouTube videos devoted to an experience which I'm certain everyone in this room has had. It entails an individual who, thinking they're alone, engages in some expressive behavior—wild singing, gyrating dancing, some mild sexual activity—only to discover, in fact, that they're not alone, that there is a person watching and lurking, the discovery of which causes them to immediately cease what they were doing in horror. The sense of shame and humiliation in their face is palpable. It's the sense of, 'This is something I'm willing to do only if no one else is watching.
 > 
 > Privacy is the "ability to go somewhere where we can think and reason and interact and speak without the judgmental eyes of others being cast upon us, in which creativity and exploration and dissent exclusively reside. And that is why, when we allow a society to exist where we are subject to constant monitoring, we allow the essence of human freedom to be severely crippled."
 
@@ -197,6 +198,8 @@ These “terms of use” for space and services enforces a different type of con
 
 _Note_: The idea is to tell a parable that introduces how our notions of classical privacy must evolve to accommodate the rise of "big data," pattern recognition, and predictive technology.
 
+### The parable of the magic room
+
 Let's say that you had a magic room that nobody could enter. If you want to live a private life, all you have to do is go in and lock the door, and nobody can make you come out.
 
 Let's say you're chilling in your private room, and some inspectors from the city come by and are upset that don't know what you're doing and can't get you to come out. "What could be going on behind locked doors?" they wonder, and they have to know.
@@ -215,9 +218,9 @@ _Exercise_: Ask participants how someone might surveil someone today, or in the 
 
 The first thing the neo-inspectors do is to set up sensors all over the outside of your room, to capture, in a continuous stream, any kind of audio, video, thermal, or seismic information that's leaking. So if they see slight vibrations on the seismograph, they can guess that you're probably going downstairs, or doing jumping jacks. 
 
-Not only that... but they've actually already been capturing information about you all your life from _before_ you locked yourseif in a room, so they already know that, say, you always wake up around 9 am and have a coffee, and if your voice sounds a certain way, then you're more likely to be saying a certain thing.
+Not only that, but they've actually already been capturing information about you all your life from _before_ you locked yourseif in a room, so they already know that, say, you always wake up around 9 am and have a coffee, and if your voice sounds a certain way, then you're more likely to be saying a certain thing.
 
-Not only that... but they know lots of things about, historically, the patterns of how people have behaved when they locked themselves in rooms, people similar to you in many ways. They have records of hermits dating back from centuries, and they know what kinds of movement patterns mean that people in locked rooms are doing certain things--what patterns ultimately translated to "this person was trying to communicate in secret" and what patterns ultimately translated to "this person was just taking a nap."
+Not only that, but they know lots of things about, historically, the patterns of how people have behaved when they locked themselves in rooms, people similar to you in many ways. They have records of hermits dating back from centuries, and they know what kinds of movement patterns mean that people in locked rooms are doing certain things—what patterns ultimately translated to "this person was trying to communicate in secret" and what patterns ultimately translated to "this person was just taking a nap."
 
 Not only that... but they've already run many experiments on people who locked themselves in rooms, recorded their psychological profiles, and figured out what kinds of carrots to dangle to entice people to come _out_ of rooms without them knowing it.
 
@@ -229,7 +232,7 @@ Next, they cross-reference your profile with the behavioral experiments, which t
 
 _Exercise_: Discuss how this story corresponds to real life.
 
-### From locking to leaking
+### Locking doesn't stop leaking
 
 Things used to be so easy. Locking your "digital" door _used_ to be enough. You could create strong "locks" for every site, as well as use strongly "locked" channels for your communications, and know that only you knew what you were doing. And for the same reasons above, classical security is no longer a defense against being surveiled!
 
@@ -243,19 +246,19 @@ TODO: make all the examples a lot more concrete
 
 TODO: run this explanation by an ML person to make sure it's reasonably accurate
 
-TODO: add more discussion time and exercises above
-
 ### Tomorrow's surveillance, today
 
 > _The future is already here; it's just not evenly distributed._
 > 
 > _—William Gibson_
 
-Now that we've discussed the parable of data, how do these practices--that of data-powered state and corporate surveillance--manifest in the world today?
+Now that we've discussed the parable of data, how do these practices—that of data-powered state and corporate surveillance—manifest in the world today?
 
 (TODO: this is old writing; need to merge with the above section and simplify the language)
 
 In Guiyang, the police found a BBC reporter using the city's facial-recognition-powered surveillance system in seven minutes. (See BBC video: [In your face: China's all-seeing state](https://www.bbc.com/news/av/world-asia-china-42248056/in-your-face-china-s-all-seeing-state)) What technical, social, and legal infrastructure made this achievement possible? And what are the civil liberties issues with pervasive surveillance?
+
+First, physical infrastructure manifests itself as the familiar "eyes of big brother": surveillance cameras. Behind the scenes, IP cameras rely on internet infrastructure. 
 
 Second, everything that can be turned into data will be turned into data: for example, Google Street View, the government's "multiple encounter deceased" dataset for facial recognition, and scraping millions of Flickr photos online. "If you’re an adult in America, there’s more than a 50 percent chance that you’re already in a law enforcement facial recognition database, according to researchers at Georgetown." (Source: NYT [Facial Recognition Machine](https://www.nytimes.com/interactive/2019/04/16/opinion/facial-recognition-new-york-city.html))
 
@@ -273,11 +276,11 @@ Lastly: follow the money! Surveillance is big business. China's biggest facial r
 
 ### Experience-based exercises
 
-* [_A People's Guide to AI_](https://www.alliedmedia.org/peoples-ai): simple exercise in predicting people's behavior (page 53)
+* Start by looking at examples of ML in people's personal devices. These are (mostly-frivolous) consumer applications, like Snapchat's gender swap, Apple's emoji facematch, or Alexa's voice recognition, but give people an idea of how to identify ML in real life.
+* From [_A People's Guide to AI_](https://www.alliedmedia.org/peoples-ai): do a simple exercise in predicting people's behavior (page 53)
 * How does machine learning work? Train a classifier live, in the browser, using [Teachable machine](https://teachablemachine.withgoogle.com/).
-* Explore facial recognition and its biases: try DSSG software?
+* Explore facial recognition and its biases: try DSSG software
 * [You're the AI](https://www.coveillance.org/toolkit#youre-the-ai): label photos of surveillance cameras
-* Look at examples of ML in people's personal devices? (These are mostly frivolous consumer applications though, like Snapchat gender swap)
 
 <!-- ### References -->
 
@@ -287,11 +290,11 @@ Lastly: follow the money! Surveillance is big business. China's biggest facial r
 
 ## How am I being surveilled in my daily life? Using stories to map surveillance
 
-Let's tell some stories about your information and what happens to it. We'll use these stories as a way to make a map of how surveillance works---how all the parts fit together and the ways we can grasp how it works.
+Let's tell some stories about your information and what happens to it. We'll use these stories as a way to make a map of how surveillance works—how all the parts fit together and the ways we can grasp how it works.
 
 _Note_: The idea is to encourage participants to develop a shared representation of the metaphors we use to understand on surveillance. After each story, discuss what the story is meant to illustrate, what entities to add to the map, and how these entities relate to what's already on the map. Ideally everyone would have a pen and paper, and the facilitator would work on a whiteboard that everyone could see. The goal is to work together to make a map like [this one](https://www.figma.com/file/C15vnW0gtZybtY24eXREfy/Field-Guide-Prototype?node-id=75%3A0).
 
-First, let's start with some common stories about you---how you volunteer your information and thus make yourself visible to various watchers.
+First, let's start with some common stories about you—how you volunteer your information and thus make yourself visible to various watchers.
 
 _Discuss_: Solicit suggestions from participants first.
 
@@ -306,7 +309,7 @@ _Discuss_: Solicit suggestions from participants first.
 
 _Note_: These stories are picked to be more approachable because they illustrate voluntary surveillance (or self-surveillance) via the consumer-tech entities that most participants should be familiar with. Use the opportunity to introduce a visual grouping for "You" and another one for platform companies (the surveillance capitalists). Also, discuss how "You" become visible to the watchers through your data.
 
-These are all examples of _voluntary_ surveillance: you know what information you're giving out. Now let's discuss some other stories about surveillance---some you might not have experienced, some about surveillance under duress, using information you didn't consent to giving up, using processes opaque to the people caught up in them. They are all real stories or composites of real stories.
+These are all examples of _voluntary_ surveillance: you know what information you're giving out. Now let's discuss some other stories about surveillance—some you might not have experienced, some about surveillance under duress, using information you didn't consent to giving up, using processes opaque to the people caught up in them. They are all real stories or composites of real stories.
 
 _Discuss_: Solicit suggestions from participants first.
 
@@ -346,7 +349,7 @@ _Note_: This story is an entry point to ongoing corporate surveillance in physic
 * You’re out on the roof with your partner at night, enjoying a warm and intimate evening. Nobody can see you here, right? Unbeknownst to you, a man in an NYPD helicopter is using thermal imaging to spy on you.
 
 _Note_: This story is taken straight from the [New York Times](https://www.nytimes.com/2005/12/22/nyregion/police-video-caught-a-couples-intimate-moment-on-a-manhattan.html
-). It introduces the human element of surveillance: misuse of the state surveillance apparatus---ostensibly for your protection---for a human observer's voyeuristic glee, even in a place that should be secret.
+). It introduces the human element of surveillance: misuse of the state surveillance apparatus—ostensibly for your protection—for a human observer's voyeuristic glee, even in a place that should be secret.
 
 * You drive around the city to several destinations: to work, to dinner, to your partner’s place. Your license plate is recorded by every license plate reader you pass on the way and your laptop's unique identifier (called a MAC address) is recorded by every Acyclica device you pass along the way. This data is stored by private and public entities (both the city and the companies that manufacture these devices) and sent to quasi-private entities for analysis, like Palantir. One possible fate is that, if you are in the US as a migrant, the city might share your location data with ICE, which uses your location info to find and deport you. 
 
@@ -354,12 +357,12 @@ _Note_: [This story](https://www.aclunc.org/blog/documents-reveal-ice-using-driv
 
 * You are a US citizen on US soil. While writing a paper, you visit the website of an academic collaborator in Britain, who (unbeknownst to you) is alleged to be a terrorist suspect. Your request for the webpage passes through your internet service provider, then through an AT&T peering center, where it is intercepted by an NSA wiretap, copied to Maryland, and caught in the XKEYSCORE software by an NSA analyst. This piece of information just about tips the scales of a predictive algorithm to land you on a no-fly list. You only find out when you try to fly to a conference to give an invited talk and you're stopped at the airport. There is no appeal or recourse for your status on the no-fly list.
 
-_Note_: This story is by necessity a collage of several stories, since we know so little about the inner workings of the NSA and the no-fly list---it's a "matter of national security." Nevertheless, based on the sources below, it seems plausible. This story is an entry point to several broader themes: the policy of the Foreign Intelligence Surveillance Act that the NSA should limit wiretapping to non-US citizens, and its ability to circumvent this policy to spy on US citizens if a foreign national is involved; data fusion; the deep opacity and arbitrary nature of state surveillance and automated decision systems; public-private information sharing; the dragnet nature of surveillance; and the very frustrating and hurtful effects the combination of these factors can have on an individual. It's also a counterpoint to the "nothing to hide, nothing to fear" argument---you have nothing to hide, you would have no problem revealing your list of academic collaborators, and you've done nothing wrong; it's only the "guilt by association" argument that brings the hammer crashing down. We will also see an AT&T peering site on the walking tour. 
+_Note_: This story is by necessity a collage of several stories, since we know so little about the inner workings of the NSA and the no-fly list—it's a "matter of national security." Nevertheless, based on the sources below, it seems plausible. This story is an entry point to several broader themes: the policy of the Foreign Intelligence Surveillance Act that the NSA should limit wiretapping to non-US citizens, and its ability to circumvent this policy to spy on US citizens if a foreign national is involved; data fusion; the deep opacity and arbitrary nature of state surveillance and automated decision systems; public-private information sharing; the dragnet nature of surveillance; and the very frustrating and hurtful effects the combination of these factors can have on an individual. It's also a counterpoint to the "nothing to hide, nothing to fear" argument—you have nothing to hide, you would have no problem revealing your list of academic collaborators, and you've done nothing wrong; it's only the "guilt by association" argument that brings the hammer crashing down. We will also see an AT&T peering site on the walking tour. 
 [No-fly list predictive assessments](https://www.theguardian.com/us-news/2015/aug/10/us-no-fly-list-predictive-assessments), [NSA spying on US citizens](https://thehill.com/opinion/national-security/429770-8-surprising-times-our-intel-community-spied-on-us-citizens)
 
 ## Metaphors for surveillance
 
-We've discussed many stories about our information. We've seen how it can be used to make life more convenient. We've also seen how it can be used in ways we didn't expect---against us, against others, or for other' profit. Now, let's talk about how it all fits together in the map we've made.
+We've discussed many stories about our information. We've seen how it can be used to make life more convenient. We've also seen how it can be used in ways we didn't expect—against us, against others, or for other' profit. Now, let's talk about how it all fits together in the map we've made.
 
 *Discuss*: Talk about the map the partipants made together, as well as visual metaphors for surveillance.
 
@@ -379,7 +382,7 @@ Let's get some fresh air and make this real: let's go see some surveillance infr
 
 After returning from tour:
 
-Why are things the way they are? Consider a thought experiment. What's something you've always wondered about someone, or a group of people? What if you could read your partner's emails? What if you could read the diary of your worst enemy? What if you could know anything you wanted about a person or a group of people---for example, how many people in the United States are awake at this very moment? How many people in the United States just got off work and are hungry for dinner? If you could know literally anything you wanted, would you want to know, and what would you want to know? Conversely, if you know that others could know literally anything they wanted, how would you want them to be able to know you?
+Why are things the way they are? Consider a thought experiment. What's something you've always wondered about someone, or a group of people? What if you could read your partner's emails? What if you could read the diary of your worst enemy? What if you could know anything you wanted about a person or a group of people—for example, how many people in the United States are awake at this very moment? How many people in the United States just got off work and are hungry for dinner? If you could know literally anything you wanted, would you want to know, and what would you want to know? Conversely, if you know that others could know literally anything they wanted, how would you want them to be able to know you?
 
 Now you understand the impulse to surveil. We live in an information-seeking society, where government, industry, religion, and social life are all driven by the desire to measure and compare every aspect of life. Everyone wants to know more, and the more you can know, the more you expect to be known and to know.
 
@@ -389,7 +392,7 @@ As "SuperVision" puts it:
 
 ## Taking action
 
-So, what can we do about surveillance?
+So, what can we do about surveillance? And what can _you_ do about surveillance?
 
 First, I would suggest arming yourself against the soundbites we identified in the beginning. The next time someone pulls out that old saw "If you have nothing to hide, nothing to fear" at a party or in a debate, or someone (perhaps a lawmaker, perhaps the CEO of Google, perhaps your best friend) frames surveillance as inevitable, remember some of the many social and civil liberties issues with surveillance:
 
@@ -432,11 +435,21 @@ prospects of an information civilization](https://cryptome.org/2015/07/big-other
 
 Finally: take the time to interrogate your own urge to know, and how it's enabled by the society we live in.
 
-### The role of sousveillance
+### If you just want to do ONE thing...
 
-TBD. Discuss the critical gaze.
+Try out this handy tool for helping you decide on the best action to take right now:
 
-Activists have proposed the idea of sousveillance to reverse the gaze, notably Simone Browne's "Dark Matters." Artists and academica have made attempts at mapping surveillance networks, controlling them with legislation or agreements, jamming them with individual actions. 
+<img src="media/action-decision-tool.png" width="600">
+
+(You can see the full-size version [here](https://www.figma.com/file/C15vnW0gtZybtY24eXREfy/Field-Guide-Prototype?node-id=263%3A2).)
+
+_Note:_ This tool is our start at overcoming decision paralysis and answering the question: "if I could do only ONE thing, what's the best thing for me to do?" Ideally, in the future, this might be an interactive tool, like a Buzzfeed quiz, that would take into account the person's age, knowledge level, interests, time, etc. to suggest concrete social/technical avenues for action, and to suggest good exercises for them to do in this material.
+
+### Performing sousveillance
+
+TODO: Discuss ways to enact a critical or disobedient gaze, and to reverse the gaze.
+
+<!-- Activists have proposed the idea of sousveillance to reverse the gaze, notably Simone Browne's "Dark Matters." Artists and academica have made attempts at mapping surveillance networks, controlling them with legislation or agreements, jamming them with individual actions.  -->
 
 _Closing conversation_
 
