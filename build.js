@@ -33,7 +33,7 @@ fs.readdir(path, function(err, items) {
 		let cmd = "pandoc " + fname + " > " + output_name;
 		console.log("compiling", fname, "to", output_name, "by `", cmd, "`");
 		exec(cmd, (error, stdout, stderr) => {
-		    console.log("results", error, stdout, stderr);
+		    console.log("done");
 		})
 		exec('open ' + output_name);
 	    }

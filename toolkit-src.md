@@ -178,11 +178,11 @@ Our perception of state surveillance often surrounds heightened forms of control
 
 So while heightened forms of state surveillance has implications for radical work and movement building, “internalized” surveillance turns this heightened, militarized scrutiny towards “othered” populations.
 
-In March 1713, the City of New York passed “A Law for Regulating Negro & Indian Slaves in the Night Time.” This “lantern law” required black, mixed and indigenous people – ages fourteen and older – to illuminate themselves by carrying a lit candle at night. New York City subjects were deputized to bring in any violators to the “gaols,” where they would be paid eight shillings by the offender’s master. The master was authorized to perform a public whipping of forty lashes.[^10]
+In March 1713, the City of New York passed “A Law for Regulating Negro & Indian Slaves in the Night Time.” This “lantern law” required black, mixed and indigenous people—ages fourteen and older—to illuminate themselves by carrying a lit candle at night. New York City subjects were deputized to bring in any violators to the “gaols,” where they would be paid eight shillings by the offender’s master. The master was authorized to perform a public whipping of forty lashes.[^10]
 
 [^10]: [New York City has been shining surveillance lights on its black population for the last 300 years](https://splinternews.com/new-york-city-has-been-shining-surveillance-lights-on-i-1793856900)
 
-The Lantern Law incentivized white citizens to enforce slave systems and incarceration, codifying the forms of violent, oppressive seeing that have and continue to enforce longstanding power dynamics.[^11] This early use of technology to illuminate the black and brown body applied racialized control over day-to-day mobility. The requirement to “self-illuminate” has strong parallels to the experience of “Driving While Black” - moving slowly and deliberately so a license is not mistaken for a gun, or recording all interactions with police.
+The Lantern Law incentivized white citizens to enforce slave systems and incarceration, codifying the forms of violent, oppressive seeing that have and continue to enforce longstanding power dynamics.[^11] This early use of technology to illuminate the black and brown body applied racialized control over day-to-day mobility. The requirement to “self-illuminate” has strong parallels to the experience of “Driving While Black”—moving slowly and deliberately so a license is not mistaken for a gun, or recording all interactions with police.
 
 [^11]: [Dark Matters: On the Surveillance of Blackness, Simone Browne](https://www.dukeupress.edu/dark-matters)
 
