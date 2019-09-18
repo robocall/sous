@@ -5,7 +5,7 @@
 
 # Watching the watchers: a workshop
 
-<img src="media/bbox3.png" width="550">
+<img src="media/bbox3.png" width="850">
 
 **Note: this material is a work in progress.**
 
