@@ -29,7 +29,7 @@ What do we mean by the _practice_ of surveillance? For us, spotting the practice
 
 <!-- TODO: maybe 'grasping the tools' as in both the ways of thinking and the technologies...? -->
 
-Our material aims to start conversations that throw light on how this ongoing struggle for control is continuing to unfold in our lives and communities today. We hope these conversations can plant the seeds for new ways of thinking and talking about the practice of surveillance, and we want our work to support existing and new movements to make more equitable and transparent the norms, laws, and tools that mediate our behavior.
+Our material aims to start conversations that throw light on how this ongoing struggle for control is continuing to unfold in our lives and communities today. We hope these conversations can plant the seeds for new ways of thinking and talking about the practice of surveillance, and we want our work to support existing and new movements to make more equitable and transparent the norms, laws, and tools that govern our behavior.
 
 Because surveillance touches everyone, we're trying to write our material to offer something to everyone. If you're a community organizer, technologist, legislator, or interested layperson, we hope you'll find our work useful, or even consider helping us write it or bringing it to your communities.
 
