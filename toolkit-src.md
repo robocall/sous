@@ -21,19 +21,34 @@
 
 **Note: this material is a work in progress.**
 
-## Why are we making this toolkit?
+## Why are we making this toolkit? Who's it for?
 
-It’s hard to get a grasp on surveillance and privacy. It’s a huge topic with deep social, historical, and technical dimensions that also impacts our lives from second to second. Governments and companies have incentives to hide how it works. And it changes fast—it seems like some catastrophic new development happens every day. It’s hard to find clear information.
+We're creating a people's guide to surveillance. What we're making is not a book but, we hope, the start of a conversation. By offering our expertise on *how to spot and question the practice of surveillance in daily life*, we're providing scaffolding for community organizers to use to facilitate their own surveillance workshops. The goal is that these workshops would serve as openings for readers and participants to offer us your lived experiences, and for us to work together to develop a shared understanding of how to change the practice of surveillance.
 
-There are many excellent single resources out there for learning about surveillance and privacy—various books, whitepapers, pieces of software, news articles, visualizations, and technical guides. We aim to knit existing resources together into a living toolkit that community members can adapt for their own use. Specifically, we aim to fill the timely need for accessible, comprehensive, experience-focused teaching and learning material for building a high-level and technically-sound understanding of surveillance.
+What do we mean by the _practice_ of surveillance? For us, spotting the practice of surveillance means learning to see the _ways of thinking_ that groups of people have used to justify controlling other groups of people over the years, as well as the _tools_, old and new, that people have always used to shape and reshape the balance of power between groups of people. 
 
-Our goal is that you can use our material to get a group of people from “I’m scared” or “why should I care?” to “I understand why this stuff matters, I understand the context of any new news I see, I know what to do to make things safer for myself, and I know where to look to find further reading on the topics I’m interested in.”
+<!-- TODO: maybe 'grasping the tools' as in both the ways of thinking and the technologies...? -->
+
+Our material aims to start conversations that throw light on how this ongoing struggle for control is continuing to unfold in our lives and communities today. We hope these conversations can plant the seeds for new ways of thinking and talking about the practice of surveillance, and we want our work to support existing and new movements to make more equitable and transparent the norms, laws, and tools that mediate our behavior.
+
+Because surveillance touches everyone, we're trying to write our material to offer something to everyone. If you're a community organizer, technologist, legislator, or interested layperson, we hope you'll find our work useful, or even consider helping us write it or bringing it to your communities.
+
+Included in this toolkit are:
+
+* the written material: teaching, learning, and dialogue material for community organizers to facilitate a surveillance identification workshop
+* the walking tour: an overview of surveillance infrastructure in Seattle
+* the field guide: a birdwatching-style booklet outlining how to spot surveillance infrastructure in daily life
+* a map of the anatomy of surveillance: a poster representation of different appendages of the surveillance apparatus, to be collaboratively created by workshop participants
 
 (The name of our work is inspired by [_A People's Guide to AI_](https://www.alliedmedia.org/peoples-ai).)
 
 ## Notes to the instructor
 
-This material aims to provide an accessible toolkit for surveillance awareness and action. We hope to take participants from "I'm scared" or "who cares?" to "I feel safer, I understand more, and I know what to do." 
+It's hard to get a grasp on surveillance and privacy. It's a huge topic with deep social, historical, and technical dimensions that also impacts our lives from second to second. Governments and companies have incentives to hide how it works. And it changes fast—it seems like some catastrophic new development happens every day. It's hard to find clear information.
+
+There are many excellent single resources out there for learning about surveillance and privacy—various books, whitepapers, pieces of software, news articles, visualizations, and technical guides. We aim to knit existing resources together into a living toolkit that community members can adapt for their own use. Specifically, we aim to fill the timely need for accessible, comprehensive, experience-focused teaching and learning material for building a high-level and technically-sound understanding of surveillance.
+
+Our goal is that you can use our material to get a group of people from “I'm scared” or “why should I care?” to “I understand why this stuff matters, I understand the context of any new news I see, I know what to do to make things safer for myself, and I know where to look to find further reading on the topics I'm interested in.”
 
 The material aims to be short and memorable, so it centers on a question-and-answer approach that incorporates case studies, narratives, illustrations, bullet points, openings for conversation and collaboration, and practical exercises.
 
@@ -88,7 +103,7 @@ Sound familiar? How do you continue the conversation?
 
 I'm glad we worked together to put together this list. As you know, headlines about surveillance dominate the news. When the conversation comes to surveillance, it's easy to pull out these pithy little soundbites:
 
-* “Big brother’s watching!" 
+* “Big brother's watching!" 
 * “If you have nothing to hide, you have nothing to fear.”
 * "We live in a reality TV show!"
 * "We live in a real-life panopticon."
@@ -130,7 +145,7 @@ Glenn Greenwald gave a powerful defense of privacy in his talk ["Why privacy mat
 Now that we've talked about surveillance and privacy in the abstract, let's get more concrete. Let's talk about how we're actually being surveilled. (The following questionnaire and article are adapted from "SuperVision.")
 
 > Are You Under Surveillance?
-> Let’s do a quick check. Do you have any of these?
+> Let's do a quick check. Do you have any of these?
 > 
 > * a cell phone
 > * a credit or debit card
@@ -148,7 +163,7 @@ When you think surveillance, think smartphone.
 > 
 > Washington. In legislation signed by the president, the United States government mandated that all citizens carry an electronic device providing live-streamed data on their location, communication activity, and personal interactions. Data banks will constantly record the time, duration, sender, and receiver of all telephone calls and electronic transmissions, while targeted investigations will be able to monitor actual conversations and message content. Cross-analysis of multiparty location records will show patterns of personal interaction and association. The new program also creates what one official called “300 million eyes” by requiring that each of the mandated devices be equipped with an advanced digital camera able to record and document evidence and transmit it to authorities. 
 > 
-> Officials from police, national security, and public health and safety agencies heralded the move. In the words of one, “This brings an end to the darkness. We can now better serve our citizens with a universal capacity to know where everyone is, all the time. We’ll know who they’re with, who they talk to, when they move, and where they go. This is a massive improvement in our ability to control disease, crime, and terrorism.” To offset the cost of the program, each citizen will be required to pay a monthly fee. 
+> Officials from police, national security, and public health and safety agencies heralded the move. In the words of one, “This brings an end to the darkness. We can now better serve our citizens with a universal capacity to know where everyone is, all the time. We'll know who they're with, who they talk to, when they move, and where they go. This is a massive improvement in our ability to control disease, crime, and terrorism.” To offset the cost of the program, each citizen will be required to pay a monthly fee. 
 
 Let's take this trend to the extreme. If institutions like the state and companies knew everything about us, what would they do with that information? The film "Minority Report" proposed one possible future. Here are three clips from the film:
 
@@ -174,11 +189,11 @@ Even if you haven't felt it, the gaze of the state has always been a weapon aime
 How do you feel when you see a surveillance camera? Do you feel safe? Uneasy? A combination?
 Our perception of state surveillance often surrounds heightened forms of control. This is not too far from origins of state surveillance as a counter military tactic. These systems, when turned domestically, continue to live on in the name of “national security.” In 2009, the birth of predictive policing took form from counterinsurgency tactics in Afghanistan that drew parallels between armed Afghan men and Latino youth.[^9] 
 
-[^9]: [“We’ve Never Had Privacy, Hamid Khan”](https://truthout.org/video/we-ve-never-had-privacy-hamid-khan-on-how-the-surveillance-state-impacts-marginalized-communities/))
+[^9]: [“We've Never Had Privacy, Hamid Khan”](https://truthout.org/video/we-ve-never-had-privacy-hamid-khan-on-how-the-surveillance-state-impacts-marginalized-communities/))
 
 So while heightened forms of state surveillance has implications for radical work and movement building, “internalized” surveillance turns this heightened, militarized scrutiny towards “othered” populations.
 
-In March 1713, the City of New York passed “A Law for Regulating Negro & Indian Slaves in the Night Time.” This “lantern law” required black, mixed and indigenous people—ages fourteen and older—to illuminate themselves by carrying a lit candle at night. New York City subjects were deputized to bring in any violators to the “gaols,” where they would be paid eight shillings by the offender’s master. The master was authorized to perform a public whipping of forty lashes.[^10]
+In March 1713, the City of New York passed “A Law for Regulating Negro & Indian Slaves in the Night Time.” This “lantern law” required black, mixed and indigenous people—ages fourteen and older—to illuminate themselves by carrying a lit candle at night. New York City subjects were deputized to bring in any violators to the “gaols,” where they would be paid eight shillings by the offender's master. The master was authorized to perform a public whipping of forty lashes.[^10]
 
 [^10]: [New York City has been shining surveillance lights on its black population for the last 300 years](https://splinternews.com/new-york-city-has-been-shining-surveillance-lights-on-i-1793856900)
 
@@ -260,7 +275,7 @@ In Guiyang, the police found a BBC reporter using the city's facial-recognition-
 
 First, physical infrastructure manifests itself as the familiar "eyes of big brother": surveillance cameras. Behind the scenes, IP cameras rely on internet infrastructure. 
 
-Second, everything that can be turned into data will be turned into data: for example, Google Street View, the government's "multiple encounter deceased" dataset for facial recognition, and scraping millions of Flickr photos online. "If you’re an adult in America, there’s more than a 50 percent chance that you’re already in a law enforcement facial recognition database, according to researchers at Georgetown." (Source: NYT [Facial Recognition Machine](https://www.nytimes.com/interactive/2019/04/16/opinion/facial-recognition-new-york-city.html))
+Second, everything that can be turned into data will be turned into data: for example, Google Street View, the government's "multiple encounter deceased" dataset for facial recognition, and scraping millions of Flickr photos online. "If you're an adult in America, there's more than a 50 percent chance that you're already in a law enforcement facial recognition database, according to researchers at Georgetown." (Source: NYT [Facial Recognition Machine](https://www.nytimes.com/interactive/2019/04/16/opinion/facial-recognition-new-york-city.html))
 
 Third, large-scale AI works by humans encoding community knowledge and norms. When you do a captcha or submit a Google form, you are helping train, say, a self-driving car to recognize what's a car and what's a road sign. Dataset labeling factories are becoming increasingly common (again, Guiyang, China is the frontier). (See _Sixth Tone_ article and video: [Tilling the data farms of Guizhou](http://www.sixthtone.com/news/1002222/tilling-the-data-farms-of-guizhou)) These dataset labeling factories use people for their "minimum viable humanity" to extract and capture their value for the profit of the very few.
 
@@ -272,7 +287,7 @@ Who's looking? Other people. Often not the people you expect. Voyeurs in the NYP
 
 Lastly: follow the money! Surveillance is big business. China's biggest facial recognition startups, Dahua and Hikvision, are worth billions[^money]. (TODO: discuss why)
 
-[^money]: ["US Universities And Retirees Are Funding The Technology Behind China’s Surveillance State"](https://www.buzzfeednews.com/article/ryanmac/us-money-funding-facial-recognition-sensetime-megvii)
+[^money]: ["US Universities And Retirees Are Funding The Technology Behind China's Surveillance State"](https://www.buzzfeednews.com/article/ryanmac/us-money-funding-facial-recognition-sensetime-megvii)
 
 ### Experience-based exercises
 
@@ -313,20 +328,20 @@ These are all examples of _voluntary_ surveillance: you know what information yo
 
 _Discuss_: Solicit suggestions from participants first.
 
-* You log on to Facebook and take a personality quiz. It tells you you’re an INTJ. Later, you see some pretty good ads for a local congressional candidate, and decide to learn more about them.
+* You log on to Facebook and take a personality quiz. It tells you you're an INTJ. Later, you see some pretty good ads for a local congressional candidate, and decide to learn more about them.
 
 _Note_: This is an entry point to this whole story that people should have vaguely heard of: ["The Data That Turned the World Upside Down: How Cambridge Analytica used your Facebook data to help the Donald Trump campaign in the 2016 election."](https://www.vice.com/en_us/article/mg9vvn/how-our-likes-helped-trump-win ) The point is to introduce a relationship between private entities and public entities, to introduce the idea of public-private collusion, and to introduce the idea of many small pieces of information being used for a much huger emergent purpose (i.e. that of undermining democracy).
 
-* You search for baby formula on Google, then visit Target’s site. They send you mail with a coupon that reads "Congratulations on the baby!" You're still living with your parents, who are Puritans who you were trying to keep a secret from. They kick you out of the house. 
+* You search for baby formula on Google, then visit Target's site. They send you mail with a coupon that reads "Congratulations on the baby!" You're still living with your parents, who are Puritans who you were trying to keep a secret from. They kick you out of the house. 
 
-_Note_: This is the famous ["Target knows you’re pregnant before your parents do"](https://slate.com/human-interest/2014/06/big-data-whats-even-creepier-than-target-guessing-that-youre-pregnant.html
+_Note_: This is the famous ["Target knows you're pregnant before your parents do"](https://slate.com/human-interest/2014/06/big-data-whats-even-creepier-than-target-guessing-that-youre-pregnant.html
 ) story. It serves as an entry point to surveillance capitalism and predictive behavior influencing.
 
 * You have an Android phone and you go about your daily life. The Feds issue a geofence warrant to Google to get your location data. They suspect you of murder and arrest you based on the data.
 
 _Note_: This is another pathway to public-private collusion, as well as discussing data storage/longevity issues and issues of scope creep. [NYTimes article](https://www.nytimes.com/interactive/2019/04/13/us/google-location-tracking-police.html?action=click&module=privacy%20belt%20recirc%20module&pgtype=Article)
 
-* You’re out with your family and you take a bunch of nice photos, which you upload to Flickr. An IBM researcher scrapes your photo from Flickr and uses it to train a facial recognition model, technology that it sells to the NYPD so it can “search CCTV feeds for people with particular skin tones or hair color.”
+* You're out with your family and you take a bunch of nice photos, which you upload to Flickr. An IBM researcher scrapes your photo from Flickr and uses it to train a facial recognition model, technology that it sells to the NYPD so it can “search CCTV feeds for people with particular skin tones or hair color.”
 
 _Note_: This is an entry point to the role of facial recognition and AI in surveillance in the US, how surveillance is targeted at marginalized groups of people, and how personal data is collected coercively to fuel private gain.
 [NBC article](https://www.nbcnews.com/tech/internet/facial-recognition-s-dirty-little-secret-millions-online-photos-scraped-n981921)
@@ -341,17 +356,17 @@ _Note_: [This story](https://www.nytimes.com/2019/07/13/technology/databases-fac
 _Note_: This story introduces another corporate actor, Amazon, as well as personal hardware, and the coercive nature of modern AI.
 [Accidental recording](https://www.npr.org/sections/thetwo-way/2018/05/25/614470096/amazon-echo-recorded-and-sent-couples-conversation-all-without-their-knowledge), [audio review team](https://www.bloomberg.com/news/articles/2019-04-10/is-anyone-listening-to-you-on-alexa-a-global-team-reviews-audio)
 
-* You’re out with your friends downtown. A beacon tracks your location and knows that you went to Dick's Sporting Goods at 2 pm, to the mall at 3 pm, to the bathroom at 4 pm, and that you hesitated in front of a Doc Martens store but didn't go in. The next day, while reading the news, you see a bunch of ads for Doc Martens and decide to go back to the store.
+* You're out with your friends downtown. A beacon tracks your location and knows that you went to Dick's Sporting Goods at 2 pm, to the mall at 3 pm, to the bathroom at 4 pm, and that you hesitated in front of a Doc Martens store but didn't go in. The next day, while reading the news, you see a bunch of ads for Doc Martens and decide to go back to the store.
 
 _Note_: This story is an entry point to ongoing corporate surveillance in physical space and how it ties into advertising and behavioral  microtargeting. It also reinforces how much information a smartphone can leak: Bluetooth beacons and MAC address trackers can ping your phone, identifying your location and identity. This story can lead into an exercise about wifi network inspection.
 [Bluetooth tracking](https://www.nytimes.com/interactive/2019/06/14/opinion/bluetooth-wireless-tracking-privacy.html?rref=collection%2Fseriescollection%2Fnew-york-times-privacy-project), [This trash can is stalking you](https://arstechnica.com/information-technology/2013/08/no-this-isnt-a-scene-from-minority-report-this-trash-can-is-stalking-you/), EFF's [Why Metadata Matters](https://ssd.eff.org/en/module/why-metadata-matters)
 
-* You’re out on the roof with your partner at night, enjoying a warm and intimate evening. Nobody can see you here, right? Unbeknownst to you, a man in an NYPD helicopter is using thermal imaging to spy on you.
+* You're out on the roof with your partner at night, enjoying a warm and intimate evening. Nobody can see you here, right? Unbeknownst to you, a man in an NYPD helicopter is using thermal imaging to spy on you.
 
 _Note_: This story is taken straight from the [New York Times](https://www.nytimes.com/2005/12/22/nyregion/police-video-caught-a-couples-intimate-moment-on-a-manhattan.html
 ). It introduces the human element of surveillance: misuse of the state surveillance apparatus—ostensibly for your protection—for a human observer's voyeuristic glee, even in a place that should be secret.
 
-* You drive around the city to several destinations: to work, to dinner, to your partner’s place. Your license plate is recorded by every license plate reader you pass on the way and your laptop's unique identifier (called a MAC address) is recorded by every Acyclica device you pass along the way. This data is stored by private and public entities (both the city and the companies that manufacture these devices) and sent to quasi-private entities for analysis, like Palantir. One possible fate is that, if you are in the US as a migrant, the city might share your location data with ICE, which uses your location info to find and deport you. 
+* You drive around the city to several destinations: to work, to dinner, to your partner's place. Your license plate is recorded by every license plate reader you pass on the way and your laptop's unique identifier (called a MAC address) is recorded by every Acyclica device you pass along the way. This data is stored by private and public entities (both the city and the companies that manufacture these devices) and sent to quasi-private entities for analysis, like Palantir. One possible fate is that, if you are in the US as a migrant, the city might share your location data with ICE, which uses your location info to find and deport you. 
 
 _Note_: [This story](https://www.aclunc.org/blog/documents-reveal-ice-using-driver-location-data-local-police-deportations) is an entry point to state surveillance and starts to introduce some of the technology that we'll visit in the walking tour. It also reinforces the relationship between public and private actors, and introduces two main problems with pervasive surveillance, namely scope creep and data retention.
 
@@ -388,7 +403,7 @@ Now you understand the impulse to surveil. We live in an information-seeking soc
 
 As "SuperVision" puts it:
 
-> Today’s organizations both require and create orderly, systematic knowledge about the people and things they govern or manage. Surveillance is in the DNA of the modern organization. Businesses, governments, universities, even individuals, seek to gather and organize information as an ongoing part of their work. It’s simply part of what we’re expected to do as responsible actors. Think about how many of our contemporary ideologies or value systems celebrate unfettered access to information. Science must have its data. Law must have its witnesses and confessions. Religion has its all-knowing deities. Democracy has its transparency. Rationality must have its perfect information. They all want to know more! This is a unique cultural alignment in which our key value systems unite to push us toward the celebration and advancement of surveillance as a means of social organization and control. In the face of this level of government, corporate, and ideological convergence in favor of advancing surveillance, we are skeptical that the flood can be pushed back. But we might be able to make it a bit more fair, transparent, and accountable.
+> Today's organizations both require and create orderly, systematic knowledge about the people and things they govern or manage. Surveillance is in the DNA of the modern organization. Businesses, governments, universities, even individuals, seek to gather and organize information as an ongoing part of their work. It's simply part of what we're expected to do as responsible actors. Think about how many of our contemporary ideologies or value systems celebrate unfettered access to information. Science must have its data. Law must have its witnesses and confessions. Religion has its all-knowing deities. Democracy has its transparency. Rationality must have its perfect information. They all want to know more! This is a unique cultural alignment in which our key value systems unite to push us toward the celebration and advancement of surveillance as a means of social organization and control. In the face of this level of government, corporate, and ideological convergence in favor of advancing surveillance, we are skeptical that the flood can be pushed back. But we might be able to make it a bit more fair, transparent, and accountable.
 
 ## Taking action
 
@@ -525,8 +540,8 @@ Two-part activity
 
 * Display a fake ToS as part of our app that asks them to consent
   * Our fake ToS contains humorous/egregious comments, e.g., consenting to sell your soul
-  * Takeaway: People don’t really read ToS
-* Dissect Google’s ToS and see what you are really consenting to
+  * Takeaway: People don't really read ToS
+* Dissect Google's ToS and see what you are really consenting to
 
 ### WiFi Guess Who
 
@@ -567,10 +582,10 @@ If the group is stuck, the facilitator can:
   * What regions of Seattle are supported by Xfinity (an internet provider)? Can this help narrow down people based on where they live?
 * Pivot the discussion by examining what information is missing or how information was obscured, to prevent identification
   * What kind of WiFi network names obfuscated identities in this exercise?
-  * Even if you couldn’t identify someone, what information were you able to gather about that person? How could this information be used by [an advertiser, the government, a company, a malicious person]?
+  * Even if you couldn't identify someone, what information were you able to gather about that person? How could this information be used by [an advertiser, the government, a company, a malicious person]?
 
-If the group unable to identify everyone, that’s okay! The facilitator can talk about other ways to identify someone, such a driving past someone’s house and seeing the same MAC address at that location. 
-They can also discuss how this information can be used to violate people’s privacy, such as location tracking
+If the group unable to identify everyone, that's okay! The facilitator can talk about other ways to identify someone, such a driving past someone's house and seeing the same MAC address at that location. 
+They can also discuss how this information can be used to violate people's privacy, such as location tracking
 It can also be a good segue into a discussion about location tracking and Acyclica [TODO].
 
 If the group is interested or more advanced technologically, the facilitator can examine packets that are captured [TODO].
