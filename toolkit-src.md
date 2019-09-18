@@ -33,12 +33,12 @@ Our material aims to start conversations that throw light on how this ongoing st
 
 Because surveillance touches everyone, we're trying to write our material to offer something to everyone. If you're a community organizer, technologist, legislator, or interested layperson, we hope you'll find our work useful, or even consider helping us write it or bringing it to your communities.
 
-Included in this toolkit are:
+Included in this toolkit are
 
-* the written material: teaching, learning, and dialogue material for community organizers to facilitate a surveillance identification workshop
-* the walking tour: an overview of surveillance infrastructure in Seattle
-* the field guide: a birdwatching-style booklet outlining how to spot surveillance infrastructure in daily life
-* a map of the anatomy of surveillance: a poster representation of different appendages of the surveillance apparatus, to be collaboratively created by workshop participants
+* **the written material**, including teaching, learning, and conversation-starting material for community organizers to facilitate surveillance identification workshops,
+* **the walking tour**, an overview of surveillance infrastructure in Seattle,
+* **the field guide**, a birdwatching-style booklet showing how to spot surveillance infrastructure in daily life, and
+* **a map of the anatomy of surveillance**, a poster visualizing relationships between parts of the massive surveillance apparatus, to be collaboratively created by workshop participants.
 
 (The name of our work is inspired by [_A People's Guide to AI_](https://www.alliedmedia.org/peoples-ai).)
 
