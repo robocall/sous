@@ -21,6 +21,8 @@
 
 **Note: this material is a work in progress.**
 
+If you got to this page via the Tech Fairness Coalition, please consider filling out our [feedback worksheet](https://drive.google.com/open?id=0B4d7cujZGEBqZTdyaGJ4SkF1TnMtcXpIUGpUTHE1amJzZWIw) and sending it to us at _sousveillance@protonmail.com_! Here is our [one-page overview](https://docs.google.com/document/d/11nypEUohiTnaIkG4eiuCGUQBUhmNtrTpnMLqzwVAQZc/edit?usp=sharing).
+
 ## Why are we making this toolkit? Who's it for?
 
 We're creating a people's guide to surveillance. What we're making is not a book but, we hope, the start of a conversation. By offering our expertise on *how to spot and question the practice of surveillance in daily life*, we're providing scaffolding for community organizers to use to facilitate their own surveillance workshops. The goal is that these workshops would serve as openings for readers and participants to offer us your lived experiences, and for us to work together to develop a shared understanding of how to change the practice of surveillance.
