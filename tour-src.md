@@ -167,67 +167,64 @@ As we walk around downtown, we'll see many surveillance cameras—and they'll se
 
 ### Overview
 
-When we see a surveillance camera, we might think of an eye. That makes sense. But to illustrate a new way of thinking about cameras, let's imagine if every surveillance camera we saw was replaced by a _person_ staring at you. There might be five people staring intently at us right now and taking notes. How would that change the way you felt about public space?
+Just walking around, we've been spotted by many surveillance cameras watching us. What if every surveillance camera we saw was replaced by a _person_ staring at us? There might be five people looking at us and taking notes right now. How would that change the way you felt about public space? _(opening for conversation)_
 
-_Opening for conversation about this question._
+Street-level video surveillance systems differ in several important ways from a single person or a crowd watching you. Let's talk about several things that are different.
 
-First, street-level video surveillance systems differ in several important ways from a single person.
+_Why is a surveillance camera not an eye?_ 
 
+_(opening for conversation; several answers included below)_
+
+* The camera has a memory. It can record video or other data and add it to a store of records over all time. That data can be analyzed for patterns and shared with other entities, both private (your neighbors) and public (the local police).
+* The camera can be controlled remotely: it can swivel, zoom, or change height.
+* It might be connected to a network (via Internet or RF), which lets it send video to anywhere, receive instructions from anywhere, and lets other people, who might be anywhere, watch the video stream.
+* The camera can see things an eye can't, such as temperature and infrared frequencies.
+* There might be many cameras connected to the same network in a city or building, sharing information (e.g. tracking the same person).
+* The camera can have different ways of seeing encoded in it, including kinds of gazes that enforce social agreements about what kinds of behavior and people are considered "normal."
+* There are many more cameras in public space than one might expect: 500,000 in London, 30,000 in Chicago, 9,000 in New York, 46,000 in Beijing (and growing very fast in China to 600 million+ by 2020).
+
+Now that we've broken down why a camera is not an eye, do you all think is a better way to understand a street-level video surveillance system? _(opening for conversation)_
+
+So far, we've been watched, but to understand surveillance, we also need to play the part of the watcher. Let's try and get a sense of that. Has anyone here worked as a security guard? Can you tell us about your experience? What can a camera see, and what did *you* see? The people who are watching can see a lot.
+
+> "The biggest thing I’ve come across over the years working security is how much people think they can get away with things, or operate under the assumption that there aren’t cameras in an area, or the cameras aren’t recording. Which, to be fair, that’s sometimes the case. But 99 percent of the time, if they’ve done something stupid, it’s probably on camera. A control center operator has probably seen it or has been asked to look into it and found it."
+
+What’s it like on the other side?
+Who is watching?
+Who is being watched? Often the employees not the customers (Browne, Fanon, 6)
+You're the voyeur
+Real-time crime centers
+Insecam
+
+Why use cameras? control.
 History of seeing, sight and light
 The panopticon is canceled!
 
-"Perhaps, however, [black luminosity] is a **light that shines more brightly on some than on others.** Here boundary maintenance is intricately tied to knowing the black body, subjecting some to a high visibility (...) by way of technologies of seeing that sought to render the subject outside of the category of the human, _un_-visible." (Browne 68)
+> "I use the term 'black luminosity' to refer to a form of boundary maintenance occurring at the site of the black body, whether by candlelight, flaming torch, or the camera flashbulb that documents the ritualized terror of a lynch mob. (...)
 
-Seattle-specific
-Privately owned
-Private networks -- Ring, Neighbors, Citizen
-Private/public
+> Perhaps, however, [black luminosity] is a **light that shines more brightly on some than on others.** Here boundary maintenance is intricately tied to knowing the black body, subjecting some to a high visibility (...) by way of technologies of seeing that sought to render the subject outside of the category of the human, _un_-visible." (Browne 68)
 
-It's not a security camera. It's a ....
+Seattle-specific: SkyWatch tower; convenience store; Ring network
+Surveillance and control substitutes for _community fabric_. Resist the mentality of "this or nothing" but imagine a different future
+Activist attempts at mapping
 
-Just a kind of sensor
-Types of cameras: dome, PTZ, infrared, surveillance towers, thermal cameras, ALPRs, eyes in the sky, augmented cameras.
-Networked
-Multi-camera tracking throughout city
-Analytics system
-Storage
-Encode norms
-Insecure
-Watched by people and algorithms
-
-Do they work? Expensive, and not really.
-A sense of security
-
-Visual cues to spotting one
-China [Beijing map], NY, London, Chicago
-Locations
-Indoor/outdoor
-What’s it like on the other side?
-What can a camera see and how can it see
-
-Who is being watched -- often the employees not the customers (Browne, Fanon, 6)
-Who is watching?
-You're the voyeur
-Real-time crime centers
-"The biggest thing I’ve come across over the years working security is how much people think they can get away with things, or operate under the assumption that there aren’t cameras in an area, or the cameras aren’t recording. Which, to be fair, that’s sometimes the case. But 99 percent of the time, if they’ve done something stupid, it’s probably on camera. A control center operator has probably seen it or has been asked to look into it and found it."
-
-Several activist attempts to map them
-Surveillance camera players
-Dazzle makeup
-Individual interventions
-
+Threat to privacy, anonymity, freedom of movement.
 Chilling effect
 Abused by institutions and individuals
-Threat to privacy, anonymity, freedom of movement.
+Do they work? Expensive, and not really.
+A sense of security
 The bottom line: a lack of proportion between benefits and risks.
+
+<!-- TODO: more social history discussion; also legal status -->
 
 ### Activities
 
-_Spy v. Spy_: Using the [field guide to spotting surveillance cameras](http://www.coveillance.org/camera-spotting), we'll split up into pairs, each pick a block in downtown, and try to find, photograph, and map all surveillance cameras on that block.
+_Spy v. Spy_: Using the [field guide to spotting surveillance cameras](http://www.coveillance.org/camera-spotting), we'll split up into pairs. Each pair will compete to try to find, photograph, and map the most surveillance cameras in downtown. (Of course, be aware of your surroundings, be safe, be prepared for questions, and only photograph cameras in outdoor public space. Yes, what we're doing is legal.)
 
 Discussion
 
-* TODO
+* Did it feel subversive? Why?
+* Citizen accountability
 
 _You're the voyeur_: Look at [unsecured security cameras](https://www.insecam.org/en/bycity/Seattle/) in Seattle on Insecam. Do any places look familiar? How does it feel to perform watching?
 
@@ -262,19 +259,24 @@ Overviews
 
 Other references
 
+* [Breakdown of surveillance cameras in NYC](http://seeingnetworks.in/nyc/#cameras)
 * [Interview with an anonymous security camera operator](https://logicmag.io/bodies/interview-with-an-anonymous-security-operator/) (Logic)
 * [Feeling safe in the surveillance state](https://www.nytimes.com/2019/04/10/opinion/china-internet-surveillance.html) (NYT)
 * [What I Learned After Watching 24-Hour Surveillance Footage for a Week](https://www.vice.com/en_us/article/neknmx/what-i-learned-by-watching-24-hour-surveillance-footage-for-a-week) (Vice)
 * [Surveillance camera players](http://www.notbored.org/the-scp.html)
 * [NYC Surveillance Camera Project](http://www.mediaeater.com/cameras/)
 * ["Facial Recognition Tech Is Growing Stronger, Thanks to Your Face"](https://www.nytimes.com/2019/07/13/technology/databases-faces-facial-recognition-technology.html) (Brainwash cafe)
-* Read [James Bridle's experience](http://shorttermmemoryloss.com/nor/2014/11/07/all-cameras-are-police-cameras/) photographing all surveillance cameras in London
-* Be aware of coveillance via Amazon's [Ring doorbells](https://www.cnet.com/news/how-rings-neighbors-app-is-making-home-security-a-social-thing/)
+* [James Bridle's experience](http://shorttermmemoryloss.com/nor/2014/11/07/all-cameras-are-police-cameras/) photographing all surveillance cameras in London
+* Amazon's [Ring doorbells](https://www.cnet.com/news/how-rings-neighbors-app-is-making-home-security-a-social-thing/) make home security a "social network"
+* [Wi-Fi RF spectrum, baby monitors, wireless cameras, interference and noise](https://www.acrylicwifi.com/en/blog/wi-fi-rf-spectrum-baby-monitor-and-wireless-camera-interference-and-noise/)
+* [What Is the Frequency of Wireless Spy Cameras?](https://itstillworks.com/frequency-wireless-spy-cameras-6515002.html)
+* Number of surveillance cameras in [London](https://en.wikipedia.org/wiki/Mass_surveillance_in_the_United_Kingdom#Number_of_cameras), [Chicago](https://www.nytimes.com/2018/05/26/us/chicago-police-surveillance.html), [NYC](https://www.cityandstateny.com/articles/policy/technology/how-new-york-city-is-watching-you.html), [Beijing and China](https://www.theatlantic.com/international/archive/2018/02/china-surveillance/552203/)
 
 ## Other infrastructure
 
 * [Gunshot detectors](https://theyarewatching.org/technology/gunshot-detector), not in [Seattle](https://www.thestranger.com/slog/2016/06/02/24158530/mayor-council-and-police-try-again-with-shotspotter-gunshot-detection-system) but in Chicago, New York, and Oakland (CA)
 * [Seattle Stingray tracking](https://www.wired.com/2017/06/researchers-use-rideshares-sniff-stingray-locations/)
+* GPS satellites
 
 ## Discussion
 
