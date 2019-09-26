@@ -167,6 +167,22 @@ As we walk around downtown, we'll see many surveillance cameras—and they'll se
 
 ### Overview
 
+> Prototypical whiteness is the cultural logic that informs much of biometric information technology. It sees whiteness, or lightness, as privileged in enrollment, measurement, and recognition processes, and, as I argued in that chapter, prototypical whiteness is reliant upon dark matter for its own meaning. Dark matter being those bodies and body parts that trouble some biometric technology, like dark irises or cameras that "can’t see black people" or that ask some Asian users, "Did someone blink?" When particular surveillance technologies, in their development and design, leave out some subjects and communities for optimum usage, this leaves open the possibility of reproducing existing inequalities. (Browne 163)
+
+Why use cameras? control.
+History of seeing, sight and light
+
+> "I use the term 'black luminosity' to refer to a form of boundary maintenance occurring at the site of the black body, whether by candlelight, flaming torch, or the camera flashbulb that documents the ritualized terror of a lynch mob. (...)
+> 
+> Perhaps, however, [black luminosity] is a **light that shines more brightly on some than on others.** Here boundary maintenance is intricately tied to knowing the black body, subjecting some to a high visibility (...) by way of technologies of seeing that sought to render the subject outside of the category of the human, _un_-visible." (Browne 68)
+
+And also what cameras can see
+
+Openings for conversation: personal experience and in Seattle
+
+Seattle-specific: SkyWatch tower; convenience store; Ring network
+Surveillance and control substitutes for _community fabric_. Resist the mentality of "this or nothing" but imagine a different future
+
 Just walking around, we've been spotted by many surveillance cameras watching us. What if every surveillance camera we saw was replaced by a _person_ staring at us? There might be five people looking at us and taking notes right now. How would that change the way you felt about public space? _(opening for conversation)_
 
 Street-level video surveillance systems differ in several important ways from a single person or a crowd watching you. Let's talk about several things that are different.
@@ -177,36 +193,25 @@ _(opening for conversation; several answers included below)_
 
 * The camera has a memory. It can record video or other data and add it to a store of records over all time. That data can be analyzed for patterns and shared with other entities, both private (your neighbors) and public (the local police).
 * The camera can be controlled remotely: it can swivel, zoom, or change height.
-* It might be connected to a network (via Internet or RF), which lets it send video to anywhere, receive instructions from anywhere, and lets other people, who might be anywhere, watch the video stream.
+* It might be connected to a network (via Internet or radio frequency), which lets it send video to anywhere, receive instructions from anywhere, and lets other people, who might be anywhere, watch the video stream.
 * The camera can see things an eye can't, such as temperature and infrared frequencies.
 * There might be many cameras connected to the same network in a city or building, sharing information (e.g. tracking the same person).
-* The camera can have different ways of seeing encoded in it, including kinds of gazes that enforce social agreements about what kinds of behavior and people are considered "normal."
+* The camera can have different ways of seeing encoded in it, including kinds of gazes that enforce social agreements about what kinds of behavior and people are considered "normal"--and these gazes can be propagated all at once to the whole network of enforcement that the camera hooks into.
 * There are many more cameras in public space than one might expect: 500,000 in London, 30,000 in Chicago, 9,000 in New York, 46,000 in Beijing (and growing very fast in China to 600 million+ by 2020).
 
 Now that we've broken down why a camera is not an eye, do you all think is a better way to understand a street-level video surveillance system? _(opening for conversation)_
 
-So far, we've been watched, but to understand surveillance, we also need to play the part of the watcher. Let's try and get a sense of that. Has anyone here worked as a security guard? Can you tell us about your experience? What can a camera see, and what did *you* see? The people who are watching can see a lot.
+So far, we've been watched, but to understand surveillance, we also need to play the part of the watcher. Let's try and get a sense of that. Who's watching? What's it like on the other side? Has anyone here worked as a security guard? Can you tell us about your experience? What can a camera see, and what did *you* see? The people who are watching can see a lot.
 
 > "The biggest thing I’ve come across over the years working security is how much people think they can get away with things, or operate under the assumption that there aren’t cameras in an area, or the cameras aren’t recording. Which, to be fair, that’s sometimes the case. But 99 percent of the time, if they’ve done something stupid, it’s probably on camera. A control center operator has probably seen it or has been asked to look into it and found it."
 
-What’s it like on the other side?
-Who is watching?
-Who is being watched? Often the employees not the customers (Browne, Fanon, 6)
 You're the voyeur
 Real-time crime centers
 Insecam
 
-Why use cameras? control.
-History of seeing, sight and light
-The panopticon is canceled!
-
-> "I use the term 'black luminosity' to refer to a form of boundary maintenance occurring at the site of the black body, whether by candlelight, flaming torch, or the camera flashbulb that documents the ritualized terror of a lynch mob. (...)
-
-> Perhaps, however, [black luminosity] is a **light that shines more brightly on some than on others.** Here boundary maintenance is intricately tied to knowing the black body, subjecting some to a high visibility (...) by way of technologies of seeing that sought to render the subject outside of the category of the human, _un_-visible." (Browne 68)
-
-Seattle-specific: SkyWatch tower; convenience store; Ring network
-Surveillance and control substitutes for _community fabric_. Resist the mentality of "this or nothing" but imagine a different future
-Activist attempts at mapping
+> Churches, restaurants, farms, streets, bars, private gardens, beaches, barber shops—they’re all there, streaming 24 hours a day within neatly organized categories such as "farm" and "traffic" and "interesting." Because the owners of these security cameras probably don't know this footage is being streamed online, you're basically an invisible observer. If that sounds creepy and unethical, welcome to 2018—someone is probably watching you reading this.
+> 
+> After watching 24-hour surveillance footage from around the world almost constantly for one week, my main takeaway is this: nothing is happening, most of the time. I'm serious. We think of the world as this screaming, disastrous thing—a nonstop miasma of events and movement. Whereas, actually, when our backs are turned, when we are asleep or elsewhere, what sits behind and around us are endless empty spaces and motionless objects.
 
 Threat to privacy, anonymity, freedom of movement.
 Chilling effect
@@ -214,6 +219,7 @@ Abused by institutions and individuals
 Do they work? Expensive, and not really.
 A sense of security
 The bottom line: a lack of proportion between benefits and risks.
+Fight back: Activist attempts at mapping or requesting maps
 
 <!-- TODO: more social history discussion; also legal status -->
 
