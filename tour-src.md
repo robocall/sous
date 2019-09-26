@@ -25,6 +25,122 @@
 
 As we walk around downtown Seattle, we'll refer to this [field guide](https://www.figma.com/file/C15vnW0gtZybtY24eXREfy/Field-Guide-Prototype?node-id=0%3A1). Map and photos coming soon.
 
+## Surveillance cameras
+
+As we walk around downtown, we'll see many surveillance cameras—and they'll see us.
+
+### Overview
+
+How do you think a surveillance camera sees you? 
+
+It's not hard to get a sense of how a person sees you. The more you get to know a person, the more you get a sense of how they feel about you through what they do and say. If they like you personally, or they hold a prejudice against some part of who you are, it'll likely come out in conversation.
+
+A surveillance camera, though an unblinking and unbreathing machine, _also_ sees you in a certain way. All the hardware and software of the camera, as well as the people "inside" the camera, together encode a certain kind of gaze. Based on what they see, they might act toward you in some way. But unlike a person, there's no two-way flow of information, and no explanation for something that happens.
+
+Cameras have always seen some people better. More broadly, sensors have always been built by certain groups of people to sense certain groups of people better than others.[^audio] In her book "Darkness Matters," Simone Browne argues that biometric technology privileges whiteness and is troubled by "dark matter":
+
+> Dark matter being those bodies and body parts that trouble some biometric technology, like dark irises or cameras that "can’t see black people" or that ask some Asian users, "Did someone blink?" When particular surveillance technologies, in their development and design, leave out some subjects and communities for optimum usage, this leaves open the possibility of reproducing existing inequalities. (163)
+
+[^audio]: For an example in another medium, see: [A Century of “Shrill”: How Bias in Technology Has Hurt Women’s Voices](https://www.newyorker.com/culture/cultural-comment/a-century-of-shrill-how-bias-in-technology-has-hurt-womens-voices)
+
+And seeing and sensing have always been used as forms of control, especially over black and brown bodies. As Browne writes, "some light shines more brightly on some than on others... [and some] technologies of seeing [seek] to render the subject outside of the category of the human, _un_-visible." (68)
+
+_Question:_ How do you think a surveillance camera sees you? What have you experienced in Seattle?
+
+Just walking around, we've been spotted by many surveillance cameras watching us. But again, a surveillance camera is not a person. 
+
+_Question:_ How does a surveillance camera differ from an eye? How does a surveillance camera differ from a random passerby looking at you?
+
+Let's get specific about the hardware, software, and people operating it. (several answers included below)
+
+* The camera has a memory. It can record video or other data and add it to a store of records over all time. That data can be analyzed for patterns and shared with other entities, both private (your neighbors) and public (the local police).
+* The people behind the camera tend to have _more_ power than the average person in public space (security guards or police).
+* The camera can be controlled remotely: it can swivel, zoom, or change height.
+* It might be connected to a network (via Internet or radio frequency), which lets it send video to anywhere, receive instructions from anywhere, and lets other people, who might be anywhere, watch the video stream.
+* The camera might be insecure; that is, anyone on the network could break into it.
+* The camera can see things an eye can't, such as temperature and infrared frequencies.
+* There might be many cameras connected to the same network in a city or building, sharing information (e.g. tracking the same person).
+* The camera can have different ways of seeing encoded in it, including kinds of gazes that enforce social agreements about what kinds of behavior and people are considered "normal"—and these gazes can be propagated all at once to the whole network of enforcement that the camera hooks into.
+* There are many more cameras in public space than one might expect: 500,000 in London, 30,000 in Chicago, 9,000 in New York, 46,000 in Beijing (and growing very fast in China to 600 million+ by 2020).
+
+_Question:_ Now that we've broken down why a camera is not an eye, what do you all think is a better way to understand a street-level video surveillance system?
+
+To understand surveillance, we also need to _watch_. Let's try and get a sense of that. 
+
+_Question:_ Who's watching? What's it like on the other side? Has anyone here worked as a security guard? Can you tell us about your experience? What can a camera see, and what did *you* see? 
+
+The people who are watching can see a lot. Often data is piped to centers in cities called "real-time crime centers" to be displayed and analyzed. (Possible activity: _You're the voyeur_)
+
+> "The biggest thing I’ve come across over the years working security is how much people think they can get away with things, or operate under the assumption that there aren’t cameras in an area, or the cameras aren’t recording. Which, to be fair, that’s sometimes the case. But 99 percent of the time, if they’ve done something stupid, it’s probably on camera. A control center operator has probably seen it or has been asked to look into it and found it."
+
+One recent example of seeing as a form of control was when the Seattle Police Department installed a SkyWatch tower in a parking lot in a Safeway in South Seattle, a heavily Japanese neighborhood. According to Stanley Shikuma, a board member of the Japanese American Citizens League’s Seattle chapter, this tower sends a clear message: "You are being watched. We have you in our sights. And like [at] the [Japanese internment] camps, the intent is to intimidate rather than protect."
+
+Coverage of this tower pointed out the police's use of surveillance, which they justified by pointing to high crime rates, was just a _band-aid_ on symptoms that arose from the underlying issue of a _destruction of community._
+
+> The Silver Fork was a place to get hot links, grits, a middling cup of coffee and the company, mostly Black, of your neighbors and community leaders. It made the space feel activated, vibrant and safe, the kind of place you wouldn’t mess with because it was familial.
+> 
+> But Safeway replaced the restaurant with a gas station and convenience kiosk. 
+
+This story shows how we can resist the _way of thinking_ that props up the practice of surveillance. Justifications like "crime" are really symptoms of deeper causes that only will only be _exacerbated_ by imposing coercive technologies from the top down. Instead, we can imagine and build futures that decenter control and center community.
+
+In general, widespread video surveillance systems threaten individuals' privacy, anonymity, and freedom of movement, and they're vulnerable to abuse by people and institutions. They're expensive systems that aren't proven to "stop crime" or make people feel safer. The risks far outweigh the benefits!
+<!-- TODO: more concrete stories/citations -->
+
+One way that activists have resisted these systems is by "watching the watchers." Groups in cities including NYC, LA, Chicago, and Seattle have worked on photographing surveillance cameras and mapping their locations, to make a usually opaque system more transparent to the public. We could join in that action right now as well. (Possible activity: _Spy v. Spy_)
+
+<!-- TODO: more social history discussion; also legal status -->
+
+### Activities
+
+_Spy v. Spy_: First, discuss the [field guide to spotting surveillance cameras](http://www.coveillance.org/camera-spotting), which gives more concrete details on kinds of cameras, how to spot them, and where they are usually found. Next, split up into pairs. Each pair competes to find, photograph, and map the most surveillance cameras in downtown. (Of course, be aware of your surroundings, be safe, be prepared for questions, and only photograph cameras in outdoor public space. Yes, what we're doing is legal.)
+
+Discussion
+
+* Did it feel subversive? Should it feel subversive? How can citizens hold surveillance systems accountable?
+
+_You're the voyeur_: Look at [unsecured security cameras](https://www.insecam.org/en/bycity/Seattle/) in Seattle on Insecam. 
+
+Discussion
+
+* Do any places look familiar? How does it feel to perform watching? What ways of seeing are you imposing? Is this ethical?
+
+### Discussion
+
+* What are other ways to question the need to have cameras, or surveillance, at all? What sort of society would we build around this way of life?
+* What are your individual or communal experiences of "light shining more brightly on some than others"?
+* What if each camera were replaced by a person? How would that change how you feel?
+* Are you okay with being surveilled by cameras in public space? (Some large percent of Americans is okay with this.)
+* What is the relationship between a city's architecture and the ways that it affords or hinders watching? (The panopticon is canceled.)
+
+### Further reading
+
+Seattle-specific
+
+* [$150K to remove Seattle’s unused public surveillance cameras](https://mynorthwest.com/887570/150k-remove-seattle-surveillance-cameras/?)
+* A [Skywatch unit deployed at Safeway in Rainier Valley](https://crosscut.com/2019/04/police-tower-casts-shadow-over-south-seattle-safeway)
+* Facial recognition used at a [convenience store in Seattle](https://www.seattletimes.com/business/technology/when-convenience-meets-surveillance-ai-at-the-corner-store/) (another [story](https://www.kiro7.com/news/south-sound-news/tacoma-convenience-store-uses-facial-recognition-technology/950979811))
+
+Overviews
+
+* [Street-level surveillance overview](https://www.eff.org/pages/surveillance-cameras) (EFF)
+* [Video surveillance system overview](https://theyarewatching.org/technology/video-surveillance-systems) (ACLU)
+* [What's wrong with public video surveillance?](https://www.aclu.org/other/whats-wrong-public-video-surveillance) (ACLU)
+
+Other references
+
+* [Breakdown of surveillance cameras in NYC](http://seeingnetworks.in/nyc/#cameras)
+* [Interview with an anonymous security camera operator](https://logicmag.io/bodies/interview-with-an-anonymous-security-operator/) (Logic)
+* [Feeling safe in the surveillance state](https://www.nytimes.com/2019/04/10/opinion/china-internet-surveillance.html) (NYT)
+* [What I Learned After Watching 24-Hour Surveillance Footage for a Week](https://www.vice.com/en_us/article/neknmx/what-i-learned-by-watching-24-hour-surveillance-footage-for-a-week) (Vice)
+* [Surveillance camera players](http://www.notbored.org/the-scp.html)
+* [NYC Surveillance Camera Project](http://www.mediaeater.com/cameras/)
+* ["Facial Recognition Tech Is Growing Stronger, Thanks to Your Face"](https://www.nytimes.com/2019/07/13/technology/databases-faces-facial-recognition-technology.html) (Brainwash cafe)
+* [James Bridle's experience](http://shorttermmemoryloss.com/nor/2014/11/07/all-cameras-are-police-cameras/) photographing all surveillance cameras in London
+* Amazon's [Ring doorbells](https://www.cnet.com/news/how-rings-neighbors-app-is-making-home-security-a-social-thing/) make home security a "social network"
+* [Wi-Fi RF spectrum, baby monitors, wireless cameras, interference and noise](https://www.acrylicwifi.com/en/blog/wi-fi-rf-spectrum-baby-monitor-and-wireless-camera-interference-and-noise/)
+* [What Is the Frequency of Wireless Spy Cameras?](https://itstillworks.com/frequency-wireless-spy-cameras-6515002.html)
+* Number of surveillance cameras in [London](https://en.wikipedia.org/wiki/Mass_surveillance_in_the_United_Kingdom#Number_of_cameras), [Chicago](https://www.nytimes.com/2018/05/26/us/chicago-police-surveillance.html), [NYC](https://www.cityandstateny.com/articles/policy/technology/how-new-york-city-is-watching-you.html), [Beijing and China](https://www.theatlantic.com/international/archive/2018/02/china-surveillance/552203/)
+
 ## Amazon Go
 
 Visit Amazon Go, [a surveillance-powered convenience store](https://techcrunch.com/2018/01/21/inside-amazons-surveillance-powered-no-checkout-convenience-store/) at 2131 7th Ave, as well as the Seattle Spheres.
@@ -33,9 +149,9 @@ Visit Amazon Go, [a surveillance-powered convenience store](https://techcrunch.c
 
 Amazon Go is a convenience store without cashiers. Instead, cameras track your every move inside the store to determine what objects you’ve taken from the shelf, as well as your browsing habits, such as how long you hesitated before taking an item or whether you put an item back.
 
-Is it a big deal if Amazon knows that you like bagels over waffles? Well, maybe not in and of itself. But be aware of a few things. First, Amazon is probably combining your data from the physical Amazon Go store with data about your online purchases. Say you’ve bought an item that reveals your political or religious beliefs---Hillary Clinton’s book, a Hanukkah decoration---and you also get a coffee every day at 8am. Now Amazon knows about your beliefs and where to reliably find you. What happens if those beliefs become persecuted? [e.g., raids on Muslim-Americans].
+Is it a big deal if Amazon knows that you like bagels over waffles? Well, maybe not in and of itself. But be aware of a few things. First, Amazon is probably combining your data from the physical Amazon Go store with data about your online purchases. Say you’ve bought an item that reveals your political or religious beliefs—Hillary Clinton’s book, a Hanukkah decoration—and you also get a coffee every day at 8am. Now Amazon knows about your beliefs and where to reliably find you. What happens if those beliefs become persecuted? [e.g., raids on Muslim-Americans].
 
-Second, once Amazon has your data, you’ve implicitly consented to whatever they want to do with that data. One way data is often used is to draw conclusions for advertisements. Ads have the power to shape individual beliefs and behavior---think about how teenage girls are affected by ads depicting impossible beauty standards. Targeted ads, which show ads based on your purchases and behavior, has an echo chamber effect, where the things you see reinforce your beliefs, which reinforces what Amazon shows you.
+Second, once Amazon has your data, you’ve implicitly consented to whatever they want to do with that data. One way data is often used is to draw conclusions for advertisements. Ads have the power to shape individual beliefs and behavior—think about how teenage girls are affected by ads depicting impossible beauty standards. Targeted ads, which show ads based on your purchases and behavior, has an echo chamber effect, where the things you see reinforce your beliefs, which reinforces what Amazon shows you.
 
 We don’t necessarily know how else data is being used, because there is little legal oversight. Can Amazon sell this data to the government? Can Amazon track your location, based on what stores you go to? What if Amazon is accidentally storing your data insecurely, and an employee can access it? Can Amazon use the photo of your face to generate other face photos? All of these situations have happened in the past.
 
@@ -138,9 +254,9 @@ Visit an automated license plate reader (ALPR). Location TBD. There are 99 stati
 
 ### Overview
 
-Automatic License Plate Readers (ALPR), unsurprisingly, capture the license plates of cars that drive by. License plates are important because they uniquely identify a person---the government can look up who a license plate belongs to at a DMV. They are posted in street corners around Seattle. There is no public map, since the city doesn’t want to lose money from people evading speeding tickets.
+Automatic License Plate Readers (ALPR), unsurprisingly, capture the license plates of cars that drive by. License plates are important because they uniquely identify a person—the government can look up who a license plate belongs to at a DMV. They are posted in street corners around Seattle. There is no public map, since the city doesn’t want to lose money from people evading speeding tickets.
 
-Well, if you’re not speeding, so what? First, ALPRs take pictures of your license plate even when there are no traffic violations. According to the city of Seattle, this is to keep track of traffic congestion. Second, with ALPRs located in many places around the city, the government could conceivably track your location, or the location history of any given person. Where you go can reveal a lot about you and can be used against you---for example, the NYPD collected license plates of people parked at mosques, in an "unapologetic approach to protecting the city from terrorism." Third, who gets access to this data, and how is it stored? Although Dept. of Transportation employees receive "training" to use the system, what prevents a malicious user from tracking their ex-partner, and is there any oversight? Currently, there is no legal requirement to audit or delete this data. 
+Well, if you’re not speeding, so what? First, ALPRs take pictures of your license plate even when there are no traffic violations. According to the city of Seattle, this is to keep track of traffic congestion. Second, with ALPRs located in many places around the city, the government could conceivably track your location, or the location history of any given person. Where you go can reveal a lot about you and can be used against you—for example, the NYPD collected license plates of people parked at mosques, in an "unapologetic approach to protecting the city from terrorism." Third, who gets access to this data, and how is it stored? Although Dept. of Transportation employees receive "training" to use the system, what prevents a malicious user from tracking their ex-partner, and is there any oversight? Currently, there is no legal requirement to audit or delete this data. 
 
 ### Discussion
 
@@ -160,134 +276,6 @@ Well, if you’re not speeding, so what? First, ALPRs take pictures of your lice
 
 * Resources: [Seattle oversight](https://www.seattletimes.com/business/technology/seattles-oversight-of-surveillance-technology-is-moving-forward-slowly/), [SSO doc](http://www.seattle.gov/Documents/Departments/Tech/Privacy/License%20Plate%20Readers_Final%20SIR.pdf), [EFF doc](https://www.eff.org/pages/automated-license-plate-readers-alpr), [use by ICE](https://www.aclunc.org/blog/documents-reveal-ice-using-driver-location-data-local-police-deportations), [vulnerable ALPR systems](https://techcrunch.com/2019/01/22/police-alpr-license-plate-readers-accessible-internet/)
 * Activity: do a [Shodan search](https://techcrunch.com/2019/01/21/shodan-safari/)
-
-## Surveillance cameras
-
-As we walk around downtown, we'll see many surveillance cameras—and they'll see us.
-
-### Overview
-
-When you talk to a person, you get a sense of how that person sees you. What they think of you, 
-
-Do you ever wonder how a camera sees you?
-
-> Prototypical whiteness is the cultural logic that informs much of biometric information technology. It sees whiteness, or lightness, as privileged in enrollment, measurement, and recognition processes, and, as I argued in that chapter, prototypical whiteness is reliant upon dark matter for its own meaning. Dark matter being those bodies and body parts that trouble some biometric technology, like dark irises or cameras that "can’t see black people" or that ask some Asian users, "Did someone blink?" When particular surveillance technologies, in their development and design, leave out some subjects and communities for optimum usage, this leaves open the possibility of reproducing existing inequalities. (Browne 163)
-
-Why use cameras? control.
-History of seeing, sight and light
-
-> "I use the term 'black luminosity' to refer to a form of boundary maintenance occurring at the site of the black body, whether by candlelight, flaming torch, or the camera flashbulb that documents the ritualized terror of a lynch mob. (...)
-> 
-> Perhaps, however, [black luminosity] is a **light that shines more brightly on some than on others.** Here boundary maintenance is intricately tied to knowing the black body, subjecting some to a high visibility (...) by way of technologies of seeing that sought to render the subject outside of the category of the human, _un_-visible." (Browne 68)
-
-And also what cameras can see
-
-Openings for conversation: personal experience and in Seattle
-
-Seattle-specific: SkyWatch tower; convenience store; Ring network
-
-> Stanley Shikuma, a board member of the Japanese American Citizens League’s Seattle chapter, says the tower at Safeway sends a clear message: “You are being watched. We have you in our sights. And like [at] the camps, the intent is to intimidate rather than protect.”
-> 
-> The Silver Fork was a place to get hot links, grits, a middling cup of coffee and the company, mostly Black, of your neighbors and community leaders. It made the space feel activated, vibrant and safe, the kind of place you wouldn’t mess with because it was familial.
-> 
-> But Safeway replaced the restaurant with a gas station and convenience kiosk. 
-
-Surveillance and control substitutes for _community fabric_. Resist the mentality of "this or nothing" but imagine a different future
-
-Just walking around, we've been spotted by many surveillance cameras watching us. What if every surveillance camera we saw was replaced by a _person_ staring at us? There might be five people looking at us and taking notes right now. How would that change the way you felt about public space? _(opening for conversation)_
-
-Street-level video surveillance systems differ in several important ways from a single person or a crowd watching you. Let's talk about several things that are different.
-
-_Why is a surveillance camera not an eye?_ 
-
-_(opening for conversation; several answers included below)_
-
-* The camera has a memory. It can record video or other data and add it to a store of records over all time. That data can be analyzed for patterns and shared with other entities, both private (your neighbors) and public (the local police).
-* The camera can be controlled remotely: it can swivel, zoom, or change height.
-* It might be connected to a network (via Internet or radio frequency), which lets it send video to anywhere, receive instructions from anywhere, and lets other people, who might be anywhere, watch the video stream.
-* The camera can see things an eye can't, such as temperature and infrared frequencies.
-* There might be many cameras connected to the same network in a city or building, sharing information (e.g. tracking the same person).
-* The camera can have different ways of seeing encoded in it, including kinds of gazes that enforce social agreements about what kinds of behavior and people are considered "normal"--and these gazes can be propagated all at once to the whole network of enforcement that the camera hooks into.
-* There are many more cameras in public space than one might expect: 500,000 in London, 30,000 in Chicago, 9,000 in New York, 46,000 in Beijing (and growing very fast in China to 600 million+ by 2020).
-
-Now that we've broken down why a camera is not an eye, do you all think is a better way to understand a street-level video surveillance system? _(opening for conversation)_
-
-So far, we've been watched, but to understand surveillance, we also need to play the part of the watcher. Let's try and get a sense of that. Who's watching? What's it like on the other side? Has anyone here worked as a security guard? Can you tell us about your experience? What can a camera see, and what did *you* see? The people who are watching can see a lot.
-
-> "The biggest thing I’ve come across over the years working security is how much people think they can get away with things, or operate under the assumption that there aren’t cameras in an area, or the cameras aren’t recording. Which, to be fair, that’s sometimes the case. But 99 percent of the time, if they’ve done something stupid, it’s probably on camera. A control center operator has probably seen it or has been asked to look into it and found it."
-
-You're the voyeur
-Real-time crime centers
-Insecam
-
-> Churches, restaurants, farms, streets, bars, private gardens, beaches, barber shops—they’re all there, streaming 24 hours a day within neatly organized categories such as "farm" and "traffic" and "interesting." Because the owners of these security cameras probably don't know this footage is being streamed online, you're basically an invisible observer. If that sounds creepy and unethical, welcome to 2018—someone is probably watching you reading this.
-> 
-> After watching 24-hour surveillance footage from around the world almost constantly for one week, my main takeaway is this: nothing is happening, most of the time. I'm serious. We think of the world as this screaming, disastrous thing—a nonstop miasma of events and movement. Whereas, actually, when our backs are turned, when we are asleep or elsewhere, what sits behind and around us are endless empty spaces and motionless objects.
-
-Threat to privacy, anonymity, freedom of movement.
-Chilling effect
-Abused by institutions and individuals
-Do they work? Expensive, and not really.
-A sense of security
-The bottom line: a lack of proportion between benefits and risks.
-Fight back: Activist attempts at mapping or requesting maps
-
-<!-- TODO: more social history discussion; also legal status -->
-
-### Activities
-
-_Spy v. Spy_: Using the [field guide to spotting surveillance cameras](http://www.coveillance.org/camera-spotting), we'll split up into pairs. Each pair will compete to try to find, photograph, and map the most surveillance cameras in downtown. (Of course, be aware of your surroundings, be safe, be prepared for questions, and only photograph cameras in outdoor public space. Yes, what we're doing is legal.)
-
-Discussion
-
-* Did it feel subversive? Why?
-* Citizen accountability
-
-_You're the voyeur_: Look at [unsecured security cameras](https://www.insecam.org/en/bycity/Seattle/) in Seattle on Insecam. Do any places look familiar? How does it feel to perform watching?
-
-Discussion
-
-* TODO
-
-### Discussion
-
-* Assumption: public space is data that's ripe for the capture
-* Question the need to have cameras at all (the ways of thinking that prop it up)
-* Community experiences of surveillance (more Skywave-type stories)
-* What if each camera were replaced by a _person_? How would that change how you feel?
-* Are you okay with being surveilled by cameras in public space?
-* The relationship between architecture and watching (the panopticon is canceled)
-* Your cameras (citizen cameras)
-* exercises
-
-### Further reading
-
-Seattle-specific
-
-* [$150K to remove Seattle’s unused public surveillance cameras](https://mynorthwest.com/887570/150k-remove-seattle-surveillance-cameras/?)
-* Read about a [Skywatch unit deployed at Safeway in Rainier Valley](https://crosscut.com/2019/04/police-tower-casts-shadow-over-south-seattle-safeway)
-* Facial recognition used at a [convenience store in Seattle](https://www.seattletimes.com/business/technology/when-convenience-meets-surveillance-ai-at-the-corner-store/) (another [story](https://www.kiro7.com/news/south-sound-news/tacoma-convenience-store-uses-facial-recognition-technology/950979811))
-
-Overviews
-
-* [Street-level surveillance overview](https://www.eff.org/pages/surveillance-cameras) (EFF)
-* [Video surveillance system overview](https://theyarewatching.org/technology/video-surveillance-systems) (ACLU)
-* [What's wrong with public video surveillance?](https://www.aclu.org/other/whats-wrong-public-video-surveillance) (ACLU)
-
-Other references
-
-* [Breakdown of surveillance cameras in NYC](http://seeingnetworks.in/nyc/#cameras)
-* [Interview with an anonymous security camera operator](https://logicmag.io/bodies/interview-with-an-anonymous-security-operator/) (Logic)
-* [Feeling safe in the surveillance state](https://www.nytimes.com/2019/04/10/opinion/china-internet-surveillance.html) (NYT)
-* [What I Learned After Watching 24-Hour Surveillance Footage for a Week](https://www.vice.com/en_us/article/neknmx/what-i-learned-by-watching-24-hour-surveillance-footage-for-a-week) (Vice)
-* [Surveillance camera players](http://www.notbored.org/the-scp.html)
-* [NYC Surveillance Camera Project](http://www.mediaeater.com/cameras/)
-* ["Facial Recognition Tech Is Growing Stronger, Thanks to Your Face"](https://www.nytimes.com/2019/07/13/technology/databases-faces-facial-recognition-technology.html) (Brainwash cafe)
-* [James Bridle's experience](http://shorttermmemoryloss.com/nor/2014/11/07/all-cameras-are-police-cameras/) photographing all surveillance cameras in London
-* Amazon's [Ring doorbells](https://www.cnet.com/news/how-rings-neighbors-app-is-making-home-security-a-social-thing/) make home security a "social network"
-* [Wi-Fi RF spectrum, baby monitors, wireless cameras, interference and noise](https://www.acrylicwifi.com/en/blog/wi-fi-rf-spectrum-baby-monitor-and-wireless-camera-interference-and-noise/)
-* [What Is the Frequency of Wireless Spy Cameras?](https://itstillworks.com/frequency-wireless-spy-cameras-6515002.html)
-* Number of surveillance cameras in [London](https://en.wikipedia.org/wiki/Mass_surveillance_in_the_United_Kingdom#Number_of_cameras), [Chicago](https://www.nytimes.com/2018/05/26/us/chicago-police-surveillance.html), [NYC](https://www.cityandstateny.com/articles/policy/technology/how-new-york-city-is-watching-you.html), [Beijing and China](https://www.theatlantic.com/international/archive/2018/02/china-surveillance/552203/)
 
 ## Other infrastructure
 
