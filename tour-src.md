@@ -161,19 +161,115 @@ Well, if you’re not speeding, so what? First, ALPRs take pictures of your lice
 * Resources: [Seattle oversight](https://www.seattletimes.com/business/technology/seattles-oversight-of-surveillance-technology-is-moving-forward-slowly/), [SSO doc](http://www.seattle.gov/Documents/Departments/Tech/Privacy/License%20Plate%20Readers_Final%20SIR.pdf), [EFF doc](https://www.eff.org/pages/automated-license-plate-readers-alpr), [use by ICE](https://www.aclunc.org/blog/documents-reveal-ice-using-driver-location-data-local-police-deportations), [vulnerable ALPR systems](https://techcrunch.com/2019/01/22/police-alpr-license-plate-readers-accessible-internet/)
 * Activity: do a [Shodan search](https://techcrunch.com/2019/01/21/shodan-safari/)
 
-## Surveillance camera safari
+## Surveillance cameras
 
-Activity: we'll pick one block in downtown and try to find, photograph, and map all surveillance cameras on that block.
+As we walk around downtown, we'll see many surveillance cameras—and they'll see us.
+
+### Overview
+
+When we see a surveillance camera, we might think of an eye. That makes sense. But to illustrate a new way of thinking about cameras, let's imagine if every surveillance camera we saw was replaced by a _person_ staring at you. There might be five people staring intently at us right now and taking notes. How would that change the way you felt about public space?
+
+_Opening for conversation about this question._
+
+First, street-level video surveillance systems differ in several important ways from a single person.
+
+History of seeing, sight and light
+The panopticon is canceled!
+
+"Perhaps, however, [black luminosity] is a **light that shines more brightly on some than on others.** Here boundary maintenance is intricately tied to knowing the black body, subjecting some to a high visibility (...) by way of technologies of seeing that sought to render the subject outside of the category of the human, _un_-visible." (Browne 68)
+
+Seattle-specific
+Privately owned
+Private networks -- Ring, Neighbors, Citizen
+Private/public
+
+It's not a security camera. It's a ....
+
+Just a kind of sensor
+Types of cameras: dome, PTZ, infrared, surveillance towers, thermal cameras, ALPRs, eyes in the sky, augmented cameras.
+Networked
+Multi-camera tracking throughout city
+Analytics system
+Storage
+Encode norms
+Insecure
+Watched by people and algorithms
+
+Do they work? Expensive, and not really.
+A sense of security
+
+Visual cues to spotting one
+China [Beijing map], NY, London, Chicago
+Locations
+Indoor/outdoor
+What’s it like on the other side?
+What can a camera see and how can it see
+
+Who is being watched -- often the employees not the customers (Browne, Fanon, 6)
+Who is watching?
+You're the voyeur
+Real-time crime centers
+"The biggest thing I’ve come across over the years working security is how much people think they can get away with things, or operate under the assumption that there aren’t cameras in an area, or the cameras aren’t recording. Which, to be fair, that’s sometimes the case. But 99 percent of the time, if they’ve done something stupid, it’s probably on camera. A control center operator has probably seen it or has been asked to look into it and found it."
+
+Several activist attempts to map them
+Surveillance camera players
+Dazzle makeup
+Individual interventions
+
+Chilling effect
+Abused by institutions and individuals
+Threat to privacy, anonymity, freedom of movement.
+The bottom line: a lack of proportion between benefits and risks.
+
+### Activities
+
+_Spy v. Spy_: Using the [field guide to spotting surveillance cameras](http://www.coveillance.org/camera-spotting), we'll split up into pairs, each pick a block in downtown, and try to find, photograph, and map all surveillance cameras on that block.
+
+Discussion
+
+* TODO
+
+_You're the voyeur_: Look at [unsecured security cameras](https://www.insecam.org/en/bycity/Seattle/) in Seattle on Insecam. Do any places look familiar? How does it feel to perform watching?
+
+Discussion
+
+* TODO
 
 ### Discussion
 
-* Who placed those cameras there, how, and why?
-* Discuss the relationship between architecture and watching (the panopticon)
-* Use the [field guide to spotting surveillance cameras](field-guide.md)
-* Look at live [CCTV IP camera feeds](https://www.insecam.org/en/bycity/Seattle/) in Seattle
+* Assumption: public space is data that's ripe for the capture
+* Question the need to have cameras at all (the ways of thinking that prop it up)
+* Community experiences of surveillance (more Skywave-type stories)
+* What if each camera were replaced by a _person_? How would that change how you feel?
+* Are you okay with being surveilled by cameras in public space?
+* The relationship between architecture and watching (the panopticon is canceled)
+* Your cameras (citizen cameras)
+* exercises
+
+### Further reading
+
+Seattle-specific
+
+* [$150K to remove Seattle’s unused public surveillance cameras](https://mynorthwest.com/887570/150k-remove-seattle-surveillance-cameras/?)
+* Read about a [Skywatch unit deployed at Safeway in Rainier Valley](https://crosscut.com/2019/04/police-tower-casts-shadow-over-south-seattle-safeway)
+* Facial recognition used at a [convenience store in Seattle](https://www.seattletimes.com/business/technology/when-convenience-meets-surveillance-ai-at-the-corner-store/) (another [story](https://www.kiro7.com/news/south-sound-news/tacoma-convenience-store-uses-facial-recognition-technology/950979811))
+
+Overviews
+
+* [Street-level surveillance overview](https://www.eff.org/pages/surveillance-cameras) (EFF)
+* [Video surveillance system overview](https://theyarewatching.org/technology/video-surveillance-systems) (ACLU)
+* [What's wrong with public video surveillance?](https://www.aclu.org/other/whats-wrong-public-video-surveillance) (ACLU)
+
+Other references
+
+* [Interview with an anonymous security camera operator](https://logicmag.io/bodies/interview-with-an-anonymous-security-operator/) (Logic)
+* [Feeling safe in the surveillance state](https://www.nytimes.com/2019/04/10/opinion/china-internet-surveillance.html) (NYT)
+* [What I Learned After Watching 24-Hour Surveillance Footage for a Week](https://www.vice.com/en_us/article/neknmx/what-i-learned-by-watching-24-hour-surveillance-footage-for-a-week) (Vice)
+* [Surveillance camera players](http://www.notbored.org/the-scp.html)
+* [NYC Surveillance Camera Project](http://www.mediaeater.com/cameras/)
+* ["Facial Recognition Tech Is Growing Stronger, Thanks to Your Face"](https://www.nytimes.com/2019/07/13/technology/databases-faces-facial-recognition-technology.html) (Brainwash cafe)
 * Read [James Bridle's experience](http://shorttermmemoryloss.com/nor/2014/11/07/all-cameras-are-police-cameras/) photographing all surveillance cameras in London
 * Be aware of coveillance via Amazon's [Ring doorbells](https://www.cnet.com/news/how-rings-neighbors-app-is-making-home-security-a-social-thing/)
-* Read about a [Skywatch unit deployed at Safeway in Rainier Valley](https://crosscut.com/2019/04/police-tower-casts-shadow-over-south-seattle-safeway)
 
 ## Other infrastructure
 
