@@ -230,14 +230,61 @@ Along the way, we will have passed many burgundy antennas installed on utility p
 
 Visit the Acylica installations + Skywave antennas at 7th Ave & Lenora St and at 2901 Western Ave.
 
-### Discussion
+### Overview
 
-* [Map of Acyclica locations](https://www.seattle.gov/Documents/Departments/Tech/Privacy/SDOT%20Acyclica%20SIR%20DRAFT%20-%20for%20Working%20Group.pdf) (page 8)
-  * [this is basically how they work](https://arstechnica.com/information-technology/2013/08/no-this-isnt-a-scene-from-minority-report-this-trash-can-is-stalking-you/)
-  * Look for [Skywave antennas](https://crosscut.com/2015/09/seattles-new-technology-tracks-how-we-drive)
-* Take a wifi data safari in Seattle: see Branger Briz's [introduction](https://brangerbriz.com/blog/exploring-our-surrounding-wifi-landscape), [technical writeup](https://brangerbriz.com/blog/notes-from-our-wifi-data-safari), and [code](https://github.com/brangerbriz/wifi-data-safari)
-  * More on [wifi security vulnerabilities](https://reallifemag.com/silent-shout/), [disrupting them with noise](https://davidrueter.com/projects/2014-09-shenanigans.html)
-  * [Analyze network traffic with Wireshark](http://www.soc.napier.ac.uk/~40001507/CSN11102/Lab5.pdf) or see what devices are connected with a network with the Network Analyzer app (note: do not do this if portscans are illegal where you live), [another tutorial](https://www.vice.com/en_us/article/jpgmxp/how-to-go-from-0-to-sniffing-packets-in-10-minutes), more on [probe+beacon requests](https://blog.samcater.com/capturing-beacons-and-probe-requests-of-public-wifi-access-points-the-why-how-and-stats/)
+Heinrich Bolle story about the counter
+
+> I certainly have not agreed for the city of Seattle or any vendors to track the position of my phone as it moves throughout the city whether or not that data is properly anonymized.
+
+Consent? Did you agree to this?
+
+trash can tracks your address
+
+Say what a MAC address is
+MAC address -- name passing by -- make diagram of car with phone passing by routers, calling out for networks and sending a packet with its name
+
+> The marketing materials don't say this, but it might also be possible to attach specific attributes to the MAC addresses that are collected. A phone that goes into the women's room probably belongs to a female, for instance, while a MAC address entering the Big and Tall clothing retailer probably belongs to a person of large carriage. People who don't want to be tracked must first complete the form here, which requires them to divulge the MAC address of their smartphone.
+
+Why does wi-fi work this way?? It's a very insecure protocol!
+
+How to protect against: turn off wifi
+
+Why was it installed? Traffic monitoring. Knowing what's in a city. Much more detailed than bluetooth readers
+
+Privacy issues: The new system works because cellphones and tablets have their own identifying numbers called media access control or MAC addresses. As you drive down Mercer Street or 2nd Ave or 23rd, it can tell that it's the same device pinging the string of antennas at the streetlights.
+
+It's actually not clear how strong the crypto is! Compare it to tracking people by their social security numbers... then dropping all the slips of paper on the floor
+
+> The new system will provide a much more detailed picture: while Bluetooth readers capture 5-7 percent of cars passing intersections, the Wi-Fi readers capture nearly 50 percent from cars with smartphones or tablets with Wi-Fi turned on.
+
+> As the car passes more readers, algorithms are run to calculate speed, distance, time and general behavior.
+
+But have alternatives like a plate
+
+What could go wrong? Data fusion + storage + retention, subpoena'd data, others run queries on it, scope creep.
+
+Larger trend: private companies sell smart technologies to knowledge-hungry cities. 
+<!-- Bonnie cite -->
+
+Tradeoffs: is there a tradeoff? Why not use a more secure alternative? This is _surveillance thinking_ again: it's either this or the "bad old days," no evidence that this works either.
+
+> In this case, the ultimate question may be what concerns people more: the specter of overly surveillant law enforcement, or the prospect of spending yet another hour stuck in traffic?
+
+### Further reading
+
+Directly Acyclica-related:
+
+* Crosscut news article and overview: [Seattle's new technology tracks how we drive](https://crosscut.com/2015/09/seattles-new-technology-tracks-how-we-drive) 
+* Seattle Surveillance dossier (large PDF) on [Acyclica](https://www.seattle.gov/Documents/Departments/Tech/Privacy/SDOT%20Acyclica%20SIR%20DRAFT%20-%20for%20Working%20Group.pdf) (see page 8 for a map of Acyclica locations and page 111 for a bunch of valid technical objections)
+* Seattle Department of Transportation [overview of Acyclica traffic data collection tool](https://www.seattle.gov/Documents/Departments/Tech/Acyclica_Flyer2.pdf)
+
+Related references on how Acyclica works by exploiting the Wi-fi protocol:
+
+* [No, this isn't a scene from Minority Report. This trash can is stalking you](https://arstechnica.com/information-technology/2013/08/no-this-isnt-a-scene-from-minority-report-this-trash-can-is-stalking-you/)
+* [Silent Shout: Wi-fi is outdated and makes users vulnerable to data capture. Why do we still depend on it?](https://reallifemag.com/silent-shout/),
+* More on the wi-fi landscape around us: [introduction](https://brangerbriz.com/blog/exploring-our-surrounding-wifi-landscape), [technical writeup](https://brangerbriz.com/blog/notes-from-our-wifi-data-safari), and [code](https://github.com/brangerbriz/wifi-data-safari)
+* [Disrupting wi-fi vulnerabilities with noise](https://davidrueter.com/projects/2014-09-shenanigans.html)
+* [Analyze network traffic with Wireshark](http://www.soc.napier.ac.uk/~40001507/CSN11102/Lab5.pdf) or see what devices are connected with a network with the Network Analyzer app (note: do not do this if portscans are illegal where you live), [another tutorial](https://www.vice.com/en_us/article/jpgmxp/how-to-go-from-0-to-sniffing-packets-in-10-minutes), more on [probe+beacon requests](https://blog.samcater.com/capturing-beacons-and-probe-requests-of-public-wifi-access-points-the-why-how-and-stats/)
 
 ## Traffic camera
 
