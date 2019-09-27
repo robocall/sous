@@ -23,6 +23,8 @@
 
 ## Introduction
 
+In this tour, we'll practice spotting some of the layers of the "smart" city that are hidden in plain sight, collecting and storing data about our lives, as well as the kinds of thinking that justify their existence.
+
 As we walk around downtown Seattle, we'll refer to this [field guide](https://www.figma.com/file/C15vnW0gtZybtY24eXREfy/Field-Guide-Prototype?node-id=0%3A1). Map and photos coming soon.
 
 ## Surveillance cameras
@@ -240,7 +242,6 @@ The writer Heinrich Boll tells the story of a veteran who becomes injured in the
 > 
 > Horse-drawn vehicles are, of course, a piece of cake. There's nothing to it. There are never more than a couple of dozen horse-drawn vehicles a day, and to tick over the next number in your brain once every half hour—what a cinch!
 
-<!-- TODO: Bonnie cite -->
 This is how "smart cities" used to work before people invented technologies to track and sense other people. Fast-forward thirty years, and the Acylica system is the latest step in the trend of private companies selling smart technologies to knowledge-hungry cities. What the veteran does is basically what Acyclica does: it counts people and cars so people in the city government can know more about flows of traffic and pedestrians, and maybe try and alleviate traffic. The _Crosscut_ article reports:
 
 > The new system will provide a much more detailed picture [of traffic]: while Bluetooth readers capture 5-7 percent of cars passing intersections, the Wi-Fi readers capture nearly 50 percent from cars with smartphones or tablets with Wi-Fi turned on.
@@ -296,6 +297,7 @@ Related references on how Acyclica works by exploiting the Wi-fi protocol:
 
 Other
 
+* [Boston Smart City Playbook](https://monum.github.io/playbook/)
 * Boll, ["At the Bridge"](https://www.tandfonline.com/doi/abs/10.1080/09332480.2002.10554810?journalCode=ucha20)
 
 ## Bluetooth beacon
