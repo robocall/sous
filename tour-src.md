@@ -298,6 +298,111 @@ Other
 
 * Boll, ["At the Bridge"](https://www.tandfonline.com/doi/abs/10.1080/09332480.2002.10554810?journalCode=ucha20)
 
+## Bluetooth beacon
+
+We will visit Bluetooth beacons at a commercial location (TBD).
+
+<img src="media/beaconheader.png" width="500">
+
+If a personal investigator were to follow you on a shopping trip, here’s what they might write down about you:
+
+> At 3:31pm today, you entered the local Target. You walked past a display of Chips Ahoy and ever-so-briefly paused (noted). You saw a display of black shirts (noted) and spent 5.5 minutes examining them, spending 90% more time near the medium-sized rack (noted). 
+
+Bluetooth beacons are like a personal spy for stores. Beacons can know exactly where you are in a store—not just "you are at Target" but "you are in the center of snacks aisle, standing next to the applesauce."
+
+_Question:_ Why is it necessary to know someone’s exact location? How would life be different if this capability was taken away?
+
+Knowing your exact location is really useful if you’re a spy (or a marketer)! When you walk past the applesauce, the Target app can offer you a deal to motivate you to make a purchase. If you paused next to chips but then continued on, Target might send you a coupon to sway you to get the chips next time. The data from the beacons might also be used by other people—either Target rented them out, or the beacons were not secured—so you don’t really know who is collecting your data, or what they’re doing with it.
+
+_Question:_ What motivates the developers of apps to make the app compatible with Bluetooth? Who exactly are these app developers? (See below: _Expansions: Big Tech in Beacons_)
+
+Bluetooth beacons gather data about you by pinging a compatible app on your phone when you walk past. The app could be the Target app, or an innocuous-seeming news or weather app that also has Bluetooth location function. (If you have no such app, you’re safe.)
+
+Beacons are in stores and malls, and also in places like airports, public transit, gyms, museums, and more. Do you remember consenting to having your location exactly tracked, or having this data sold to… whoever? Would you be surprised if a personal investigator followed you to these places? 
+
+_Question:_ What rights do people have in public places (like subway stations)? What rights do companies have in public places? Is it different if you’re in a store? What is the current status of regulation? (See below: _Expansions: Regulation_).
+
+### Activities
+
+* Download an app like [Beacon Scanner](https://play.google.com/store/apps/details?id=com.bridou_n.beaconscanner&hl=en_US) and scan for beacons when you enter a store. 
+* Turn off bluetooth on your phone. (Note that it is separate from location tracking! See the qz.com link.)
+* Check what apps currently have Bluetooth abilities in your phone.
+  * On Android: Go to settings. Security and privacy, then Permissions, then Turn Bluetooth on, Access_fine_location
+* Show [clip](https://www.youtube.com/watch?v=7bXJ_obaiYQ) from the movie Minority Report illustrating a world with personalized ads in stores.
+
+### Discussion
+
+* What does consent look like or mean to you? (Possible discussion: opt-in vs opt-out - how does it influence your behavior or make you feel?)
+* What types of things influence the choices you make? How do these actions by companies (such as a push notification for a deal for something you’ve looked at) make you feel? How would your life be different without these subliminal nudges?
+  * You’re standing in front of an aisle of snacks. What do you decide to buy? How did you come to that conclusion? If a deal popped up on your phone, would that sway you? What kinds of things would change your mind?
+  * You’re on your way home from work on the subway on a Friday night. You see an alert that there’s a cool art show happening a few blocks away from your stop. Do you go? If you hadn’t seen the alert, what would you have done?
+* If you had access to data gathered from a Bluetooth beacon, what would you do with it? (What if you were someone working for Target? Or a malicious person?)
+
+### Expansions - Additional Info for Facilitators
+
+Below are some additional topics, FAQs, and responses to discussion questions, for facilitators to read through. It’s intended to help the facilitator prepare, and which sections to be incorporated is up to them.
+
+#### Big Tech in Beacons
+
+Apple, Google, Facebook and other big tech companies have had a large role in developing Bluetooth beacons. All three companies have their own beacon products. Apple developed [iBeacon](http://www.ibeacon.com/what-is-ibeacon-a-guide-to-beacons/), the technological standard for communication between apps and the beacon. Google and Facebook have both mailed beacons to stores and small businesses for free and created their own [developer tools](https://developers.google.com/beacons/) for easy usage.
+
+Why would Big Tech get involved? For one, the beacons may be integrated with another product. For example, Facebook’s Bluetooth Beacons automatically push notifications containing Facebook Place Tips, including prompts to like the business’s page on Facebook or to check in on Facebook ([source](https://adespresso.com/blog/facebooks-bluetooth-beacon-should-your-business-get-one/)). Big Tech companies may also be eager to "join" the beacon data with other data they already have about you. 
+
+#### Current Legislation and Regulations
+
+The most recent applicable laws were written in the 1980s, for a very different world. 
+
+First, it may not even be illegal to hack a Bluetooth beacon. The most relevant law might be the 1984 [Computer Fraud and Abuse Act](http://www.law.cornell.edu/uscode/18/1030.html), which is used to prosecute hackers and prevent unauthorized access to computers. But do beacons count as computers? It’s unlikely, since even smartphones are a gray area - “It is _possible_ that a court of law would consider a smartphone to be a type of computer.” ([Privacy Rights Clearinghouse](https://www.privacyrights.org/consumer-guides/smartphone-privacy))
+
+What about the actual location data, which is sensitive? With a few exceptions, it’s not regulated.
+
+> “Federal law does not directly regulate location tracking or the collection, sale, or use of personal location data.” ([Business Law Today](https://businesslawtoday.org/2019/03/power-place-geolocation-tracking-privacy/#_ftn53))
+
+Even when location tracking is regulated, the requirements “generally apply only to the initial data collector,”  - in our case, the app that initially connects with the Bluetooth beacons. The data that the beacons collect is regularly resold or used for some opaque purpose, but there’s no regulation around this:
+
+> “(1) identified location data is regularly acquired and used by third parties with whom the individual has no direct relationship, and (2) de-identified or anonymized location data is regularly combined with identified personal data and used by third parties with whom the individual has no direct relationship to compile comprehensive profiles of the individual. These secondary-market practices are not currently addressed by U.S. law.” ([Business Law Today](https://businesslawtoday.org/2019/03/power-place-geolocation-tracking-privacy/))
+
+A new law in California, to go into effect in 2020, is the first to tackle “Security of Connected Devices,” requiring devices such as Bluetooth Beacons to have “reasonable security features.” ([source](https://www.jdsupra.com/legalnews/what-to-know-about-new-calif-connected-74765/)). However, it’s not specified in the law what security features would count.
+
+What if location tracking was opt-in? Currently, in the EU, websites with cookies are mandated to alert users of their cookie usage, and provide a “opt-in” button to explicitly click. Perhaps a similar law could take effect for location tracking:
+
+> “If the sellers of mobile phone applications are obliged to use similar pop-up windows when collecting location data, users would be aware of the fact that their location data is being collected. The screenshot below displays a sample pop-up window that can be used for obtaining users’ consent to collect location data from beacons.” ([Infosec Institute](https://resources.infosecinstitute.com/privacy-risks-beacons/#gref))
+
+<img src="media/beaconwarning.png" width="300">
+
+#### How do Bluetooth Beacons really work?
+
+Here’s a great succinct explanation and image from a beacon manufacturer ([source](https://www.beaconstac.com/what-is-a-bluetooth-beacon)):
+
+<img src="media/beaconillust.png" width="500">
+
+“Let’s assume beacons are deployed at the entrance of a coffee shop.
+
+1. These beacons transmit signals in its range. [Ed: Beacons are constantly transmitting small packets of information, waiting for a phone to pick it up. You can think of the beacon as a bat making echolocation noises every so often to see if there are prey (the phones) around.]  The range of beacons vary from 20m to 300m. 
+2. Smartphones in the range of beacons is itself indicating that the smartphones are nearby.
+3. The smartphone then sends the ID number attached to the signal to the cloud server. [Ed: You can think of the cloud server as “facebook.com” or “target.com”, some central faraway place that is gathering and processing information.]
+4. The server responds with the action linked to the beacon ID. It could be a notification introducing a new appetizer in the cafe, combo deals, video of coffee making or a feedback form!
+5. These notifications drive customers to a webpage, a form, a phone number or whatever you plan to do.”
+
+#### How are Bluetooth Beacons different from other types of location surveillance?
+
+Great question! Bluetooth may seem similar to Acyclica in that they both use small devices in public places to track people. It may even seem similar to apps on your phone that use GPS, since they both end up tracking location.
+
+What sets Bluetooth beacons apart is its granularity - it can work well indoors. GPS is accurate up to a few meters, making it only useful for outdoor location; Bluetooth is accurate [on the order of centimeters](https://venturebeat.com/2019/01/28/bluetooth-gains-direction-finding-for-location-accuracy-to-the-centimeter/). GPS can know whether you are at the mall; Bluetooth can know which store in the mall you’re in and even which clothing display you are next to.
+
+Next, Bluetooth beacons are efficient and easy for stores to adopt. Beacons are really cheap - a beacon costs less than 25 dollars, and many big tech companies give them away for free. They 
+don’t require an internet connection, and they can run on a few batteries for a long time.
+
+### Further reading
+
+* [A good introduction - NYT article](https://www.nytimes.com/interactive/2019/06/14/opinion/bluetooth-wireless-tracking-privacy.html)
+* [Wired article about how it works](https://www.wired.com/2013/12/4-use-cases-for-ibeacon-the-most-exciting-tech-you-havent-heard-of/)
+* [Google can still use Bluetooth to track your Android phone when Bluetooth is turned off](https://qz.com/1169760/phone-data/) (Quartz)
+* [A Guide to Bluetooth Beacons](https://www.gsma.com/digitalcommerce/wp-content/uploads/2013/10/A-guide-to-BLE-beacons-FINAL-18-Sept-14.pdf) (in depth)
+* [How Bluetooth Works](https://www.explainthatstuff.com/howbluetoothworks.html) (technical)
+* [News about beacons in London Heathrow Airport](https://www.ibtimes.co.uk/virgin-atlantic-trials-low-energy-bluetooth-beacon-technology-london-heathrow-airport-1446871)
+* [Issues: Beacon technology](https://digitalprivacyalliance.org/issues/beacon-technology)
+
 ## Traffic camera
 
 Visit the traffic camera at 2nd Ave and Blanchard St.
