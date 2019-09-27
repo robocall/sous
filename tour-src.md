@@ -247,7 +247,7 @@ This is how "smart cities" used to work before people invented technologies to t
 > 
 > As the car passes more readers, algorithms are run to calculate speed, distance, time and general behavior.
 
-The way that Acyclica tracks people is a really souped-up way of assigning a soldier to make tally marks on paper whenever a horse-drawn carriage passes by. It counts cars by exploiting the poor design of the Wi-fi protocol (the protocol that governs how devices connect to networks wirelessly). The Acyclica device is a little gray box with an antennta that casts a fake Wi-fi network and tracks the phones and computers that try to join the network as they pass by in passing cars. Different Acyclica installations can track your devices' unique identifiers as you pass them in the city.
+The way that Acyclica tracks people is a really souped-up way of assigning a soldier to make tally marks on paper whenever a horse-drawn carriage passes by. It counts cars by exploiting the poor design of the Wi-fi protocol (the protocol that governs how devices connect to networks wirelessly). The Acyclica device is a little gray box with an antenna that casts a fake Wi-fi network and tracks the phones and computers that try to join the network as they pass by in passing cars. Different Acyclica installations can track your devices' unique identifiers as you pass them in the city.
 
 Why is Acyclica able to do this? Well, you ever wonder how your phone or laptop auto-connects to Wi-fi networks? To do this, your device is shouting to the world a ton of your personal information in something called a _probe packet_. A probe packet contains the unique name of your device (called a MAC address—which is kind of like your Social Security Number, but for a device), as well as the list of all the past Wi-fi networks that your device has tried to join before. The Wi-fi protocol design is widely recognized to be a privacy disaster, and not only is Acyclica exploiting it, but many other advertising and surveillance firms have built similar devices, for example sticking devices in trash cans to track shoppers as they walk around a mall:
 
@@ -336,11 +336,12 @@ Well, if you’re not speeding, so what? First, ALPRs take pictures of your lice
 * Resources: [Seattle oversight](https://www.seattletimes.com/business/technology/seattles-oversight-of-surveillance-technology-is-moving-forward-slowly/), [SSO doc](http://www.seattle.gov/Documents/Departments/Tech/Privacy/License%20Plate%20Readers_Final%20SIR.pdf), [EFF doc](https://www.eff.org/pages/automated-license-plate-readers-alpr), [use by ICE](https://www.aclunc.org/blog/documents-reveal-ice-using-driver-location-data-local-police-deportations), [vulnerable ALPR systems](https://techcrunch.com/2019/01/22/police-alpr-license-plate-readers-accessible-internet/)
 * Activity: do a [Shodan search](https://techcrunch.com/2019/01/21/shodan-safari/)
 
-## Other infrastructure
+## Other surveillance infrastructure
 
 * [Gunshot detectors](https://theyarewatching.org/technology/gunshot-detector), not in [Seattle](https://www.thestranger.com/slog/2016/06/02/24158530/mayor-council-and-police-try-again-with-shotspotter-gunshot-detection-system) but in Chicago, New York, and Oakland (CA)
 * [Seattle Stingray tracking](https://www.wired.com/2017/06/researchers-use-rideshares-sniff-stingray-locations/)
 * GPS satellites
+* Microphones installed in city buses
 
 ## Discussion
 
