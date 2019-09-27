@@ -232,43 +232,46 @@ Visit the Acylica installations + Skywave antennas at 7th Ave & Lenora St and at
 
 ### Overview
 
-Heinrich Bolle story about the counter
+The writer Heinrich Boll tells the story of a veteran who becomes injured in the war and is assigned a job counting people for the city government:
+
+> They have patched up my legs and given me a job I can do sitting down: I count the people crossing the bridge. They get such a kick out of it, documenting their efficiency with figures; ... my soundless mouth ticks away like clockwork, piling number on number, just so I can present them each evening with the triumph of a figure.
+> 
+> They beam delightedly when I hand over the results of my day's labors, the higher the figure the broader their smiles, and they have every reason to hug themselves when they climb into bed, for many thousands of pedestrians cross their new bridge every day...
+> 
+> Horse-drawn vehicles are, of course, a piece of cake. There's nothing to it. There are never more than a couple of dozen horse-drawn vehicles a day, and to tick over the next number in your brain once every half hour—what a cinch!
+
+<!-- TODO: Bonnie cite -->
+This is how "smart cities" used to work before people invented technologies to track and sense other people. Fast-forward thirty years, and the Acylica system is the latest step in the trend of private companies selling smart technologies to knowledge-hungry cities. What the veteran does is basically what Acyclica does: it counts people and cars so people in the city government can know more about flows of traffic and pedestrians, and maybe try and alleviate traffic. The _Crosscut_ article reports:
+
+> The new system will provide a much more detailed picture [of traffic]: while Bluetooth readers capture 5-7 percent of cars passing intersections, the Wi-Fi readers capture nearly 50 percent from cars with smartphones or tablets with Wi-Fi turned on.
+> 
+> As the car passes more readers, algorithms are run to calculate speed, distance, time and general behavior.
+
+The way that Acyclica tracks people is a really souped-up way of assigning a soldier to make tally marks on paper whenever a horse-drawn carriage passes by. It counts cars by exploiting the poor design of the Wi-fi protocol (the protocol that governs how devices connect to networks wirelessly). The Acyclica device is a little gray box with an antennta that casts a fake Wi-fi network and tracks the phones and computers that try to join the network as they pass by in passing cars. Different Acyclica installations can track your devices' unique identifiers as you pass them in the city.
+
+Why is Acyclica able to do this? Well, you ever wonder how your phone or laptop auto-connects to Wi-fi networks? To do this, your device is shouting to the world a ton of your personal information in something called a _probe packet_. A probe packet contains the unique name of your device (called a MAC address—which is kind of like your Social Security Number, but for a device), as well as the list of all the past Wi-fi networks that your device has tried to join before. The Wi-fi protocol design is widely recognized to be a privacy disaster, and not only is Acyclica exploiting it, but many other advertising and surveillance firms have built similar devices, for example sticking devices in trash cans to track shoppers as they walk around a mall:
+
+> The marketing materials don't say this, but it might also be possible to attach specific attributes to the MAC addresses that are collected. A phone that goes into the women's room probably belongs to a female, for instance, while a MAC address entering the Big and Tall clothing retailer probably belongs to a person of large carriage. 
+
+So yes, while we are standing here right now, this little box is collecting your phones' names, and as we pass different boxes, the system will gather our data and collate our movements. The simple but ungainly way to protect yourself is to turn off wifi on your smart device, or to not carry a smart device. However, that doesn't scrub your data or protect others.
+
+_Question:_ How do people feel about how Acyclica is collecting their data? What could go wrong? What does the process of coercive data collection "feel" like—a mosquito bite? a highway robbery?
+
+This technology raises many questions around data privacy and consent. How long is data stored? How is data transmitted? Who has access to view this data? How is the data anonymized? Acyclica collects incredibly sensitive information at a high detail of granularity about people's movements around the city. Were members of the public asked for consent before the system was installed? No. As one citizen commented during a Seattle Surveillance Ordinance hearing:
 
 > I certainly have not agreed for the city of Seattle or any vendors to track the position of my phone as it moves throughout the city whether or not that data is properly anonymized.
 
-Consent? Did you agree to this?
+One big issue is data escaping scope. The Seattle city government may promise certain things about the data, but data that govermnment agencies collect historically has a funny way of being stored for longer than promised and shared with other agencies (like ICE or law enforcement) or quasi-private entities (like Palantir) and used to circumscribe the movements of members of marginalized communities.
 
-trash can tracks your address
-
-Say what a MAC address is
-MAC address -- name passing by -- make diagram of car with phone passing by routers, calling out for networks and sending a packet with its name
-
-> The marketing materials don't say this, but it might also be possible to attach specific attributes to the MAC addresses that are collected. A phone that goes into the women's room probably belongs to a female, for instance, while a MAC address entering the Big and Tall clothing retailer probably belongs to a person of large carriage. People who don't want to be tracked must first complete the form here, which requires them to divulge the MAC address of their smartphone.
-
-Why does wi-fi work this way?? It's a very insecure protocol!
-
-How to protect against: turn off wifi
-
-Why was it installed? Traffic monitoring. Knowing what's in a city. Much more detailed than bluetooth readers
-
-Privacy issues: The new system works because cellphones and tablets have their own identifying numbers called media access control or MAC addresses. As you drive down Mercer Street or 2nd Ave or 23rd, it can tell that it's the same device pinging the string of antennas at the streetlights.
-
-It's actually not clear how strong the crypto is! Compare it to tracking people by their social security numbers... then dropping all the slips of paper on the floor
-
-> The new system will provide a much more detailed picture: while Bluetooth readers capture 5-7 percent of cars passing intersections, the Wi-Fi readers capture nearly 50 percent from cars with smartphones or tablets with Wi-Fi turned on.
-
-> As the car passes more readers, algorithms are run to calculate speed, distance, time and general behavior.
-
-But have alternatives like a plate
-
-What could go wrong? Data fusion + storage + retention, subpoena'd data, others run queries on it, scope creep.
-
-Larger trend: private companies sell smart technologies to knowledge-hungry cities. 
-<!-- Bonnie cite -->
-
-Tradeoffs: is there a tradeoff? Why not use a more secure alternative? This is _surveillance thinking_ again: it's either this or the "bad old days," no evidence that this works either.
+We need to question the _surveillance thinking_ that props up this Acyclica installation. The _Crosscut_ article finishes with one prime example:
 
 > In this case, the ultimate question may be what concerns people more: the specter of overly surveillant law enforcement, or the prospect of spending yet another hour stuck in traffic?
+
+We can resist the assumption that there's a tradeoff, that without the _current_ surveillance technology which is assumed to work perfectly and already "waiting in the wings," we will suffer a terrible loss of convenience, a return to the "bad old days." This is false. Where is the proof that the tech works? Do we need to count in the first place? And don't we have the imagination to propose a way to count cars without gathering granular location data? We can resist the slow erosion of privacy in the name of convenience and intelligence.
+
+### Discussion
+
+See inline questions above.
 
 ### Further reading
 
@@ -282,9 +285,18 @@ Related references on how Acyclica works by exploiting the Wi-fi protocol:
 
 * [No, this isn't a scene from Minority Report. This trash can is stalking you](https://arstechnica.com/information-technology/2013/08/no-this-isnt-a-scene-from-minority-report-this-trash-can-is-stalking-you/)
 * [Silent Shout: Wi-fi is outdated and makes users vulnerable to data capture. Why do we still depend on it?](https://reallifemag.com/silent-shout/),
-* More on the wi-fi landscape around us: [introduction](https://brangerbriz.com/blog/exploring-our-surrounding-wifi-landscape), [technical writeup](https://brangerbriz.com/blog/notes-from-our-wifi-data-safari), and [code](https://github.com/brangerbriz/wifi-data-safari)
+* More on the wi-fi landscape around us: [introduction](https://brangerbriz.com/blog/exploring-our-surrounding-wifi-landscape), [technical writeup](https://brangerbriz.com/blog/notes-from-our-wifi-data-safari), and [code](https://github.com/brangerbriz/wifi-data-safari) and [script](https://github.com/brannondorsey/sniff-probes)
 * [Disrupting wi-fi vulnerabilities with noise](https://davidrueter.com/projects/2014-09-shenanigans.html)
 * [Analyze network traffic with Wireshark](http://www.soc.napier.ac.uk/~40001507/CSN11102/Lab5.pdf) or see what devices are connected with a network with the Network Analyzer app (note: do not do this if portscans are illegal where you live), [another tutorial](https://www.vice.com/en_us/article/jpgmxp/how-to-go-from-0-to-sniffing-packets-in-10-minutes), more on [probe+beacon requests](https://blog.samcater.com/capturing-beacons-and-probe-requests-of-public-wifi-access-points-the-why-how-and-stats/)
+* [How we tracked and analyzed over 200,000 people’s footsteps at MIT](https://www.freecodecamp.org/news/tracking-analyzing-over-200-000-peoples-every-step-at-mit-e736a507ddbf/)
+* [WiGLE](https://wigle.net/): wi-fi networks found by wardriving, used to collate people's probe requests against
+* [Short: How Talkative is your Mobile Device? An Experimental Study of Wi-Fi Probe Requests](https://frdgr.ch/wp-content/uploads/2015/06/Freudiger15.pdf)
+* [Wi-fi protocol](https://en.wikipedia.org/wiki/IEEE_802.11#Management_frames)
+* [Tracking people via WiFi (even when not connected)](https://www.crc.id.au/tracking-people-via-wifi-even-when-not-connected/)
+
+Other
+
+* Boll, ["At the Bridge"](https://www.tandfonline.com/doi/abs/10.1080/09332480.2002.10554810?journalCode=ucha20)
 
 ## Traffic camera
 
