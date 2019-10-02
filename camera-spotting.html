@@ -15,7 +15,7 @@ map links
 practice image rollover
  -->
 <h1 id="a-field-guide-to-spotting-surveillance-cameras">A field guide to spotting surveillance cameras</h1>
-<p>Let's watch some watchers!</p>
+<p>Let’s watch some watchers!</p>
 <p>This guide covers two skills:</p>
 <ul>
 <li>how to develop an awareness of surveillance cameras in public space</li>
@@ -27,8 +27,8 @@ practice image rollover
 <ul>
 <li>The <a href="https://www.eff.org/pages/surveillance-cameras">EFF guide</a> to surveillance cameras</li>
 <li>The <a href="https://theyarewatching.org/technology/video-surveillance-systems">ACLU WA primer</a> on surveillance cameras</li>
-<li>Ingrid Burrington's section on NYC camera systems in this <a href="http://seeingnetworks.in/nyc/">infrastructure guide</a></li>
-<li>James Bridle's experience <a href="https://www.nytimes.com/2018/08/13/lens/surveillance-camera-photography.html">photographing surveillance cameras in London</a>.</li>
+<li>Ingrid Burrington’s section on NYC camera systems in this <a href="http://seeingnetworks.in/nyc/">infrastructure guide</a></li>
+<li>James Bridle’s experience <a href="https://www.nytimes.com/2018/08/13/lens/surveillance-camera-photography.html">photographing surveillance cameras in London</a>.</li>
 </ul>
 <p>Be careful, and be aware of the law enforcement norms where you live.</p>
 <p>In short, the main kinds of cameras are dome cameras, bullet cameras, traffic cameras, and pan-tilt-zoom cameras.</p>
@@ -38,10 +38,10 @@ practice image rollover
 <p>Often several cameras clump together, so if you see one, look for more.</p>
 <p>Be aware of local kinds of cameras, for example in New York, and of new kinds of cameras, such as the Amazon Ring and the LinkNYC booths.</p>
 <p>Check if the city you live in has an existing map of surveillance cameras. Several cities (like New York) have <a href="https://www.nyclu.org/en/nyclu-surveillance-camera-project">maps of camera locations</a>, but they may be outdated or partial.</p>
-<p>When spotting cameras, privilege institutional surveillance (e.g. police, government, and commercial systems) over citizen surveillance (e.g. don't photograph people's houses or living rooms!)--although the line between the two is becoming increasingly blurred.</p>
+<p>When spotting cameras, privilege institutional surveillance (e.g. police, government, and commercial systems) over citizen surveillance (e.g. don’t photograph people’s houses or living rooms!)–although the line between the two is becoming increasingly blurred.</p>
 <p>Be aware that sometimes a camera is positioned as a deterrent, and does not actually work! Also, even if a camera works, no one may be watching.</p>
 <h2 id="what-can-a-camera-see">What can a camera see?</h2>
-<p>A camera's field of view depends on its angle and the focal length of the camera lens, unless it's a pan-tilt-zoom camera.</p>
+<p>A camera’s field of view depends on its angle and the focal length of the camera lens, unless it’s a pan-tilt-zoom camera.</p>
 <p>Check out these primers on the field of view of a CCTV camera:</p>
 <p><img src="https://www.lorextechnology.com/images/articles/support/FoV_comparison_60-2.png" width="300"></p>
 <ul>
@@ -50,29 +50,29 @@ practice image rollover
 <li><a href="https://www.supercircuits.com/fov-calculator">Lens field of view calculator</a></li>
 </ul>
 <p>Try it yourself: experiment with <a href="https://www.tour.pitt.edu/webcams/cl_cam">controlling these pan-tilt-zoom cameras in Pittsburgh</a> from your browser.</p>
-<h2 id="wheres-waldo">Where's Waldo?</h2>
+<h2 id="wheres-waldo">Where’s Waldo?</h2>
 <p>Practice spotting the cameras in the below images:</p>
 <p><img src="media/example-1a.png" width="550"> <img src="media/example-1b.png" width="550"></p>
 <p><img src="media/example-2a.png" width="550"> <img src="media/example-2b.png" width="550"></p>
 <h2 id="ways-to-detect-cameras-on-the-network">Ways to detect cameras on the network</h2>
 <p>NOTE: Do not employ any of these methods if they are illegal where you live. Also, needless to say, use these methods to protect yourself and to keep institutional systems accountable, not to surveil other individuals.</p>
 <p>For indoor hidden cameras, try using a <a href="https://www.techlicious.com/tip/the-secrets-to-finding-hidden-cameras/">radio frequency signal detector</a>.</p>
-<p>Cameras are often publicly networked these days, so try <a href="https://www.insecam.org/">Insecam</a> (an online directory of cameras), iSpy, or Shodan. Note that many publicly cameras are also controllable; e.g. iSpy will let you change the angle and zoom of a camera.</p>
+<p>Cameras are often publicly networked these days, so try <a href="https://www.insecam.org/">Insecam</a> (an online directory of cameras), iSpy, or Shodan. Note that many publicly cameras are also controllable; e.g. iSpy will let you change the angle and zoom of a camera.</p>
 <p>You can also run a portscan yourself using IP Scanner or Net Analyzer (from your phone) or your command-line utility of choice. That can turn up any cameras that are connected to your local network.</p>
 <h2 id="taking-good-images-to-use-in-a-machine-learning-model">Taking good images to use in a machine learning model</h2>
-<p>There are three parts to be aware of: the dataset itself (i.e. the pile of images), the labeling of the dataset, and any metadata that might be useful.</p>
+<p>There are three parts to be aware of: the dataset itself (i.e. the pile of images), the labeling of the dataset, and any metadata that might be useful.</p>
 <p>First, we want the dataset to mirror how the model will be deployed in real life. So, we would recommend taking images that are as diverse as possible:</p>
 <ul>
 <li>indoor and outdoor</li>
 <li>from a variety of angles (left to right, top to bottom)</li>
 <li>in many different lighting conditions (morning, afternoon, evening)</li>
-<li>from different distances (close, middle distance, and far away are all helpful--note that if a camera is very close, people are likely to be able to recognize it without the help of an ML model)</li>
-<li>at different locations in your photograph (e.g. at different coordinates and with different rotations)</li>
-<li>at different resolutions (e.g. phone camera vs DSLR)</li>
-<li>including occlusion (i.e. it's okay if part of the surveillance camera is blocked, since we want the model to be robust to that case when deployed)</li>
+<li>from different distances (close, middle distance, and far away are all helpful–note that if a camera is very close, people are likely to be able to recognize it without the help of an ML model)</li>
+<li>at different locations in your photograph (e.g. at different coordinates and with different rotations)</li>
+<li>at different resolutions (e.g. phone camera vs DSLR)</li>
+<li>including occlusion (i.e. it’s okay if part of the surveillance camera is blocked, since we want the model to be robust to that case when deployed)</li>
 <li>if possible, capture as diverse a set of models of cameras as possible, and from different cities</li>
 </ul>
-<p>Second, please label your images consistently. For our model we only include the &quot;head&quot; of the camera, not the &quot;body,&quot; and draw the box as tightly as possible. We also only have one class for all kinds of cameras, which is just called &quot;surveillance-camera&quot; (later we might make more classes). Also, be sure to label <em>all</em> cameras in an image if there are multiple!</p>
+<p>Second, please label your images consistently. For our model we only include the “head” of the camera, not the “body,” and draw the box as tightly as possible. We also only have one class for all kinds of cameras, which is just called “surveillance-camera” (later we might make more classes). Also, be sure to label <em>all</em> cameras in an image if there are multiple!</p>
 <p><img src="media/bbox1.png" width="550"> <img src="media/bbox3.png" width="550"> <img src="media/bbox4.png" width="550"></p>
 <p>You can use software like <a href="https://github.com/microsoft/VoTT">vott</a> to label your cameras with bounding boxes, and export the annotations as JSON or Pascal VOC (either format is fine).</p>
 <p>Lastly, if you can, try to record metadata like camera locations (street intersections or latitude-longitude coordinates) so they can be used for other analysis (such as mapping) later.</p>

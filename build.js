@@ -11,6 +11,8 @@ var path = process.argv[2];
 fs.readdir(path, function(err, items) {
     let md_files = [];
 
+    console.log(err);
+
     // Look for markdown files
     for (var i=0; i<items.length; i++) {
 	let fname = items[i];

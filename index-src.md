@@ -4,7 +4,7 @@
 <link rel="stylesheet" href="styles/page-style.css">
 
 # coveillance.org
-
+# THIS IS A TEST hello
 <!-- * [Watching the watchers: a workshop](http://www.coveillance.org/workshop) -->
 <!-- * [A field guide to spotting surveillance cameras](http://www.coveillance.org/field-guide) -->
 <!-- * [Who's watching you and how?](http://www.coveillance.org/whos-watching) -->
